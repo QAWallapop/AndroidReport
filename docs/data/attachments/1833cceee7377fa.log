@@ -1,0 +1,117 @@
+Executed '[C740] Help: Access and sections' on 21-06-2019
+---------------------------------------------------------------------------------
+06-21 09:14:27.241   770  3452 I ActivityManager: Start proc 7939:com.wallapop/u0a356 for broadcast com.wallapop/com.rewallapop.app.service.realtime.alarm.ArchiveAlarmBroadcastReceiver
+
+06-21 09:14:27.336  7939  7939 W ActivityThread: Application com.wallapop can be debugged on port 8100...
+
+06-21 09:14:40.616   770  1292 I ActivityManager: Start proc 8158:com.android.chrome:sandboxed_process0/u0i2 for webview_service com.wallapop/org.chromium.content.app.SandboxedProcessService0
+
+06-21 09:14:52.852   770  1575 I ActivityManager: Killing 7939:com.wallapop/u0a356 (adj 906): empty #17
+
+06-21 09:15:16.164   770  1575 I ActivityManager: Start proc 8998:com.wallapop/u0a356 for broadcast com.wallapop/com.appboy.AppboyFcmReceiver
+
+06-21 09:15:16.214  8998  8998 W ActivityThread: Application com.wallapop can be debugged on port 8100...
+
+06-21 09:15:22.057   770  3450 I ActivityManager: Start proc 9082:com.android.chrome:sandboxed_process0/u0i3 for webview_service com.wallapop/org.chromium.content.app.SandboxedProcessService0
+
+06-21 09:15:46.181   770  3433 W ActivityManager: Scheduling restart of crashed service com.wallapop/org.chromium.content.app.SandboxedProcessService0 in 1000ms
+
+06-21 09:15:50.275   770  3466 I ActivityManager: Killing 8998:com.wallapop/u0a356 (adj 906): empty #17
+
+06-21 09:23:43.567   770   770 I ActivityManager: Start proc 13327:com.wallapop/u0a356 for service com.wallapop/.clickstream.ClickStreamService
+
+06-21 09:23:43.599 13327 13327 W ActivityThread: Application com.wallapop can be debugged on port 8100...
+
+06-21 09:23:43.944 13327 13348 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+06-21 09:23:48.228   770   780 I ActivityManager: Start proc 13484:com.android.chrome:sandboxed_process0/u0i6 for webview_service com.wallapop/org.chromium.content.app.SandboxedProcessService0
+
+06-21 09:23:49.112 13327 13327 W com.wallapop: type=1400 audit(0.0:188): avc: denied { read } for name="vmstat" dev="proc" ino=4026546034 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+
+06-21 09:24:26.059   770  1509 W ActivityManager: Scheduling restart of crashed service com.wallapop/org.chromium.content.app.SandboxedProcessService0 in 1000ms
+
+06-21 09:24:31.358   770  1573 I ActivityManager: Killing 13327:com.wallapop/u0a356 (adj 906): empty #17
+
+06-21 09:24:37.298   770  1292 I ActivityManager: Force stopping com.wallapop appid=10356 user=0: from pid 14516
+
+06-21 09:24:37.560   770  1292 I ActivityManager: START u0 {flg=0x10000000 cmp=com.wallapop/com.rewallapop.ui.main.MainActivity} from uid 2000
+
+06-21 09:24:37.657   770  3071 I ActivityManager: Start proc 14520:com.wallapop/u0a356 for activity com.wallapop/com.rewallapop.ui.main.MainActivity
+
+06-21 09:24:37.722 14520 14520 W ActivityThread: Application com.wallapop can be debugged on port 8100...
+
+06-21 09:24:38.262 14520 14538 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+06-21 09:24:40.749   770  3450 I ActivityManager: Start proc 14675:com.android.chrome:sandboxed_process0/u0i8 for webview_service com.wallapop/org.chromium.content.app.SandboxedProcessService0
+
+06-21 09:24:41.158 14520 14520 W com.wallapop: type=1400 audit(0.0:192): avc: denied { read } for name="vmstat" dev="proc" ino=4026546034 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+
+06-21 09:24:44.330   770  3450 I ActivityManager: START u0 {cmp=com.wallapop/com.rewallapop.ui.wall.WallActivity (has extras)} from uid 10356
+
+06-21 09:24:48.068   770   781 I ActivityManager: START u0 {cmp=com.wallapop/com.rewallapop.ui.login.OnboardingActivity (has extras)} from uid 10356
+
+06-21 09:24:48.069   770   781 W ActivityManager: startActivity called from finishing ActivityRecord{9ca6cb7 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t5238 f}; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { cmp=com.wallapop/com.rewallapop.ui.login.OnboardingActivity (has extras) }
+
+06-21 09:24:48.190 14099 14376 I Finsky  : [315] ely.b(9): com.wallapop: Account determined from installer data - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:24:48.192 14099 14376 I Finsky  : [315] ely.b(16): com.wallapop: Account from preferred account - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:24:48.368 14099 14110 I Finsky  : [250] ely.b(9): com.wallapop: Account determined from installer data - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:24:48.369 14099 14110 I Finsky  : [250] ely.b(16): com.wallapop: Account from preferred account - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:24:48.578   770   784 W ActivityManager: Activity pause timeout for ActivityRecord{31d9894 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t5238}
+
+06-21 09:24:49.804 14099 14110 I Finsky  : [250] ely.b(9): com.wallapop: Account determined from installer data - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:24:49.804 14099 14110 I Finsky  : [250] ely.b(16): com.wallapop: Account from preferred account - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:24:52.333   770   794 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.login.OnboardingActivity: +3s698ms (total +14s637ms)
+
+06-21 09:24:54.014 14520 14520 W View    : requestLayout() improperly called by com.wallapop.design.view.WallapopTextView{3b131c0 V.ED..... ......ID 47,26-47,81 #7f0a08e4 app:id/wp__home__tv_bubble} during layout: running second layout pass
+
+06-21 09:24:56.909 14520 14520 I chatty  : uid=10356(com.wallapop) identical 1 line
+
+06-21 09:24:57.398 14520 14520 I zygote64: Deoptimizing void com.wallapop.design.view.WallieTypeface.a() due to JIT inline cache
+
+06-21 09:24:57.526 14520 14520 I zygote64: Deoptimizing void com.wallapop.customviews.WallapopCompoundDrawables.a() due to JIT inline cache
+
+06-21 09:24:58.077   432   432 D SurfaceFlinger: duplicate layer name: changing com.wallapop/com.rewallapop.ui.wall.WallActivity to com.wallapop/com.rewallapop.ui.wall.WallActivity#1
+
+06-21 09:24:58.492 14099 14111 I Finsky  : [251] ely.b(9): com.wallapop: Account determined from installer data - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:24:58.493 14099 14111 I Finsky  : [251] ely.b(16): com.wallapop: Account from preferred account - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:24:58.682   432   432 D SurfaceFlinger: duplicate layer name: changing com.wallapop/com.rewallapop.ui.wall.WallActivity to com.wallapop/com.rewallapop.ui.wall.WallActivity#2
+
+06-21 09:24:59.347   770   794 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.wall.WallActivity: +14s725ms
+
+06-21 09:24:59.906 14520 14520 W View    : requestLayout() improperly called by com.wallapop.design.view.WallapopTextView{3b131c0 V.ED..... ......ID 47,26-707,81 #7f0a08e4 app:id/wp__home__tv_bubble} during layout: running second layout pass
+
+06-21 09:24:59.928 14099 14110 I Finsky  : [250] ely.b(9): com.wallapop: Account determined from installer data - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:24:59.928 14099 14110 I Finsky  : [250] ely.b(16): com.wallapop: Account from preferred account - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:25:00.791 14099 15133 I Finsky  : [327] ely.b(9): com.wallapop: Account determined from installer data - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:25:00.792 14099 15133 I Finsky  : [327] ely.b(16): com.wallapop: Account from preferred account - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:25:01.344 14099 14111 I Finsky  : [251] ely.b(9): com.wallapop: Account determined from installer data - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:25:01.348 14099 14111 I Finsky  : [251] ely.b(16): com.wallapop: Account from preferred account - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:25:03.503 14099 14111 I Finsky  : [251] ely.b(9): com.wallapop: Account determined from installer data - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:25:03.504 14099 14111 I Finsky  : [251] ely.b(16): com.wallapop: Account from preferred account - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:25:03.591 14099 14110 I Finsky  : [250] ely.b(9): com.wallapop: Account determined from installer data - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:25:03.592 14099 14110 I Finsky  : [250] ely.b(16): com.wallapop: Account from preferred account - [iyuiBytbk-Sv2FWK0M6qH-HKJNU]
+
+06-21 09:25:07.039 14520 14528 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+06-21 09:25:07.041 14520 14528 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+06-21 09:25:07.056 14520 14528 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+

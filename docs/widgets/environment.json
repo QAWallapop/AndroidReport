@@ -1,0 +1,13 @@
+[ {
+  "values" : [ "Version:1.73.0, Location granted:yes, Notifications granted:yes" ],
+  "name" : "Wallapop_App"
+}, {
+  "values" : [ "Screen size:1080x1920p DPI:420, RAM:2GB, Processors:6 cores (1.4GHz)" ],
+  "name" : "Device_System"
+}, {
+  "values" : [ "Language set:en-GB, Network type:wifi, Location providers:network" ],
+  "name" : "Device_Settings"
+}, {
+  "values" : [ "google Nexus5X, SO:8.1.0 API:27, UDID:00eef0bda8a5b961" ],
+  "name" : "Device_Model"
+} ]
