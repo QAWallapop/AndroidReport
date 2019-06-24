@@ -1,0 +1,13 @@
+[ {
+  "values" : [ "Version:1.76.0, Location granted:yes, Notifications granted:yes" ],
+  "name" : "Wallapop_App"
+}, {
+  "values" : [ "Screen size:720x1280p DPI:320, RAM:2GB, Processors:8 cores (1.1GHz)" ],
+  "name" : "Device_System"
+}, {
+  "values" : [ "Language set:es-ES, Network type:wifi, Location providers:network,gps" ],
+  "name" : "Device_Settings"
+}, {
+  "values" : [ "Huawei ALE-L21, SO:6.0 API:23, UDID:W3D7N16219018904" ],
+  "name" : "Device_Model"
+} ]

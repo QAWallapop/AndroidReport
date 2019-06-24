@@ -1,0 +1,21 @@
+Executed '[C740] Help: Access and sections' on 23-06-2019
+---------------------------------------------------------------------------------
+06-23 11:36:17.580 11722 11722 W View    : requestLayout() improperly called by com.wallapop.design.view.WallapopTextView{916bb03 V.ED..... ......ID 36,20-423,61 #7f0a08d2 app:id/wp__home__tv_bubble} during layout: running second layout pass
+
+06-23 11:36:18.979  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-23 11:36:18.980  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=229  WEBRESENDSEGS=0  WEBRECVSEGS=231  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=340  WEBRTTSEGS=25  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=0]
+
+06-23 11:36:24.015  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-23 11:36:24.544  3140  3159 I ActivityManager: Displayed com.wallapop/.activities.PreferencesActivity: +240ms (total +16s102ms)
+
+06-23 11:36:24.594 11722 11722 W GmsClientEvents: unregisterConnectionFailedListener(): listener GooglePlayServicesHeadlessFragment{76bc586 (cb73cbd8-da54-4669-8a62-c6fb43ec38ba) com.wallapop.fragments.headless.GooglePlayServicesHeadlessFragment} not found
+
+06-23 11:36:24.594 11722 11722 W GmsClientEvents: unregisterConnectionCallbacks(): listener GooglePlayServicesHeadlessFragment{76bc586 (cb73cbd8-da54-4669-8a62-c6fb43ec38ba) com.wallapop.fragments.headless.GooglePlayServicesHeadlessFragment} not found
+
+06-23 11:36:25.079 11624 11660 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80007a0c; boundsInParent: Rect(0, 0 - 720, 1280); boundsInScreen: Rect(0, 0 - 720, 1280); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-23 11:36:25.083 11624 11660 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80007a0c; boundsInParent: Rect(0, 0 - 720, 1280); boundsInScreen: Rect(0, 0 - 720, 1280); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+
