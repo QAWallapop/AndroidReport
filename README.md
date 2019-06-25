@@ -1,6 +1,4 @@
-# WallapopAndroidReport
-
-https://qawallapop.github.io/AndroidReport/
+### Wallapop Android Report (https://qawallapop.github.io/AndroidReport/)
 
 ![image](https://user-images.githubusercontent.com/51409532/60077039-4e064d80-9729-11e9-9635-b1e07e07fd1e.png)
 
