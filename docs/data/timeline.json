@@ -4,48 +4,175 @@
   "children" : [ {
     "name" : "QA-DavidCalvo",
     "children" : [ {
-      "name" : "24228@QA-DavidCalvo.main(1)",
+      "name" : "15120@QA-DavidCalvo.main(1)",
       "children" : [ {
         "name" : "[C740] Help: Access and sections",
-        "uid" : "33ffd131f3be9173",
-        "parentUid" : "692462c8fee38bd65434c653409cc90b",
-        "status" : "failed",
-        "time" : {
-          "start" : 1561282569370,
-          "stop" : 1561282589234,
-          "duration" : 19864
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
-        "uid" : "a26be9369f3cf112",
-        "parentUid" : "692462c8fee38bd65434c653409cc90b",
-        "status" : "broken",
-        "time" : {
-          "start" : 1561282542989,
-          "stop" : 1561282569261,
-          "duration" : 26272
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "[C739] Help: Legal agreements",
-        "uid" : "5947c7e095c0e239",
-        "parentUid" : "692462c8fee38bd65434c653409cc90b",
+        "uid" : "2dcfec389c0974e4",
+        "parentUid" : "0f3b0f031f7e57858cd6abe83994aec2",
         "status" : "passed",
         "time" : {
-          "start" : 1561282589249,
-          "stop" : 1561282615391,
-          "duration" : 26142
+          "start" : 1559231209241,
+          "stop" : 1559231230269,
+          "duration" : 21028
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "692462c8fee38bd65434c653409cc90b"
+      "uid" : "0f3b0f031f7e57858cd6abe83994aec2"
+    }, {
+      "name" : "4216@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "32bfe8ae02c27585",
+        "parentUid" : "011d1e4d88a752dcd11682341f097684",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559230738959,
+          "stop" : 1559230766793,
+          "duration" : 27834
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "011d1e4d88a752dcd11682341f097684"
+    }, {
+      "name" : "16368@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "233b8ad5c544dcf6",
+        "parentUid" : "36682f8b73aaa95021ab9d98ac0555e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559249225501,
+          "stop" : 1559249238098,
+          "duration" : 12597
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "36682f8b73aaa95021ab9d98ac0555e8"
+    }, {
+      "name" : "11600@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "22c802c37ef4b67f",
+        "parentUid" : "e533337cdf08e5c490b9cb8dba2da00f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559229439093,
+          "stop" : 1559229463041,
+          "duration" : 23948
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e533337cdf08e5c490b9cb8dba2da00f"
+    }, {
+      "name" : "8852@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "c1dcc845a7fa1f4d",
+        "parentUid" : "9b4a3b6ce7a6b843b84d4b93b2fd3768",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559251201936,
+          "stop" : 1559251214141,
+          "duration" : 12205
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9b4a3b6ce7a6b843b84d4b93b2fd3768"
+    }, {
+      "name" : "9232@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "1105ce20c9a4f921",
+        "parentUid" : "15a8eb5a4525cdaa30475d48cf7bd06e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559249526123,
+          "stop" : 1559249538021,
+          "duration" : 11898
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "15a8eb5a4525cdaa30475d48cf7bd06e"
+    }, {
+      "name" : "10540@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "296f327fc59318b",
+        "parentUid" : "4643d3c16d09cea9351f4605f4af5f63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559230035704,
+          "stop" : 1559230059562,
+          "duration" : 23858
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4643d3c16d09cea9351f4605f4af5f63"
+    }, {
+      "name" : "5596@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "8551d6cc230a386b",
+        "parentUid" : "9be274d4ac07de2dc268e5bbb2dc6ef0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559231270704,
+          "stop" : 1559231293433,
+          "duration" : 22729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9be274d4ac07de2dc268e5bbb2dc6ef0"
+    }, {
+      "name" : "2060@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "cbd1ab2cfebb046f",
+        "parentUid" : "310f78d2ed93c7c0e821174bd90a95e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559229709827,
+          "stop" : 1559229739977,
+          "duration" : 30150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "310f78d2ed93c7c0e821174bd90a95e4"
+    }, {
+      "name" : "14408@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "73719c2567dbd578",
+        "parentUid" : "48b02f1b84105d4e739b0fe8a1631f15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559229534267,
+          "stop" : 1559229561203,
+          "duration" : 26936
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "48b02f1b84105d4e739b0fe8a1631f15"
     } ],
     "uid" : "706f3b10e492961c2ff0d86cc259212f"
   } ]

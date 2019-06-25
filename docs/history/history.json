@@ -1,5 +1,5 @@
 {
-  "cf0846ac0a86df343dd2e1a234df4ca0" : {
+  "c3f0e3dc840aeb12997e44e47613b583" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -9,52 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5947c7e095c0e239",
+      "uid" : "c1dcc845a7fa1f4d",
       "status" : "passed",
       "time" : {
-        "start" : 1561282589249,
-        "stop" : 1561282615391,
-        "duration" : 26142
-      }
-    } ]
-  },
-  "6abc1adc76916e79531ef6ac924f512f" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "a26be9369f3cf112",
-      "status" : "broken",
-      "statusDetails" : "java.lang.NullPointerException",
-      "time" : {
-        "start" : 1561282542989,
-        "stop" : 1561282569261,
-        "duration" : 26272
-      }
-    } ]
-  },
-  "c3f0e3dc840aeb12997e44e47613b583" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "33ffd131f3be9173",
-      "status" : "failed",
-      "statusDetails" : "",
-      "time" : {
-        "start" : 1561282569370,
-        "stop" : 1561282589234,
-        "duration" : 19864
+        "start" : 1559251201936,
+        "stop" : 1559251214141,
+        "duration" : 12205
       }
     } ]
   }

@@ -1,0 +1,71 @@
+{
+  "uid" : "cbd1ab2cfebb046f",
+  "name" : "[C740] Help: Access and sections",
+  "fullName" : "com.wallapop.functionality.help.behaviour.HelpTest.help_01_goToHelpScreen_isSectionsDisplayed",
+  "historyId" : "c3f0e3dc840aeb12997e44e47613b583",
+  "time" : {
+    "start" : 1559229709827,
+    "stop" : 1559229739977,
+    "duration" : 30150
+  },
+  "description" : "goToHelpScreen",
+  "descriptionHtml" : "<p>goToHelpScreen</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "SmokeTest_Android"
+  }, {
+    "name" : "tag",
+    "value" : "RegressionTest_Android"
+  }, {
+    "name" : "tag",
+    "value" : "Help"
+  }, {
+    "name" : "story",
+    "value" : "Story help test"
+  }, {
+    "name" : "epic",
+    "value" : "Help"
+  }, {
+    "name" : "host",
+    "value" : "QA-DavidCalvo"
+  }, {
+    "name" : "thread",
+    "value" : "2060@QA-DavidCalvo.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "help_01_goToHelpScreen_isSectionsDisplayed"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "Help", "RegressionTest_Android", "SmokeTest_Android" ]
+  },
+  "source" : "cbd1ab2cfebb046f.json",
+  "parameterValues" : [ ]
+}
