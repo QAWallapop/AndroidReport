@@ -1,0 +1,27 @@
+Executed '[C739] Help: Legal agreements' on 23-06-2019
+---------------------------------------------------------------------------------
+06-23 11:36:34.506  3140  3159 I ActivityManager: Displayed com.wallapop/.activities.WebViewActivity: +268ms
+
+06-23 11:36:39.104  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-23 11:36:39.105  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=849  WEBRESENDSEGS=0  WEBRECVSEGS=1092  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=793  WEBRTTSEGS=158  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=0]
+
+06-23 11:36:40.431  3140  3159 I ActivityManager: Displayed com.wallapop/.activities.WebViewActivity: +340ms
+
+06-23 11:36:44.140  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-23 11:36:44.141  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=251  WEBRESENDSEGS=0  WEBRECVSEGS=304  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=412  WEBRTTSEGS=74  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=1]
+
+06-23 11:36:46.317  3140  3159 I ActivityManager: Displayed com.wallapop/.activities.WebViewActivity: +260ms
+
+06-23 11:36:49.167  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-23 11:36:49.167  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=63  WEBRESENDSEGS=0  WEBRECVSEGS=83  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=1  WEBRTTDURATION=154  WEBRTTSEGS=28  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=2]
+
+06-23 11:36:51.630  3140  3159 I ActivityManager: Displayed com.wallapop/.activities.WebViewActivity: +412ms
+
+06-23 11:36:54.195  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-23 11:36:54.196  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=64  WEBRESENDSEGS=0  WEBRECVSEGS=65  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=1  WEBRTTDURATION=209  WEBRTTSEGS=25  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=3]
+
+
