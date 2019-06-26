@@ -1,0 +1,67 @@
+Executed '[C740] Help: Access and sections' on 26-06-2019
+---------------------------------------------------------------------------------
+06-26 02:22:12.514 31741 31801 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+06-26 02:22:14.882 31741 31741 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-26 02:22:14.882 31741 31741 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-26 02:22:24.473  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=62  WEBRESENDSEGS=0  WEBRECVSEGS=56  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=152  WEBRTTSEGS=25  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=0]
+
+06-26 02:22:49.057 32189 32189 I appproc : Command=app_process /system/bin com.android.commands.am.Am start -W -n com.wallapop/com.rewallapop.ui.main.MainActivity -S
+
+06-26 02:22:49.618  4080  4630 W PGApi_client: recv actoionId = 10000, action = com.huawei.pgmng.PGAction@4bc29ab actionId =10000 pkg =com.wallapop extend1 =32486 extend2 = flag =3 type =1
+
+06-26 02:22:49.618  4080  4630 W PGMiddleWare: in handleAction, invoke client = com.huawei.pgmng.middleware.AudioEffectLowPowerImpl@98189ad, action = com.huawei.pgmng.PGAction@4bc29ab actionId =10000 pkg =com.wallapop extend1 =32486 extend2 = flag =3 type =1
+
+06-26 02:22:49.898 32200 32264 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+06-26 02:22:51.299 32200 32200 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-26 02:22:51.299 32200 32200 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-26 02:22:57.361  8848  9045 I Finsky  : [3860] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:57.362  8848  9045 I Finsky  : [3860] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:57.385  8848  8860 I Finsky  : [3786] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:57.387  8848  8860 I Finsky  : [3786] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:58.284 32200 32315 E linker  : warning: unable to get realpath for the library "/data/data/com.wallapop/cache/1548865591327.dex". Will use given name.
+
+06-26 02:22:58.441  8848  8860 I Finsky  : [3786] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:58.442  8848  8860 I Finsky  : [3786] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:58.712  8848  9044 I Finsky  : [3859] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:58.713  8848  9044 I Finsky  : [3859] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:58.758  8848  8861 I Finsky  : [3787] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:58.759  8848  8861 I Finsky  : [3787] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:58.802  8848  9045 I Finsky  : [3860] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:58.802  8848  9045 I Finsky  : [3860] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:58.875  3140  3159 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.wall.WallActivity: +2s978ms (total +1m52s262ms)
+
+06-26 02:22:59.066  8848  8860 I Finsky  : [3786] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:59.067  8848  8860 I Finsky  : [3786] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:59.428  8848  9044 I Finsky  : [3859] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:59.429  8848  9044 I Finsky  : [3859] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:59.530  8848  8861 I Finsky  : [3787] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:59.530  8848  8861 I Finsky  : [3787] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 02:22:59.717  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=201  WEBRESENDSEGS=0  WEBRECVSEGS=170  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=555  WEBRTTSEGS=69  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=0]
+
+06-26 02:23:00.918 32200 32200 W View    : requestLayout() improperly called by com.wallapop.design.view.WallapopTextView{a21258b V.ED..... ......ID 36,20-36,61 #7f0a08d2 app:id/wp__home__tv_bubble} during layout: running second layout pass
+
+

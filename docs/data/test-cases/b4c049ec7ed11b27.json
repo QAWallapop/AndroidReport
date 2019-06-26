@@ -1,0 +1,96 @@
+{
+  "uid" : "b4c049ec7ed11b27",
+  "name" : "[C740] Help: Access and sections",
+  "fullName" : "com.wallapop.functionality.help.behaviour.HelpTest.help_01_goToHelpScreen_isSectionsDisplayed",
+  "historyId" : "c3f0e3dc840aeb12997e44e47613b583",
+  "time" : {
+    "start" : 1561508579366,
+    "stop" : 1561508584257,
+    "duration" : 4891
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "90e53fa714e63be",
+      "name" : "Logcat",
+      "source" : "90e53fa714e63be.log",
+      "type" : "text/plain",
+      "size" : 5305
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "SmokeTest_Android"
+  }, {
+    "name" : "tag",
+    "value" : "RegressionTest_Android"
+  }, {
+    "name" : "feature",
+    "value" : "Help"
+  }, {
+    "name" : "story",
+    "value" : "Help information and actions"
+  }, {
+    "name" : "epic",
+    "value" : "RegressionTest_Android"
+  }, {
+    "name" : "host",
+    "value" : "QA-DavidCalvo"
+  }, {
+    "name" : "thread",
+    "value" : "16300@QA-DavidCalvo.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "help_01_goToHelpScreen_isSectionsDisplayed"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Tests passed",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "tags" : [ "RegressionTest_Android", "SmokeTest_Android" ]
+  },
+  "source" : "b4c049ec7ed11b27.json",
+  "parameterValues" : [ ]
+}
