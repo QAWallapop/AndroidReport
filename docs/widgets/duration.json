@@ -1,0 +1,31 @@
+[ {
+  "uid" : "12c6946415d5e5d7",
+  "name" : "[C740] Help: Access and sections",
+  "time" : {
+    "start" : 1561558492271,
+    "stop" : 1561558508564,
+    "duration" : 16293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3042a1c996903bf9",
+  "name" : "[C739] Help: Legal agreements",
+  "time" : {
+    "start" : 1561558508593,
+    "stop" : 1561558531246,
+    "duration" : 22653
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc9aa65cd6210bba",
+  "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
+  "time" : {
+    "start" : 1561558459285,
+    "stop" : 1561558492134,
+    "duration" : 32849
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

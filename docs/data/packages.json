@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.wallapop.functionality.help.behaviour.HelpTest",
+    "children" : [ {
+      "name" : "help_03_contactSupport_sendMessage",
+      "uid" : "dc9aa65cd6210bba",
+      "parentUid" : "e32275bb80ed70da407537b6feecf13d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561558459285,
+        "stop" : 1561558492134,
+        "duration" : 32849
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "help_01_goToHelpScreen_isSectionsDisplayed",
+      "uid" : "12c6946415d5e5d7",
+      "parentUid" : "e32275bb80ed70da407537b6feecf13d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561558492271,
+        "stop" : 1561558508564,
+        "duration" : 16293
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "help_02_goToHelpLegalAgreementsScreen_isLegalAgreementsDisplayed",
+      "uid" : "3042a1c996903bf9",
+      "parentUid" : "e32275bb80ed70da407537b6feecf13d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561558508593,
+        "stop" : 1561558531246,
+        "duration" : 22653
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  } ]
+}
