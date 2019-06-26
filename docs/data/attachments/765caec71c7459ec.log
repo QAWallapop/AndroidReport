@@ -1,0 +1,271 @@
+Executed '[C740] Help: Access and sections' on 26-06-2019
+---------------------------------------------------------------------------------
+06-26 16:02:22.008  9071  9071 V ActivityThread: updateVisibility : ActivityRecord{3c9434e token=android.os.BinderProxy@94f979a {com.wallapop/com.rewallapop.ui.wall.WallActivity}} show : true
+
+06-26 16:02:22.038   874  5340 I AppOps  : sendInfoToFLP, code=41 , uid=10265 , packageName=com.wallapop , type=finishOp
+
+06-26 16:02:22.038   874  1723 V AlarmManager:  remove PendingIntent] PendingIntent{155bb0a: PendingIntentRecord{4c3f453 com.wallapop broadcastIntent}}
+
+06-26 16:02:23.818   874  2020 I ActivityManager: Force stopping com.wallapop appid=10265 user=0: from pid 9568
+
+06-26 16:02:23.818   874  2020 I ActivityManager: Killing 9071:com.wallapop/u0a265 (adj 2): stop com.wallapop cause from pid 9568
+
+06-26 16:02:23.828   874  2020 D ActivityManager: isAutoRunBlockedApp:: com.wallapop, Auto Run ON
+
+06-26 16:02:23.828   874  2020 I ActivityManager: isWidgetUsingPkg : com.wallapop no widget is using.
+
+06-26 16:02:23.858  9591  9591 W SELinux : SELinux: seapp_context_lookup: seinfo=default, level=s0:c512,c768, pkgname=com.wallapop
+
+06-26 16:02:23.858   874  2020 I ActivityManager: Start proc 9591:com.wallapop/u0a265 for activity com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+06-26 16:02:23.858   874   874 D MARsPolicyManager: NotificationListenerService OngoingNotificationRemoved : com.wallapop
+
+06-26 16:02:23.858   874  2020 I ActivityManager:   Force finishing activity ActivityRecord{3674db8 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t803}
+
+06-26 16:02:23.928   874   874 V AlarmManager: Remove alarm for next reason : android.intent.action.PACKAGE_RESTARTED : package: com.wallapop
+
+06-26 16:02:23.948 25967 25967 I ClearDataReceiver: [#DCM#] Intent Data: package:com.wallapop
+
+06-26 16:02:23.968  9591  9591 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:24.158  9591  9619 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:24.168  9591  9619 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+06-26 16:02:24.168   874  3012 V AlarmManager:  remove PendingIntent] PendingIntent{ce069ed: PendingIntentRecord{6218022 com.wallapop broadcastIntent}}
+
+06-26 16:02:24.178  9591  9591 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:24.178  9591  9591 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:24.178  9591  9627 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:24.178  9591  9621 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:24.188  9591  9591 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:24.578  9591  9591 W System.err: mkdir failed: EEXIST (File exists) : /data/user/0/com.wallapop/cache/okhttp
+
+06-26 16:02:25.658  9591  9656 I stetho  : Listening on @stetho_com.wallapop_devtools_remote
+
+06-26 16:02:25.678  9591  9591 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-26 16:02:25.678  9591  9591 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-26 16:02:25.808  9591  9591 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:25.898  9591  9591 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:25.928  9591  9591 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:25.938  9591  9658 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/files/tfidf.db
+
+06-26 16:02:25.948  9591  9658 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/databases/__hs__db_error_reports
+
+06-26 16:02:25.948  9591  9658 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/databases/__hs__db_error_reports-journal
+
+06-26 16:02:25.948  9591  9658 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/databases/__hs__db_error_reports-shm
+
+06-26 16:02:25.948  9591  9658 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/databases/__hs__db_error_reports-wal
+
+06-26 16:02:25.948  9591  9591 W ResourcesManager: getTopLevelResources: /data/data/com.google.android.gms/app_chimera/m/00000034/dl-AdsFdrDynamite.integ_20290000008.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:25.958  9591  9591 W ResourcesManager: getTopLevelResources: /data/data/com.google.android.gms/app_chimera/m/00000034/dl-AdsFdrDynamite.integ_20290000008.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:26.018  9591  9591 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:26.078  9591  9591 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.webview-2/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:02:28.878   874   894 V AlarmManager:  remove PendingIntent] PendingIntent{1c82c8c: PendingIntentRecord{4c3f453 com.wallapop broadcastIntent}}
+
+06-26 16:02:28.938  9591  9713 W System.err: mkdir failed: EEXIST (File exists) : /data/user/0/com.wallapop/cache/WebView/Crash Reports
+
+06-26 16:02:43.888  9591  9629 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/files/AppEventsLogger.persistedevents
+
+06-26 16:06:49.478   874  5340 I ActivityManager: Force stopping com.wallapop appid=10265 user=0: from pid 10401
+
+06-26 16:06:49.478   874  5340 I ActivityManager: Killing 9591:com.wallapop/u0a265 (adj 15): stop com.wallapop cause from pid 10401
+
+06-26 16:06:49.478   874  5340 D ActivityManager: isAutoRunBlockedApp:: com.wallapop, Auto Run ON
+
+06-26 16:06:49.508   874   874 V AlarmManager: Remove alarm for next reason : android.intent.action.PACKAGE_RESTARTED : package: com.wallapop
+
+06-26 16:06:49.538 25967 25967 I ClearDataReceiver: [#DCM#] Intent Data: package:com.wallapop
+
+06-26 16:06:49.748   874  5340 V WindowManager: addAppToken: AppWindowToken{5eac82a token=Token{a312d15 ActivityRecord{6db6cc u0 com.wallapop/com.rewallapop.ui.main.MainActivity t804}}} to stack=1 task=804 at 0
+
+06-26 16:06:49.768   874  1132 D ISSUE_DEBUG: InputChannelName : 182f4ce Starting com.wallapop
+
+06-26 16:06:49.768   874  1220 I ActivityManager: Start proc 10421:com.wallapop/u0a265 for activity com.wallapop/com.rewallapop.ui.main.MainActivity
+
+06-26 16:06:49.778 10421 10421 W SELinux : SELinux: seapp_context_lookup: seinfo=default, level=s0:c512,c768, pkgname=com.wallapop
+
+06-26 16:06:49.808   874  1132 V WindowStateAnimator: Finishing drawing window Window{182f4ce u0 d0 Starting com.wallapop}: mDrawState=DRAW_PENDING
+
+06-26 16:06:49.818   874  2020 D ActivityManager:  Launching com.wallapop, updated priority
+
+06-26 16:06:49.838   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+06-26 16:06:49.838   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{182f4ce u0 d0 Starting com.wallapop}
+
+06-26 16:06:49.848 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:49.998 10421 10437 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:50.018 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:50.028 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:50.028 10421 10439 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:50.028 10421 10445 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:50.028 10421 10447 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/files/AppEventsLogger.persistedevents
+
+06-26 16:06:50.038 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:50.038 10421 10437 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+06-26 16:06:50.038 10421 10447 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:50.058   874  1661 V AlarmManager:  remove PendingIntent] PendingIntent{a14cfa6: PendingIntentRecord{2852de7 com.wallapop broadcastIntent}}
+
+06-26 16:06:50.388 10421 10421 W System.err: mkdir failed: EEXIST (File exists) : /data/user/0/com.wallapop/cache/okhttp
+
+06-26 16:06:51.418 10421 10478 I stetho  : Listening on @stetho_com.wallapop_devtools_remote
+
+06-26 16:06:51.438 10421 10421 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-26 16:06:51.438 10421 10421 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-26 16:06:51.548 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:51.638 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:51.648 10421 10421 W ResourcesManager: getTopLevelResources: /data/data/com.google.android.gms/app_chimera/m/00000034/dl-AdsFdrDynamite.integ_20290000008.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:51.658 10421 10421 W ResourcesManager: getTopLevelResources: /data/data/com.google.android.gms/app_chimera/m/00000034/dl-AdsFdrDynamite.integ_20290000008.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:51.658 10421 10480 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/files/tfidf.db
+
+06-26 16:06:51.668 10421 10480 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/databases/__hs__db_error_reports
+
+06-26 16:06:51.668 10421 10480 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/databases/__hs__db_error_reports-journal
+
+06-26 16:06:51.668 10421 10480 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/databases/__hs__db_error_reports-shm
+
+06-26 16:06:51.678 10421 10480 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/databases/__hs__db_error_reports-wal
+
+06-26 16:06:51.768 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.webview-2/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:54.378 10421 10594 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:54.448 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:54.468 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:54.468   874  1723 V AlarmManager:  remove PendingIntent] PendingIntent{38a80f3: PendingIntentRecord{43521b0 com.wallapop broadcastIntent}}
+
+06-26 16:06:54.708   874  1661 V AlarmManager:  remove PendingIntent] PendingIntent{56c56e0: PendingIntentRecord{2d96d99 com.wallapop broadcastIntent}}
+
+06-26 16:06:54.828 10421 10421 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/cache/okhttp/journal.tmp
+
+06-26 16:06:54.848 10421 10421 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:12612877
+
+06-26 16:06:54.868   874  1913 V WindowManager: addAppToken: AppWindowToken{f2221f8 token=Token{655b55b ActivityRecord{285bc6a u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t804}}} to stack=1 task=804 at 1
+
+06-26 16:06:54.868   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{182f4ce u0 d0 Starting com.wallapop}
+
+06-26 16:06:54.958 10421 10463 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:55.018   874  1027 D ApplicationPolicy: isStatusBarNotificationAllowedAsUser: packageName = com.wallapop,userId = 0
+
+06-26 16:06:55.028   874   874 D MARsPolicyManager: NotificationListenerService OngoingNotificationPosted : com.wallapop
+
+06-26 16:06:55.038   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+06-26 16:06:55.038  1391  1391 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.android.systemui rsrc of package null
+
+06-26 16:06:55.058  1391  1391 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.android.systemui rsrc of package null
+
+06-26 16:06:55.078  1391  1391 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.android.systemui rsrc of package null
+
+06-26 16:06:55.088  1391  1391 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.android.systemui rsrc of package null
+
+06-26 16:06:55.098 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:55.118 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:55.138 10421 10530 W System.err: mkdir failed: EEXIST (File exists) : /data/user/0/com.wallapop/cache/WebView/Crash Reports
+
+06-26 16:06:55.218   874  1714 V AlarmManager:  remove PendingIntent] PendingIntent{7526f0d: PendingIntentRecord{2d96d99 com.wallapop broadcastIntent}}
+
+06-26 16:06:55.648 10421 10447 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/files/AppEventsLogger.persistedevents
+
+06-26 16:06:55.698   874   894 D ISSUE_DEBUG: InputChannelName : 553b7ca com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+06-26 16:06:55.758 10421 10689 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:55.838 21819 24783 I Finsky  : [2763] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:55.838 21819 24783 I Finsky  : [2763] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:55.838 21819 24782 I Finsky  : [2762] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:55.838 21819 24782 I Finsky  : [2762] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.078   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{553b7ca u0 d0 com.wallapop/com.rewallapop.ui.wall.WallActivity}
+
+06-26 16:06:56.268 21819 24783 I Finsky  : [2763] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.268 21819 24783 I Finsky  : [2763] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.288 21819 21829 I Finsky  : [2684] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.298 21819 21829 I Finsky  : [2684] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.308 21819 24782 I Finsky  : [2762] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.308 21819 24782 I Finsky  : [2762] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.328 10421 10689 D Amazon DTB Ads API: with json params:[{"adsdk":"aps-android-7.4.3","gdpr":{"e":"1","c":"BAAAAAAOa0ob7AcABBENBtAAAAAh6AAA"},"oo":"false","mraid":["1.0","2.0","3.0"],"ua":"Dalvik\/2.1.0 (Linux; U; Android 6.0.1; SM-G900F Build\/MMB29M)","geoloc":"41.4058945,2.1864856,20.0","idfa":"1e214c05-ac1e-4c82-ae75-fb207f9c9c8a","appId":"d2ba46e2d5ef4c9883051d9c8d0125d5","ad-id":"A-6j1GeULkCtsqbiEmqTO1M","slots":[{"sz":"320x50","slot":"f414d83c-ab9f-4e02-9c59-5137663ee6c7","slotId":1,"supportedMediaTypes":["DISPLAY"]}],"dinfo":{"os":"Android","model":"SM-G900F","make":"samsung","osVersion":"6.0.1","connectionType":"Wifi","country":"ES","scalingFactor":"3.0","carrier":"JAZZTEL","language":"es","screenSize":"1080x1920","orientation":"portrait"},"pkg":{"lbl":"_Wallapop_","pn":"com.wallapop","v":"1760000","vn":"1.76.0-d1906251551"},"isDTBMobile":"true"}]
+
+06-26 16:06:56.328 21819 21830 I Finsky  : [2685] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.328 21819 21830 I Finsky  : [2685] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.388   874  1722 V WindowStateAnimator: Finishing drawing window Window{553b7ca u0 d0 com.wallapop/com.rewallapop.ui.wall.WallActivity}: mDrawState=DRAW_PENDING
+
+06-26 16:06:56.398   874  1132 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.wall.WallActivity: +1s374ms (total +4m32s566ms)
+
+06-26 16:06:56.398   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{285bc6a u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t804} time:12614429
+
+06-26 16:06:56.458   874  1220 V WindowStateAnimator: Finishing drawing window Window{553b7ca u0 d0 com.wallapop/com.rewallapop.ui.wall.WallActivity}: mDrawState=HAS_DRAWN
+
+06-26 16:06:56.478 21819 24783 I Finsky  : [2763] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.478 21819 24783 I Finsky  : [2763] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.478   874   894 I AppOps  : sendInfoToFLP, code=41 , uid=10265 , packageName=com.wallapop , type=startOp
+
+06-26 16:06:56.528 21819 21829 I Finsky  : [2684] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.528 21819 21829 I Finsky  : [2684] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.528 21819 24782 I Finsky  : [2762] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.528 21819 24782 I Finsky  : [2762] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-26 16:06:56.678 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:57.368 10421 10421 W View    : requestLayout() improperly called by com.wallapop.design.view.WallapopTextView{9bc2a90 V.ED..... ......ID 54,30-54,92 #7f0a08d7 app:id/wp__home__tv_bubble} during layout: running second layout pass
+
+06-26 16:06:57.488 10421 10421 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:57.668 10421 10766 W ResourcesManager: getTopLevelResources: /data/data/com.google.android.gms/app_chimera/m/00000034/dl-AdsFdrDynamite.integ_20290000008.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:57.898 10421 10534 W ResourcesManager: getTopLevelResources: /data/app/com.google.android.gms-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+06-26 16:06:58.538 10421 10447 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/files/AppEventsLogger.persistedevents
+
+
