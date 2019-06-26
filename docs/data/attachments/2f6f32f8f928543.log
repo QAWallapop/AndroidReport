@@ -1,0 +1,19 @@
+Executed '[C740] Help: Access and sections' on 26-06-2019
+---------------------------------------------------------------------------------
+06-26 02:25:50.644   962   962 I appproc : Command=app_process /system/bin com.android.commands.am.Am start -W -n com.wallapop/com.rewallapop.ui.main.MainActivity -S
+
+06-26 02:25:51.265  4080  4630 W PGApi_client: recv actoionId = 10000, action = com.huawei.pgmng.PGAction@391b587 actionId =10000 pkg =com.wallapop extend1 =32486 extend2 = flag =3 type =1
+
+06-26 02:25:51.265  4080  4630 W PGMiddleWare: in handleAction, invoke client = com.huawei.pgmng.middleware.AudioEffectLowPowerImpl@98189ad, action = com.huawei.pgmng.PGAction@391b587 actionId =10000 pkg =com.wallapop extend1 =32486 extend2 = flag =3 type =1
+
+06-26 02:25:51.636   972  1039 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+06-26 02:25:53.234   972   972 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-26 02:25:53.234   972   972 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-26 02:25:59.841  3140  3159 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.wall.WallActivity: +2s97ms (total +2m19s965ms)
+
+06-26 02:26:01.240  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=117  WEBRESENDSEGS=0  WEBRECVSEGS=101  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=401  WEBRTTSEGS=42  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=0]
+
+
