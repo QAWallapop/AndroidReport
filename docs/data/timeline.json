@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "QA-DavidCalvo",
+    "children" : [ {
+      "name" : "7704@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "4260750f8714f57d",
+        "parentUid" : "718f43e15928a7fba846f657bb0c1055",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561553296254,
+          "stop" : 1561553312532,
+          "duration" : 16278
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "718f43e15928a7fba846f657bb0c1055"
+    } ],
+    "uid" : "706f3b10e492961c2ff0d86cc259212f"
+  } ]
+}
