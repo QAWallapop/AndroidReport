@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "QA-DavidCalvo",
+    "children" : [ {
+      "name" : "11064@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
+        "uid" : "3c25a340d5b58836",
+        "parentUid" : "44896b1d657a77f22cc304f128f792bf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1561929692228,
+          "stop" : 1561929730005,
+          "duration" : 37777
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C739] Help: Legal agreements",
+        "uid" : "18a81155a2315c13",
+        "parentUid" : "44896b1d657a77f22cc304f128f792bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561929762953,
+          "stop" : 1561929800018,
+          "duration" : 37065
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "1ca37aad90c0f275",
+        "parentUid" : "44896b1d657a77f22cc304f128f792bf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1561929730398,
+          "stop" : 1561929762861,
+          "duration" : 32463
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "44896b1d657a77f22cc304f128f792bf"
+    } ],
+    "uid" : "706f3b10e492961c2ff0d86cc259212f"
+  } ]
+}

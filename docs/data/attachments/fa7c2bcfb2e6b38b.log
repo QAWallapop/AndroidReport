@@ -1,0 +1,137 @@
+Executed '[C754] Contact us: Open a Helpshift ticket from the FAQs' on 30-06-2019
+---------------------------------------------------------------------------------
+06-30 23:21:11.687 18412 18412 I appproc : Command=app_process /system/bin com.android.commands.am.Am start -W -n com.wallapop/com.rewallapop.ui.main.MainActivity -S
+
+06-30 23:21:12.293  4080  4630 W PGApi_client: recv actoionId = 10000, action = com.huawei.pgmng.PGAction@b52fccb actionId =10000 pkg =com.wallapop extend1 =48292 extend2 = flag =3 type =1
+
+06-30 23:21:12.293  4080  4630 W PGMiddleWare: in handleAction, invoke client = com.huawei.pgmng.middleware.AudioEffectLowPowerImpl@98189ad, action = com.huawei.pgmng.PGAction@b52fccb actionId =10000 pkg =com.wallapop extend1 =48292 extend2 = flag =3 type =1
+
+06-30 23:21:12.967 18422 18474 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+06-30 23:21:15.406 18422 18422 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-30 23:21:15.407 18422 18422 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+06-30 23:21:17.040 18422 18422 E chromium: [ERROR:filesystem_posix.cc(89)] stat /data/user/0/com.wallapop/cache/WebView/Crashpad: No such file or directory (2)
+
+06-30 23:21:17.040 18422 18422 E chromium: [ERROR:filesystem_posix.cc(62)] mkdir /data/user/0/com.wallapop/cache/WebView/Crashpad: No such file or directory (2)
+
+06-30 23:21:20.798  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-30 23:21:20.801  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=76  WEBRESENDSEGS=0  WEBRECVSEGS=105  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=111  WEBRTTSEGS=14  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=0]
+
+06-30 23:21:25.829  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-30 23:21:25.829  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=130  WEBRESENDSEGS=1  WEBRECVSEGS=106  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=399  WEBRTTSEGS=48  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=1]
+
+06-30 23:21:28.525 18845 18845 I dex2oat : /system/bin/dex2oat --dex-file=/data/user/0/com.wallapop/cache/1548865591327.jar --oat-file=/data/user/0/com.wallapop/cache/1548865591327.dex
+
+06-30 23:21:28.863 18688 18708 I Finsky  : [4799] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:28.864 18688 18708 I Finsky  : [4799] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:28.990  3140  3159 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.wall.WallActivity: +6s667ms (total +16s784ms)
+
+06-30 23:21:29.322 18688 18707 I Finsky  : [4798] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:29.323 18688 18707 I Finsky  : [4798] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:29.717 18688 18708 I Finsky  : [4799] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:29.718 18688 18708 I Finsky  : [4799] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:30.268 18422 18533 E linker  : warning: unable to get realpath for the library "/data/data/com.wallapop/cache/1548865591327.dex". Will use given name.
+
+06-30 23:21:30.859  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-30 23:21:30.860  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=117  WEBRESENDSEGS=0  WEBRECVSEGS=128  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=179  WEBRTTSEGS=30  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=2]
+
+06-30 23:21:31.825 18688 18707 I Finsky  : [4798] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:31.826 18688 18707 I Finsky  : [4798] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:32.011 18688 18708 I Finsky  : [4799] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:32.011 18688 18708 I Finsky  : [4799] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:32.152 18688 18707 I Finsky  : [4798] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:32.152 18688 18707 I Finsky  : [4798] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:32.981 18422 18422 W View    : requestLayout() improperly called by com.wallapop.design.view.WallapopTextView{ce4c726 V.ED..... ......ID 36,20-36,61 #7f0a08d2 app:id/wp__home__tv_bubble} during layout: running second layout pass
+
+06-30 23:21:34.155 18688 18919 I Finsky  : [4871] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:34.156 18688 18919 I Finsky  : [4871] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:35.367 18688 18919 I Finsky  : [4871] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:35.367 18688 18919 I Finsky  : [4871] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:35.384 18688 18708 I Finsky  : [4799] eth.b(2): com.wallapop: Account determined from installer data - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:35.384 18688 18708 I Finsky  : [4799] eth.b(9): com.wallapop: Account from preferred account - [E7ZhE6RtwBr6ZrivWaTWep8klQM]
+
+06-30 23:21:35.889  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-30 23:21:35.891  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=362  WEBRESENDSEGS=0  WEBRECVSEGS=369  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=199  WEBRTTSEGS=37  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=3]
+
+06-30 23:21:40.931  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-30 23:21:40.931  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=37  WEBRESENDSEGS=0  WEBRECVSEGS=39  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=159  WEBRTTSEGS=19  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=4]
+
+06-30 23:21:43.740 18422 18430 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+06-30 23:21:45.968  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-30 23:21:45.969  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=365  WEBRESENDSEGS=0  WEBRECVSEGS=724  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=263  WEBRTTSEGS=55  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=5]
+
+06-30 23:21:46.708 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@8000e605; boundsInParent: Rect(0, 0 - 720, 114); boundsInScreen: Rect(0, 48 - 720, 162); packageName: com.wallapop; className: android.widget.LinearLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: com.wallapop:id/appBarLayout; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.710 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@800183af; boundsInParent: Rect(0, 0 - 720, 166); boundsInScreen: Rect(0, 202 - 720, 368); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.711 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80020351; boundsInParent: Rect(0, 0 - 280, 404); boundsInScreen: Rect(15, 480 - 295, 884); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.712 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@8002251a; boundsInParent: Rect(0, 0 - 280, 280); boundsInScreen: Rect(309, 480 - 589, 760); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.713 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80022159; boundsInParent: Rect(0, 0 - 280, 404); boundsInScreen: Rect(309, 480 - 589, 884); packageName: com.wallapop; className: android.widget.LinearLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.715 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80009af1; boundsInParent: Rect(0, 0 - 336, 468); boundsInScreen: Rect(16, 1014 - 352, 1208); packageName: com.wallapop; className: android.view.ViewGroup; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: com.wallapop:id/root; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_FOCUS - null, AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.719 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@8000a273; boundsInParent: Rect(0, 0 - 336, 525); boundsInScreen: Rect(368, 1014 - 704, 1208); packageName: com.wallapop; className: android.view.ViewGroup; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: com.wallapop:id/root; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_FOCUS - null, AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.723 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@8000f148; boundsInParent: Rect(0, 0 - 439, 178); boundsInScreen: Rect(141, 1030 - 580, 1208); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: com.wallapop:id/fab_container; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.724 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80007ce9; boundsInParent: Rect(0, 0 - 720, 1280); boundsInScreen: Rect(0, 0 - 720, 1280); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.726 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@8000e605; boundsInParent: Rect(0, 0 - 720, 114); boundsInScreen: Rect(0, 48 - 720, 162); packageName: com.wallapop; className: android.widget.LinearLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: com.wallapop:id/appBarLayout; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.729 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@800183af; boundsInParent: Rect(0, 0 - 720, 166); boundsInScreen: Rect(0, 202 - 720, 368); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.730 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80020351; boundsInParent: Rect(0, 0 - 280, 404); boundsInScreen: Rect(15, 480 - 295, 884); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.731 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@8002251a; boundsInParent: Rect(0, 0 - 280, 280); boundsInScreen: Rect(309, 480 - 589, 760); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.733 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80022159; boundsInParent: Rect(0, 0 - 280, 404); boundsInScreen: Rect(309, 480 - 589, 884); packageName: com.wallapop; className: android.widget.LinearLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.735 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80009af1; boundsInParent: Rect(0, 0 - 336, 468); boundsInScreen: Rect(16, 1014 - 352, 1208); packageName: com.wallapop; className: android.view.ViewGroup; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: com.wallapop:id/root; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_FOCUS - null, AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.740 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@8000a273; boundsInParent: Rect(0, 0 - 336, 525); boundsInScreen: Rect(368, 1014 - 704, 1208); packageName: com.wallapop; className: android.view.ViewGroup; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: com.wallapop:id/root; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_FOCUS - null, AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.746 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@8000f148; boundsInParent: Rect(0, 0 - 439, 178); boundsInScreen: Rect(141, 1030 - 580, 1208); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: com.wallapop:id/fab_container; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.747 18365 18921 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80007ce9; boundsInParent: Rect(0, 0 - 720, 1280); boundsInScreen: Rect(0, 0 - 720, 1280); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+06-30 23:21:46.899  3140  3159 I ActivityManager: Displayed com.wallapop/.activities.PreferencesActivity: +1s520ms
+
+06-30 23:21:50.232  3140  3159 I ActivityManager: Displayed com.wallapop/com.helpshift.support.activities.ParentActivity: +1s102ms
+
+06-30 23:21:50.986  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-30 23:21:50.987  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=49  WEBRESENDSEGS=0  WEBRECVSEGS=40  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=209  WEBRTTSEGS=19  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=6]
+
+06-30 23:21:56.020  3140  3476 E HwCHRWebMonitor: running processNamecom.wallapop
+
+06-30 23:21:56.021  3140  3476 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10181  WEBSENDSEGS=9  WEBRESENDSEGS=0  WEBRECVSEGS=7  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=35  WEBRTTSEGS=5  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=7]
+
+
