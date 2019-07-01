@@ -5,6 +5,3 @@
 ![Allure2](https://user-images.githubusercontent.com/17761949/60404131-f8f18e00-9ba5-11e9-93a1-cf5dc911309a.jpg)
 
 ![Allure3](https://user-images.githubusercontent.com/17761949/60404132-fabb5180-9ba5-11e9-96f1-2194a3ff58cb.jpg)
-
-
-                                                                                                  Wallapop S.L.
