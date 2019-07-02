@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "ip-192-168-11-147.eu-west-1.compute.internal",
+    "children" : [ {
+      "name" : "51498@ip-192-168-11-147.eu-west-1.compute.internal.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "46242faf4f45991c",
+        "parentUid" : "d32002d6fe5dc0f72ffed917a816bd0b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562073712509,
+          "stop" : 1562073712865,
+          "duration" : 356
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d32002d6fe5dc0f72ffed917a816bd0b"
+    }, {
+      "name" : "52394@ip-192-168-11-147.eu-west-1.compute.internal.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "4cc861fc719653ed",
+        "parentUid" : "5670fdcc80da69fd5549230ae60f53a9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562078422539,
+          "stop" : 1562078426213,
+          "duration" : 3674
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5670fdcc80da69fd5549230ae60f53a9"
+    }, {
+      "name" : "52317@ip-192-168-11-147.eu-west-1.compute.internal.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "f77117851553ea4b",
+        "parentUid" : "c3004658baaf138907410666ad2d462d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562077220712,
+          "stop" : 1562077221073,
+          "duration" : 361
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c3004658baaf138907410666ad2d462d"
+    }, {
+      "name" : "52359@ip-192-168-11-147.eu-west-1.compute.internal.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "520718e762bd1602",
+        "parentUid" : "6e11be35b71e1c99d21e0de80a00ad3d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562078069833,
+          "stop" : 1562078070165,
+          "duration" : 332
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6e11be35b71e1c99d21e0de80a00ad3d"
+    } ],
+    "uid" : "a257bc141cc44249cf59422d894b3eaf"
+  } ]
+}
