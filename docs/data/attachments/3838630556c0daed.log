@@ -1,0 +1,61 @@
+Executed '[C740] Help: Access and sections' on 02-07-2019
+---------------------------------------------------------------------------------
+07-02 16:51:35.954   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-02 16:51:35.984   874  1220 V AlarmManager:  remove PendingIntent] PendingIntent{d903d82: PendingIntentRecord{e26fee9 com.wallapop broadcastIntent}}
+
+07-02 16:51:35.994   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{b940ba u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}
+
+07-02 16:51:36.054   874   892 V WindowStateAnimator: Finishing drawing window Window{b940ba u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}: mDrawState=DRAW_PENDING
+
+07-02 16:51:36.064   874  1132 I ActivityManager: Displayed com.wallapop/.activities.PreferencesActivity: +120ms (total +17s631ms)
+
+07-02 16:51:36.314   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{9022d7b u0 com.wallapop/.activities.PreferencesActivity t857} time:44981138
+
+07-02 16:51:37.114   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-02 16:51:37.174   874  1661 V AlarmManager:  remove PendingIntent] PendingIntent{46fc200: PendingIntentRecord{e26fee9 com.wallapop broadcastIntent}}
+
+07-02 16:51:37.224   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{b8d4ae8 u0 d0 com.wallapop/com.rewallapop.ui.wall.WallActivity}
+
+07-02 16:51:37.314   874  1714 V WindowStateAnimator: Finishing drawing window Window{b8d4ae8 u0 d0 com.wallapop/com.rewallapop.ui.wall.WallActivity}: mDrawState=DRAW_PENDING
+
+07-02 16:51:37.324   874  1132 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.wall.WallActivity: +208ms
+
+07-02 16:51:37.544 18508 18508 W View    : requestLayout() improperly called by com.wallapop.design.view.WallapopTextView{c8a35a7 V.ED..... ......ID 54,30-634,92 #7f0a08d2 app:id/wp__home__tv_bubble} during layout: running second layout pass
+
+07-02 16:51:37.574   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{82fdc7a u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t857} time:44982399
+
+07-02 16:51:41.684 10129 18937 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.google.android.gms rsrc of package null
+
+07-02 16:51:45.064 18508 18508 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:44989888
+
+07-02 16:51:45.084   874  3012 V WindowManager: addAppToken: AppWindowToken{62d82af token=Token{5d9da8e ActivityRecord{ba93a89 u0 com.wallapop/.activities.PreferencesActivity t857}}} to stack=1 task=857 at 1
+
+07-02 16:51:45.124   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-02 16:51:45.134 18508 18508 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-02 16:51:45.134 18508 18508 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-02 16:51:45.164   874  1913 V AlarmManager:  remove PendingIntent] PendingIntent{18c26bc: PendingIntentRecord{e26fee9 com.wallapop broadcastIntent}}
+
+07-02 16:51:45.214   874  2732 D ISSUE_DEBUG: InputChannelName : 9d119a com.wallapop/com.wallapop.activities.PreferencesActivity
+
+07-02 16:51:45.244   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{9d119a u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}
+
+07-02 16:51:45.294   874  1723 V WindowStateAnimator: Finishing drawing window Window{9d119a u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}: mDrawState=DRAW_PENDING
+
+07-02 16:51:45.304   874  1132 I ActivityManager: Displayed com.wallapop/.activities.PreferencesActivity: +196ms
+
+07-02 16:51:45.324   874  1714 V WindowStateAnimator: Finishing drawing window Window{9d119a u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}: mDrawState=HAS_DRAWN
+
+07-02 16:51:45.554   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ba93a89 u0 com.wallapop/.activities.PreferencesActivity t857} time:44990375
+
+07-02 16:51:45.594 18508 18508 W GmsClientEvents: unregisterConnectionFailedListener(): listener GooglePlayServicesHeadlessFragment{83abafb (65e1e0dd-bd88-4546-ab9a-077c204cc606) com.wallapop.fragments.headless.GooglePlayServicesHeadlessFragment} not found
+
+07-02 16:51:45.594 18508 18508 W GmsClientEvents: unregisterConnectionCallbacks(): listener GooglePlayServicesHeadlessFragment{83abafb (65e1e0dd-bd88-4546-ab9a-077c204cc606) com.wallapop.fragments.headless.GooglePlayServicesHeadlessFragment} not found
+
+07-02 16:51:45.594 18508 18508 V ActivityThread: updateVisibility : ActivityRecord{3b92c2 token=android.os.BinderProxy@164b1a9 {com.wallapop/com.rewallapop.ui.wall.WallActivity}} show : false
+
+
