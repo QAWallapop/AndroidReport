@@ -1,0 +1,59 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Tests with errors",
+    "children" : [ {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
+        "uid" : "fc113e6dd5f3f8f0",
+        "parentUid" : "6c3f50da1f82f2244cd1afd673861766",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562080230989,
+          "stop" : 1562080256678,
+          "duration" : 25689
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c3f50da1f82f2244cd1afd673861766"
+    } ],
+    "uid" : "58c24a55be50da19333a4698a0af545e"
+  }, {
+    "name" : "Tests passed",
+    "children" : [ {
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "76df13da40487be",
+        "parentUid" : "9da621a6b1dc048e89861717850c9607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562080256844,
+          "stop" : 1562080274645,
+          "duration" : 17801
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C739] Help: Legal agreements",
+        "uid" : "86097fbc96b08ed0",
+        "parentUid" : "9da621a6b1dc048e89861717850c9607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562080274667,
+          "stop" : 1562080298631,
+          "duration" : 23964
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9da621a6b1dc048e89861717850c9607"
+    } ],
+    "uid" : "347d4161d9f8f3704d8f0c443b5ce940"
+  } ]
+}

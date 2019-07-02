@@ -1,0 +1,169 @@
+Executed '[C739] Help: Legal agreements' on 02-07-2019
+---------------------------------------------------------------------------------
+07-02 17:11:17.773 24588 24588 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:45875023
+
+07-02 17:11:17.783   874  2020 V WindowManager: addAppToken: AppWindowToken{b0d5900 token=Token{a6ec383 ActivityRecord{b4f0a32 u0 com.wallapop/.activities.WebViewActivity t861}}} to stack=1 task=861 at 2
+
+07-02 17:11:17.813   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-02 17:11:17.823 24588 24588 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-02 17:11:17.823 24588 24588 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-02 17:11:17.823 24588 24588 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-02 17:11:17.853   874  1913 V AlarmManager:  remove PendingIntent] PendingIntent{bcd1539: PendingIntentRecord{ce98c29 com.wallapop broadcastIntent}}
+
+07-02 17:11:17.893   874   894 D ISSUE_DEBUG: InputChannelName : 9d014df com.wallapop/com.wallapop.activities.WebViewActivity
+
+07-02 17:11:17.903   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{9d014df u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}
+
+07-02 17:11:17.963   874  1722 V WindowStateAnimator: Finishing drawing window Window{9d014df u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}: mDrawState=DRAW_PENDING
+
+07-02 17:11:17.973   874  1132 I ActivityManager: Displayed com.wallapop/.activities.WebViewActivity: +175ms
+
+07-02 17:11:17.983   874  1714 V WindowStateAnimator: Finishing drawing window Window{9d014df u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}: mDrawState=HAS_DRAWN
+
+07-02 17:11:18.223   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b4f0a32 u0 com.wallapop/.activities.WebViewActivity t861} time:45875478
+
+07-02 17:11:18.253 24588 24588 V ActivityThread: updateVisibility : ActivityRecord{aaf243a token=android.os.BinderProxy@621fba1 {com.wallapop/com.wallapop.activities.PreferencesActivity}} show : false
+
+07-02 17:11:19.453 24588 24597 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-02 17:11:19.453 24588 24597 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-02 17:11:19.453 24588 24597 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-02 17:11:19.503 24588 24597 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/chat_inbox_7v6g4wr3o76e is being finalized without being closed, this can lead to running out of native memory.
+
+07-02 17:11:19.503 24588 24597 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/pending_events_queue_7v6g4wr3o76e is being finalized without being closed, this can lead to running out of native memory.
+
+07-02 17:11:19.573 24588 24597 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-02 17:11:22.053   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-02 17:11:22.073   874  1220 V AlarmManager:  remove PendingIntent] PendingIntent{42bd51: PendingIntentRecord{ce98c29 com.wallapop broadcastIntent}}
+
+07-02 17:11:22.103   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{5cee6f6 u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}
+
+07-02 17:11:22.173   874  1913 V WindowStateAnimator: Finishing drawing window Window{5cee6f6 u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}: mDrawState=DRAW_PENDING
+
+07-02 17:11:22.193   874  1132 I ActivityManager: Displayed com.wallapop/.activities.PreferencesActivity: +145ms
+
+07-02 17:11:22.433   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{5721f15 u0 com.wallapop/.activities.PreferencesActivity t861} time:45879684
+
+07-02 17:11:23.493 24588 24588 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:45880746
+
+07-02 17:11:23.503   874  1714 V WindowManager: addAppToken: AppWindowToken{1dc9cc1 token=Token{1dfa9a8 ActivityRecord{4dacdcb u0 com.wallapop/.activities.WebViewActivity t861}}} to stack=1 task=861 at 2
+
+07-02 17:11:23.533   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-02 17:11:23.533 24588 24588 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-02 17:11:23.533 24588 24588 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-02 17:11:23.563   874  1914 V AlarmManager:  remove PendingIntent] PendingIntent{559b854: PendingIntentRecord{ce98c29 com.wallapop broadcastIntent}}
+
+07-02 17:11:23.593   874   894 D ISSUE_DEBUG: InputChannelName : 3d52b43 com.wallapop/com.wallapop.activities.WebViewActivity
+
+07-02 17:11:23.613   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{3d52b43 u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}
+
+07-02 17:11:23.663   874  1722 V WindowStateAnimator: Finishing drawing window Window{3d52b43 u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}: mDrawState=DRAW_PENDING
+
+07-02 17:11:23.683   874  1132 I ActivityManager: Displayed com.wallapop/.activities.WebViewActivity: +163ms
+
+07-02 17:11:23.683   874  2020 V WindowStateAnimator: Finishing drawing window Window{3d52b43 u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}: mDrawState=HAS_DRAWN
+
+07-02 17:11:23.933   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{4dacdcb u0 com.wallapop/.activities.WebViewActivity t861} time:45881182
+
+07-02 17:11:23.953 24588 24588 V ActivityThread: updateVisibility : ActivityRecord{aaf243a token=android.os.BinderProxy@621fba1 {com.wallapop/com.wallapop.activities.PreferencesActivity}} show : false
+
+07-02 17:11:26.563   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-02 17:11:26.583   874   892 V AlarmManager:  remove PendingIntent] PendingIntent{c27c2a2: PendingIntentRecord{ce98c29 com.wallapop broadcastIntent}}
+
+07-02 17:11:26.603   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{5cee6f6 u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}
+
+07-02 17:11:26.653   874   894 V WindowStateAnimator: Finishing drawing window Window{5cee6f6 u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}: mDrawState=DRAW_PENDING
+
+07-02 17:11:26.663   874  1132 I ActivityManager: Displayed com.wallapop/.activities.PreferencesActivity: +103ms
+
+07-02 17:11:26.913   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{5721f15 u0 com.wallapop/.activities.PreferencesActivity t861} time:45884164
+
+07-02 17:11:28.463 24588 24588 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:45885715
+
+07-02 17:11:28.493   874  2020 V WindowManager: addAppToken: AppWindowToken{e884dd token=Token{3dff0b4 ActivityRecord{fdad987 u0 com.wallapop/.activities.WebViewActivity t861}}} to stack=1 task=861 at 2
+
+07-02 17:11:28.533   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-02 17:11:28.543 24588 24588 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-02 17:11:28.543 24588 24588 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-02 17:11:28.573   874  2732 V AlarmManager:  remove PendingIntent] PendingIntent{b6a1852: PendingIntentRecord{ce98c29 com.wallapop broadcastIntent}}
+
+07-02 17:11:28.603   874  2020 D ISSUE_DEBUG: InputChannelName : e5b727f com.wallapop/com.wallapop.activities.WebViewActivity
+
+07-02 17:11:28.623   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{e5b727f u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}
+
+07-02 17:11:28.683   874  5340 V WindowStateAnimator: Finishing drawing window Window{e5b727f u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}: mDrawState=DRAW_PENDING
+
+07-02 17:11:28.693   874  1132 I ActivityManager: Displayed com.wallapop/.activities.WebViewActivity: +172ms
+
+07-02 17:11:28.703   874  1714 V WindowStateAnimator: Finishing drawing window Window{e5b727f u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}: mDrawState=HAS_DRAWN
+
+07-02 17:11:28.943   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{fdad987 u0 com.wallapop/.activities.WebViewActivity t861} time:45886198
+
+07-02 17:11:28.973 24588 24588 V ActivityThread: updateVisibility : ActivityRecord{aaf243a token=android.os.BinderProxy@621fba1 {com.wallapop/com.wallapop.activities.PreferencesActivity}} show : false
+
+07-02 17:11:31.493   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-02 17:11:31.523   874  2732 V AlarmManager:  remove PendingIntent] PendingIntent{b8c075a: PendingIntentRecord{ce98c29 com.wallapop broadcastIntent}}
+
+07-02 17:11:31.543   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{5cee6f6 u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}
+
+07-02 17:11:31.593   874  1723 V WindowStateAnimator: Finishing drawing window Window{5cee6f6 u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}: mDrawState=DRAW_PENDING
+
+07-02 17:11:31.603   874  1132 I ActivityManager: Displayed com.wallapop/.activities.PreferencesActivity: +118ms
+
+07-02 17:11:31.853   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{5721f15 u0 com.wallapop/.activities.PreferencesActivity t861} time:45889109
+
+07-02 17:11:33.303 24588 24588 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:45890555
+
+07-02 17:11:33.313   874  5340 V WindowManager: addAppToken: AppWindowToken{bdf36ac token=Token{d041c5f ActivityRecord{7c90cfe u0 com.wallapop/.activities.WebViewActivity t861}}} to stack=1 task=861 at 2
+
+07-02 17:11:33.343   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-02 17:11:33.363 24588 24588 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-02 17:11:33.363 24588 24588 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-02 17:11:33.393   874  1913 V AlarmManager:  remove PendingIntent] PendingIntent{a24fb0a: PendingIntentRecord{ce98c29 com.wallapop broadcastIntent}}
+
+07-02 17:11:33.443   874  1721 D ISSUE_DEBUG: InputChannelName : f66fdf1 com.wallapop/com.wallapop.activities.WebViewActivity
+
+07-02 17:11:33.483   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{f66fdf1 u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}
+
+07-02 17:11:33.533   874  1422 V WindowStateAnimator: Finishing drawing window Window{f66fdf1 u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}: mDrawState=DRAW_PENDING
+
+07-02 17:11:33.543   874  1132 I ActivityManager: Displayed com.wallapop/.activities.WebViewActivity: +212ms
+
+07-02 17:11:33.553   874  1714 V WindowStateAnimator: Finishing drawing window Window{f66fdf1 u0 d0 com.wallapop/com.wallapop.activities.WebViewActivity}: mDrawState=HAS_DRAWN
+
+07-02 17:11:33.793   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7c90cfe u0 com.wallapop/.activities.WebViewActivity t861} time:45891044
+
+07-02 17:11:33.823 24588 24588 V ActivityThread: updateVisibility : ActivityRecord{aaf243a token=android.os.BinderProxy@621fba1 {com.wallapop/com.wallapop.activities.PreferencesActivity}} show : false
+
+07-02 17:11:38.293   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-02 17:11:38.313   874  1422 V AlarmManager:  remove PendingIntent] PendingIntent{b624561: PendingIntentRecord{ce98c29 com.wallapop broadcastIntent}}
+
+07-02 17:11:38.333   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{5cee6f6 u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}
+
+07-02 17:11:38.383   874  4874 V WindowStateAnimator: Finishing drawing window Window{5cee6f6 u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}: mDrawState=DRAW_PENDING
+
+07-02 17:11:38.393   874  1132 I ActivityManager: Displayed com.wallapop/.activities.PreferencesActivity: +113ms
+
+07-02 17:11:38.643   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{5721f15 u0 com.wallapop/.activities.PreferencesActivity t861} time:45895893
+
+
