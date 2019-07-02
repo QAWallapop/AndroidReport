@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "ip-192-168-11-147.eu-west-1.compute.internal",
+    "children" : [ {
+      "name" : "52521@ip-192-168-11-147.eu-west-1.compute.internal.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "9a6be6180677dbeb",
+        "parentUid" : "38f544816377cfdbe7e2db374fb175b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562078632570,
+          "stop" : 1562078636114,
+          "duration" : 3544
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "38f544816377cfdbe7e2db374fb175b7"
+    } ],
+    "uid" : "a257bc141cc44249cf59422d894b3eaf"
+  } ]
+}
