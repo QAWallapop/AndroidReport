@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.wallapop.functionality.visibility.behaviour.OnBoardingTest",
+    "children" : [ {
+      "name" : "[C631] Purchases: Buy a PRO subscription and check the onboarding",
+      "uid" : "c6b84380abbd706c",
+      "parentUid" : "49ac449c3ea9204759a4c8486d9520b2",
+      "status" : "broken",
+      "time" : {
+        "start" : 1562165692485,
+        "stop" : 1562165692745,
+        "duration" : 260
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "49ac449c3ea9204759a4c8486d9520b2"
+  } ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "QA-DavidCalvo",
+    "children" : [ {
+      "name" : "7220@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C631] Purchases: Buy a PRO subscription and check the onboarding",
+        "uid" : "c6b84380abbd706c",
+        "parentUid" : "6e19bb099f50c0966ee6bfaf8470c404",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562165692485,
+          "stop" : 1562165692745,
+          "duration" : 260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6e19bb099f50c0966ee6bfaf8470c404"
+    } ],
+    "uid" : "706f3b10e492961c2ff0d86cc259212f"
+  } ]
+}

@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Jul 03 16:54:52 CEST 2019","Wed Jul 03 16:54:52 CEST 2019","260","","com.wallapop.functionality.visibility.behaviour.OnBoardingTest","","com.wallapop.functionality.visibility.behaviour.OnBoardingTest","onBoarding_ProSubscription_Purchase","[C631] Purchases: Buy a PRO subscription and check the onboarding",""
