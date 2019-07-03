@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Tests with errors",
+    "children" : [ {
+      "name" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'QA-DAVIDCALVO', ip: '169.254.49.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_212'\nDriver info: driver.version: AndroidDriver",
+      "children" : [ {
+        "name" : "[C631] Purchases: Buy a PRO subscription and check the onboarding",
+        "uid" : "aa18d64546181821",
+        "parentUid" : "acdaaa67e6a04f85c5923ce37be2f93c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562163777435,
+          "stop" : 1562163777695,
+          "duration" : 260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "acdaaa67e6a04f85c5923ce37be2f93c"
+    } ],
+    "uid" : "58c24a55be50da19333a4698a0af545e"
+  } ]
+}
