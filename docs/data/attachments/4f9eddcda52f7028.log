@@ -1,0 +1,307 @@
+Executed '[C645] Item edition: Edit a Consumer Goods item' on 03-07-2019
+---------------------------------------------------------------------------------
+07-03 17:48:13.593   874  1132 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.user.profile.ProfileActivity: +180ms
+
+07-03 17:48:13.603   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{37c8c5f u0 com.wallapop/com.rewallapop.ui.user.profile.MyProfileActivity t880 f} time:55896300
+
+07-03 17:48:13.613   874  3012 V WindowStateAnimator: Finishing drawing window Window{c0d6aba u0 d0 com.wallapop/com.rewallapop.ui.user.profile.ProfileActivity}: mDrawState=HAS_DRAWN
+
+07-03 17:48:13.843   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{d75a857 u0 com.wallapop/com.rewallapop.ui.user.profile.ProfileActivity t880} time:55896542
+
+07-03 17:48:13.913 27090 27090 W GmsClientEvents: unregisterConnectionFailedListener(): listener GooglePlayServicesHeadlessFragment{a2fde34 (b2deff5d-f37c-4d0b-95b0-4a26d940845a) com.wallapop.fragments.headless.GooglePlayServicesHeadlessFragment} not found
+
+07-03 17:48:13.913 27090 27090 W GmsClientEvents: unregisterConnectionCallbacks(): listener GooglePlayServicesHeadlessFragment{a2fde34 (b2deff5d-f37c-4d0b-95b0-4a26d940845a) com.wallapop.fragments.headless.GooglePlayServicesHeadlessFragment} not found
+
+07-03 17:48:13.913 27090 27090 V ActivityThread: updateVisibility : ActivityRecord{5457f2b token=android.os.BinderProxy@adc0cb8 {com.wallapop/com.rewallapop.ui.wall.WallActivity}} show : false
+
+07-03 17:48:13.983 27090 28944 E WallapopError: 	at com.wallapop.kernel.l.a$a.a(SourceFile:5)
+
+07-03 17:48:13.983 27090 28944 E WallapopError: 	at com.wallapop.kernel.l.g$a.a(SourceFile:8)
+
+07-03 17:48:13.983 27090 28944 E WallapopError: 	at com.wallapop.kernel.l.a$a.b(SourceFile)
+
+07-03 17:48:13.983 27090 28944 E WallapopError: 	at com.wallapop.kernel.extension.a.b(SourceFile:21)
+
+07-03 17:48:14.213 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-03 17:48:14.213 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-03 17:48:14.233 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/chat_inbox_vxpzpymr4z30 is being finalized without being closed, this can lead to running out of native memory.
+
+07-03 17:48:14.233 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-03 17:48:14.243 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-03 17:48:14.273 27090 27090 W View    : requestLayout() improperly called by com.wallapop.design.view.WallapopTextView{c206e54 V.ED..... ..S..AID 0,23-285,105 #7f0a0255 app:id/counterView} during layout: running second layout pass
+
+07-03 17:48:19.513 27090 27090 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:55902218
+
+07-03 17:48:19.533   874  1723 V WindowManager: addAppToken: AppWindowToken{9ec9d2f token=Token{412cf0e ActivityRecord{1133109 u0 com.wallapop/com.rewallapop.ui.item.ItemDetailActivity t880}}} to stack=1 task=880 at 2
+
+07-03 17:48:19.573   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-03 17:48:19.593 27090 27090 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-03 17:48:19.593 27090 27090 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-03 17:48:19.623   874  3012 V AlarmManager:  remove PendingIntent] PendingIntent{2fd6f3c: PendingIntentRecord{de40689 com.wallapop broadcastIntent}}
+
+07-03 17:48:19.653   874  1220 D ISSUE_DEBUG: InputChannelName : eb0ce1a com.wallapop/com.rewallapop.ui.item.ItemDetailActivity
+
+07-03 17:48:19.663   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{eb0ce1a u0 d0 com.wallapop/com.rewallapop.ui.item.ItemDetailActivity}
+
+07-03 17:48:19.733   874  1723 V WindowStateAnimator: Finishing drawing window Window{eb0ce1a u0 d0 com.wallapop/com.rewallapop.ui.item.ItemDetailActivity}: mDrawState=DRAW_PENDING
+
+07-03 17:48:19.743   874  1132 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.item.ItemDetailActivity: +178ms
+
+07-03 17:48:19.753   874  1722 V WindowStateAnimator: Finishing drawing window Window{eb0ce1a u0 d0 com.wallapop/com.rewallapop.ui.item.ItemDetailActivity}: mDrawState=HAS_DRAWN
+
+07-03 17:48:19.813 27090 28959 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/cache/okhttp/8919d4ecfccebb15725e4d19f099118f.0
+
+07-03 17:48:19.813 27090 28959 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/cache/okhttp/8919d4ecfccebb15725e4d19f099118f.1
+
+07-03 17:48:19.913 27090 28959 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/cache/okhttp/e6c85c54681b95c6d2e82e28aa1803c8.0
+
+07-03 17:48:19.913 27090 28959 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/cache/okhttp/e6c85c54681b95c6d2e82e28aa1803c8.1
+
+07-03 17:48:20.003   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{1133109 u0 com.wallapop/com.rewallapop.ui.item.ItemDetailActivity t880} time:55902701
+
+07-03 17:48:20.353   874  1661 V BroadcastQueue: [background] Process cur broadcast BroadcastRecord{60c6096 u0 com.appboy.action.receiver.DATA_SYNC qIdx=4}, state= (APP_RECEIVE) DELIVERED for app ProcessRecord{89317b1 27090:com.wallapop/u0a267}
+
+07-03 17:48:20.553 27090 27090 V ActivityThread: updateVisibility : ActivityRecord{ca1f410 token=android.os.BinderProxy@1013dcb {com.wallapop/com.rewallapop.ui.user.profile.ProfileActivity}} show : false
+
+07-03 17:48:20.763 27090 28948 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/cache/okhttp/e9230733ee32bdc5884a8ac75e5532a0.0
+
+07-03 17:48:20.763 27090 28948 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/cache/okhttp/e9230733ee32bdc5884a8ac75e5532a0.1
+
+07-03 17:48:20.773 27090 27327 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/cache/okhttp/c7b456172f24f1ccf7c8fc5c92f87010.0
+
+07-03 17:48:20.773 27090 27327 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/cache/okhttp/c7b456172f24f1ccf7c8fc5c92f87010.1
+
+07-03 17:48:21.033 27090 28959 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/cache/okhttp/055455b0d80cc98333654b5702c451df.0
+
+07-03 17:48:21.033 27090 28959 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/cache/okhttp/055455b0d80cc98333654b5702c451df.1
+
+07-03 17:48:21.513 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-03 17:48:21.523 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-03 17:48:21.823 27007 27382 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@801631f7; boundsInParent: Rect(0, 0 - 1080, 1920); boundsInScreen: Rect(0, 0 - 1080, 1920); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:48:21.823 27007 27382 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@801631f7; boundsInParent: Rect(0, 0 - 1080, 1920); boundsInScreen: Rect(0, 0 - 1080, 1920); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:48:22.683 27090 27090 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:55905386
+
+07-03 17:48:22.733   874   892 V WindowManager: addAppToken: AppWindowToken{ab9e2f5 token=Token{432182c ActivityRecord{3793df u0 com.wallapop/com.rewallapop.ui.privacy.PrivacyProxyActivity t881}}} to stack=1 task=881 at 0
+
+07-03 17:48:22.833   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-03 17:48:22.853 27090 27090 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-03 17:48:22.853 27090 27090 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-03 17:48:22.883   874  2732 V AlarmManager:  remove PendingIntent] PendingIntent{c9d40c4: PendingIntentRecord{de40689 com.wallapop broadcastIntent}}
+
+07-03 17:48:22.953   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-03 17:48:22.963 27090 27090 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:55905666
+
+07-03 17:48:22.983   874  3012 V WindowManager: addAppToken: AppWindowToken{c8fa530 token=Token{d76e273 ActivityRecord{d598ee2 u0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity t880}}} to stack=1 task=880 at 3
+
+07-03 17:48:23.033   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-03 17:48:23.173 27090 27090 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-03 17:48:23.183 27090 27090 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-03 17:48:23.233   874  1661 V AlarmManager:  remove PendingIntent] PendingIntent{58a7365: PendingIntentRecord{de40689 com.wallapop broadcastIntent}}
+
+07-03 17:48:23.693   874  1723 D ISSUE_DEBUG: InputChannelName : e71548d com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity
+
+07-03 17:48:23.803   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{e71548d u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}
+
+07-03 17:48:23.893 27007 27383 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80193385; boundsInParent: Rect(0, 0 - 1080, 900); boundsInScreen: Rect(0, 72 - 1080, 972); packageName: com.wallapop; className: android.widget.RelativeLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:48:23.893 27007 27383 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@8018a8a0; boundsInParent: Rect(0, 0 - 1080, 2966); boundsInScreen: Rect(0, 72 - 1080, 1920); packageName: com.wallapop; className: android.widget.LinearLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:48:23.913 27007 27383 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@801911bc; boundsInParent: Rect(0, 0 - 1080, 1848); boundsInScreen: Rect(0, 72 - 1080, 1920); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:48:23.913 27007 27383 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@8018eff3; boundsInParent: Rect(0, 0 - 1080, 1848); boundsInScreen: Rect(0, 72 - 1080, 1920); packageName: com.wallapop; className: android.widget.RelativeLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:48:23.913 27007 27383 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80187051; boundsInParent: Rect(0, 0 - 1080, 1920); boundsInScreen: Rect(0, 0 - 1080, 1920); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:48:23.913 27007 27383 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80187051; boundsInParent: Rect(0, 0 - 1080, 1920); boundsInScreen: Rect(0, 0 - 1080, 1920); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:48:23.963   874  1220 V WindowStateAnimator: Finishing drawing window Window{e71548d u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}: mDrawState=DRAW_PENDING
+
+07-03 17:48:23.993   874  1132 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity: +964ms (total +1s175ms)
+
+07-03 17:48:24.153   874  4874 V WindowStateAnimator: Finishing drawing window Window{e71548d u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}: mDrawState=HAS_DRAWN
+
+07-03 17:48:24.243   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{d598ee2 u0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity t880} time:55906944
+
+07-03 17:48:24.513 27090 27090 V ActivityThread: updateVisibility : ActivityRecord{352881c token=android.os.BinderProxy@2e2fbaa {com.wallapop/com.rewallapop.ui.item.ItemDetailActivity}} show : true
+
+07-03 17:48:25.983 27090 29026 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:55908688
+
+07-03 17:48:26.003   874  5340 V WindowManager: addAppToken: AppWindowToken{120354c token=Token{b05717f ActivityRecord{b94029e u0 com.wallapop/.camera.view.customcamera.CameraActivity t880}}} to stack=1 task=880 at 4
+
+07-03 17:48:26.033   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-03 17:48:26.053 27090 27090 V ActivityThread: updateVisibility : ActivityRecord{352881c token=android.os.BinderProxy@2e2fbaa {com.wallapop/com.rewallapop.ui.item.ItemDetailActivity}} show : false
+
+07-03 17:48:26.053 27090 27090 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-03 17:48:26.053 27090 27090 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-03 17:48:26.083   874  1721 V AlarmManager:  remove PendingIntent] PendingIntent{bc15a38: PendingIntentRecord{de40689 com.wallapop broadcastIntent}}
+
+07-03 17:48:26.103   874  4874 D ISSUE_DEBUG: InputChannelName : ddfc776 com.wallapop/com.wallapop.camera.view.customcamera.CameraActivity
+
+07-03 17:48:26.213   874  2732 V WindowStateAnimator: Finishing drawing window Window{ddfc776 u0 d0 com.wallapop/com.wallapop.camera.view.customcamera.CameraActivity}: mDrawState=DRAW_PENDING
+
+07-03 17:48:26.353 29199 29199 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.google.android.packageinstaller rsrc of package null
+
+07-03 17:48:26.933   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{b94029e u0 com.wallapop/.camera.view.customcamera.CameraActivity t880} time:55909635
+
+07-03 17:48:26.963 27090 27090 V ActivityThread: updateVisibility : ActivityRecord{4899479 token=android.os.BinderProxy@6b9d70d {com.wallapop/com.wallapop.camera.view.customcamera.CameraActivity}} show : true
+
+07-03 17:48:26.993 27090 27090 V ActivityThread: updateVisibility : ActivityRecord{dd6c359 token=android.os.BinderProxy@d33de72 {com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}} show : false
+
+07-03 17:48:28.233   874  1913 D ActivityManager:  Launching com.wallapop, updated priority
+
+07-03 17:48:28.243   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-03 17:48:28.263   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{ddfc776 u0 d0 com.wallapop/com.wallapop.camera.view.customcamera.CameraActivity}
+
+07-03 17:48:28.303 27090 27133 W System.err: remove failed: ENOENT (No such file or directory) : /data/user/0/com.wallapop/shared_prefs/WallapopCamera.xml.bak
+
+07-03 17:48:28.383   343 10875 I CameraService: CameraService::connect call (PID 27090 "com.wallapop", camera ID 0) for HAL version default and Camera API version 1
+
+07-03 17:48:33.633   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-03 17:48:33.713   874  1913 V AlarmManager:  remove PendingIntent] PendingIntent{271f675: PendingIntentRecord{de40689 com.wallapop broadcastIntent}}
+
+07-03 17:48:33.723 27090 27090 V ActivityThread: updateVisibility : ActivityRecord{352881c token=android.os.BinderProxy@2e2fbaa {com.wallapop/com.rewallapop.ui.item.ItemDetailActivity}} show : true
+
+07-03 17:48:33.733   874  1422 V AlarmManager:  remove PendingIntent] PendingIntent{71bc60a: PendingIntentRecord{de40689 com.wallapop broadcastIntent}}
+
+07-03 17:48:33.783   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{e71548d u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}
+
+07-03 17:48:33.893   874  4874 V WindowStateAnimator: Finishing drawing window Window{eb0ce1a u0 d0 com.wallapop/com.rewallapop.ui.item.ItemDetailActivity}: mDrawState=DRAW_PENDING
+
+07-03 17:48:33.933   874   894 V WindowStateAnimator: Finishing drawing window Window{e71548d u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}: mDrawState=DRAW_PENDING
+
+07-03 17:48:33.943   874  1132 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity: +322ms (total +5s712ms)
+
+07-03 17:48:34.203   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{d598ee2 u0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity t880} time:55916907
+
+07-03 17:48:34.203   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{1133109 u0 com.wallapop/com.rewallapop.ui.item.ItemDetailActivity t880} time:55916907
+
+07-03 17:48:36.833 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-03 17:48:36.843 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-03 17:48:36.843 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-03 17:48:54.003   874  4119 D SurveyLogging: app_id = com.android.server.ssrm, feature = SIOP, extra = {"SIOP":"1", "PST_TMP":"450", "BAT_TMP":"358", "CHG_TMP":"0", "PA_TMP":"0", "BAT_LV":"100", "BAT_CUR":"1000", "RSSI":"-86", "RAD_DAT":"0", "WIFI_DAT":"17737263", "BRI":"86", "CHR_TYPE":"2", "KNOX":"false", "SCRN":"true", "RAD":"2", "CALL":"false", "CF":"-1", "GF":"-1", "CG":"70", "TOP_PROC":"top", "TOP_USE":"6", "FOR_PKG":"com.wallapop"}
+
+07-03 17:48:55.423   874  1422 D ISSUE_DEBUG: InputChannelName : 1ae8386 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity
+
+07-03 17:48:55.433   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{1ae8386 u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}
+
+07-03 17:48:55.493   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{1ae8386 u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}
+
+07-03 17:48:55.593   874  1422 V WindowStateAnimator: Finishing drawing window Window{1ae8386 u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}: mDrawState=DRAW_PENDING
+
+07-03 17:48:55.623   874  2020 V WindowStateAnimator: Finishing drawing window Window{1ae8386 u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}: mDrawState=HAS_DRAWN
+
+07-03 17:48:58.313   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{e71548d u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}
+
+07-03 17:49:07.343   874  1661 D ISSUE_DEBUG: InputChannelName : 8786699 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity
+
+07-03 17:49:07.343   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{8786699 u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}
+
+07-03 17:49:07.413   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{8786699 u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}
+
+07-03 17:49:07.503   874  1721 V WindowStateAnimator: Finishing drawing window Window{8786699 u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}: mDrawState=DRAW_PENDING
+
+07-03 17:49:07.533   874  1220 V WindowStateAnimator: Finishing drawing window Window{8786699 u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}: mDrawState=HAS_DRAWN
+
+07-03 17:49:09.663   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{e71548d u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}
+
+07-03 17:49:19.613   874  1722 D ISSUE_DEBUG: InputChannelName : 9c8353f com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity
+
+07-03 17:49:19.613   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{9c8353f u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}
+
+07-03 17:49:19.663   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{9c8353f u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}
+
+07-03 17:49:19.743   874  1721 V WindowStateAnimator: Finishing drawing window Window{9c8353f u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}: mDrawState=DRAW_PENDING
+
+07-03 17:49:19.783   874  1422 V WindowStateAnimator: Finishing drawing window Window{9c8353f u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}: mDrawState=HAS_DRAWN
+
+07-03 17:49:20.943   874  1722 V BroadcastQueue: [background] Process cur broadcast BroadcastRecord{a2a12a4 u0 com.appboy.action.receiver.DATA_SYNC qIdx=4}, state= (APP_RECEIVE) DELIVERED for app ProcessRecord{89317b1 27090:com.wallapop/u0a267}
+
+07-03 17:49:23.673   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{e71548d u0 d0 com.wallapop/com.rewallapop.ui.listing.v2.UnifiedListingActivity}
+
+07-03 17:49:26.023 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-03 17:49:27.453 27090 29020 W ExifInterface: 	at com.wallapop.kernel.extension.a.b(SourceFile:21)
+
+07-03 17:49:27.453 27090 29020 W ExifInterface: 	at com.wallapop.item.listing.f.a(SourceFile:36)
+
+07-03 17:49:27.453 27090 29020 W ExifInterface: 	at com.wallapop.item.listing.f.a(SourceFile:24)
+
+07-03 17:49:27.453 27090 29020 W ExifInterface: 	at com.wallapop.item.listing.e$c.invokeSuspend(SourceFile:227)
+
+07-03 17:49:27.453 27090 29020 E WallapopError: 	at com.wallapop.kernel.extension.a.b(SourceFile:21)
+
+07-03 17:49:27.453 27090 29020 E WallapopError: 	at com.wallapop.item.listing.f.a(SourceFile:36)
+
+07-03 17:49:27.453 27090 29020 E WallapopError: 	at com.wallapop.item.listing.f.a(SourceFile:24)
+
+07-03 17:49:27.453 27090 29020 E WallapopError: 	at com.wallapop.item.listing.e$c.invokeSuspend(SourceFile:227)
+
+07-03 17:49:28.103 27090 27090 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:55970806
+
+07-03 17:49:28.123   874  2732 V WindowManager: addAppToken: AppWindowToken{250fa0e token=Token{4132809 ActivityRecord{a47b510 u0 com.wallapop/com.rewallapop.ui.listing.BumpPopupActivity t880}}} to stack=1 task=880 at 4
+
+07-03 17:49:28.143   874  1027 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-03 17:49:28.153   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{eb0ce1a u0 d0 com.wallapop/com.rewallapop.ui.item.ItemDetailActivity}
+
+07-03 17:49:28.173 27090 27090 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-03 17:49:28.173 27090 27090 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-03 17:49:28.203   874  1422 V AlarmManager:  remove PendingIntent] PendingIntent{d7eec2f: PendingIntentRecord{de40689 com.wallapop broadcastIntent}}
+
+07-03 17:49:28.253   874  1422 D ISSUE_DEBUG: InputChannelName : abd3bc5 com.wallapop/com.rewallapop.ui.listing.BumpPopupActivity
+
+07-03 17:49:28.263   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{abd3bc5 u0 d0 com.wallapop/com.rewallapop.ui.listing.BumpPopupActivity}
+
+07-03 17:49:28.273 27007 27383 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@801b80e3; boundsInParent: Rect(0, 0 - 1008, 168); boundsInScreen: Rect(36, 1275 - 1044, 1443); packageName: com.wallapop; className: android.view.ViewGroup; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: com.wallapop:id/shipping; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:49:28.273 27007 27383 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@801b7961; boundsInParent: Rect(0, 0 - 1080, 1371); boundsInScreen: Rect(0, 240 - 1080, 1611); packageName: com.wallapop; className: android.widget.LinearLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:49:28.283 27007 27383 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@801badef; boundsInParent: Rect(0, 0 - 1080, 1680); boundsInScreen: Rect(0, 240 - 1080, 1920); packageName: com.wallapop; className: android.widget.RelativeLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:49:28.283 27007 27383 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@801b2a8c; boundsInParent: Rect(0, 0 - 1080, 1920); boundsInScreen: Rect(0, 0 - 1080, 1920); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:49:28.283 27007 27383 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@801b2a8c; boundsInParent: Rect(0, 0 - 1080, 1920); boundsInScreen: Rect(0, 0 - 1080, 1920); packageName: com.wallapop; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_UNKNOWN - null]
+
+07-03 17:49:28.323   874  1721 V WindowStateAnimator: Finishing drawing window Window{abd3bc5 u0 d0 com.wallapop/com.rewallapop.ui.listing.BumpPopupActivity}: mDrawState=DRAW_PENDING
+
+07-03 17:49:28.343   874  1132 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.listing.BumpPopupActivity: +202ms
+
+07-03 17:49:28.463   874   892 D ISSUE_DEBUG: InputChannelName : 8b8cca com.wallapop/com.rewallapop.ui.listing.BumpPopupActivity
+
+07-03 17:49:28.473   874  1028 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{8b8cca u0 d0 com.wallapop/com.rewallapop.ui.listing.BumpPopupActivity}
+
+07-03 17:49:28.533   874  4874 V WindowStateAnimator: Finishing drawing window Window{8b8cca u0 d0 com.wallapop/com.rewallapop.ui.listing.BumpPopupActivity}: mDrawState=DRAW_PENDING
+
+07-03 17:49:28.553   874  1714 V WindowStateAnimator: Finishing drawing window Window{8b8cca u0 d0 com.wallapop/com.rewallapop.ui.listing.BumpPopupActivity}: mDrawState=HAS_DRAWN
+
+07-03 17:49:28.753   874  1132 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{a47b510 u0 com.wallapop/com.rewallapop.ui.listing.BumpPopupActivity t880} time:55971456
+
+

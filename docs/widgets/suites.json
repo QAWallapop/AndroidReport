@@ -1,0 +1,114 @@
+{
+  "total" : 12,
+  "items" : [ {
+    "uid" : "5651e69eb893e9d15572e29dfd1707f2",
+    "name" : "com.wallapop.functionality.profile.editProfile.behaviour.EditProfileTest",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "9f7ed956ec50626d509304b7906fafcf",
+    "name" : "com.wallapop.functionality.item.uploadAndEdit.behaviour.UploadItemTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "51db91230256d6303e59781ed0b21434",
+    "name" : "com.wallapop.functionality.help.behaviour.HelpTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "2218948fa6d0da68a3b4161143092ec6",
+    "name" : "com.wallapop.functionality.item.actions.behaviour.OtherItemsTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "8ce01e882fb73ea74f617059ac8fc092",
+    "name" : "com.wallapop.functionality.search.searchConsumerGoods.behaviour.SearchConsumerGoodsTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "fb060ea091c7df0f28d74b42228f56ba",
+    "name" : "com.wallapop.functionality.search.searchRealEstate.behaviour.SearchRealEstateTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "d335f0b7fe455ca78df07f905d57bfb1",
+    "name" : "com.wallapop.functionality.visibility.behaviour.BumpTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "2264589bd39e7cb5b1508b8c17be4aa4",
+    "name" : "com.wallapop.functionality.chat.conversation.behaviour.ConversationMessagingTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "35cb26b8ab36ce45e6ffa7802cdbb109",
+    "name" : "com.wallapop.functionality.item.actions.behaviour.OwnItemsTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "792795219fb31b22df92f12b0b69707d",
+    "name" : "com.wallapop.functionality.item.uploadAndEdit.behaviour.EditItemTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

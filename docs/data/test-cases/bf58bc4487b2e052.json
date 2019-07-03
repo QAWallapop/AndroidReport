@@ -1,0 +1,103 @@
+{
+  "uid" : "bf58bc4487b2e052",
+  "name" : "[C645] Item edition: Edit a Consumer Goods item",
+  "fullName" : "com.wallapop.functionality.item.uploadAndEdit.behaviour.EditItemTest.editItem_01_ConsumerGoodsItem_IsItemUpdated",
+  "historyId" : "ddf1435c37de624f0decb04a89a8550e",
+  "time" : {
+    "start" : 1562168883283,
+    "stop" : 1562168980191,
+    "duration" : 96908
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4f9eddcda52f7028",
+      "name" : "Logcat",
+      "source" : "4f9eddcda52f7028.log",
+      "type" : "text/plain",
+      "size" : 34374
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "SanityTest_Android"
+  }, {
+    "name" : "tag",
+    "value" : "SmokeTest_Android"
+  }, {
+    "name" : "tag",
+    "value" : "RegressionTest_Android"
+  }, {
+    "name" : "story",
+    "value" : "Item edition"
+  }, {
+    "name" : "feature",
+    "value" : "Item"
+  }, {
+    "name" : "epic",
+    "value" : "SanityTest_Android"
+  }, {
+    "name" : "host",
+    "value" : "QA-DavidCalvo"
+  }, {
+    "name" : "thread",
+    "value" : "13500@QA-DavidCalvo.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.functionality.item.uploadAndEdit.behaviour.EditItemTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.functionality.item.uploadAndEdit.behaviour.EditItemTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "editItem_01_ConsumerGoodsItem_IsItemUpdated"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.functionality.item.uploadAndEdit.behaviour.EditItemTest"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "TestRail",
+    "url" : "https://wallapop.testrail.io/index.php?/cases/view/645",
+    "type" : "custom"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Tests passed",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "tags" : [ "SanityTest_Android", "RegressionTest_Android", "SmokeTest_Android" ]
+  },
+  "source" : "bf58bc4487b2e052.json",
+  "parameterValues" : [ ]
+}
