@@ -1,0 +1,100 @@
+{
+  "uid" : "6f476f6a1f4fdab8",
+  "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
+  "fullName" : "com.wallapop.functionality.help.behaviour.HelpTest.help_03_contactSupport_sendMessage",
+  "historyId" : "6abc1adc76916e79531ef6ac924f512f",
+  "time" : {
+    "start" : 1562678247904,
+    "stop" : 1562678580895,
+    "duration" : 332991
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "21c640fd0365eb83",
+      "name" : "Logcat",
+      "source" : "21c640fd0365eb83.log",
+      "type" : "text/plain",
+      "size" : 28161
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "SanityTest_Android"
+  }, {
+    "name" : "tag",
+    "value" : "RegressionTest_Android"
+  }, {
+    "name" : "story",
+    "value" : "Help information and actions"
+  }, {
+    "name" : "feature",
+    "value" : "Help"
+  }, {
+    "name" : "epic",
+    "value" : "SanityTest_Android"
+  }, {
+    "name" : "host",
+    "value" : "QA-DavidCalvo"
+  }, {
+    "name" : "thread",
+    "value" : "13796@QA-DavidCalvo.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "help_03_contactSupport_sendMessage"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "TestRail",
+    "url" : "https://wallapop.testrail.io/index.php?/cases/view/754",
+    "type" : "custom"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Tests passed",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "tags" : [ "SanityTest_Android", "RegressionTest_Android" ]
+  },
+  "source" : "6f476f6a1f4fdab8.json",
+  "parameterValues" : [ ]
+}

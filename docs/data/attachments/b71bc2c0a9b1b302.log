@@ -1,0 +1,7 @@
+Executed '[C631] Purchases: Buy a PRO subscription and check the onboarding' on 09-07-2019
+---------------------------------------------------------------------------------
+07-09 15:34:39.423 14321 14329 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+07-09 15:34:39.423 14321 14329 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
+
+
