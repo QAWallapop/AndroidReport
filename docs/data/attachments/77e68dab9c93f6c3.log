@@ -1,7 +1,0 @@
-Executed '[C646] Item actions: Favorite an item at the item detail' on 03-07-2019
----------------------------------------------------------------------------------
-07-03 17:47:14.603 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
-
-07-03 17:47:14.643 27090 27098 W REALM_JAVA: Remember to call close() on all Realm instances. Realm /data/data/com.wallapop/files/feature_flags is being finalized without being closed, this can lead to running out of native memory.
-
-
