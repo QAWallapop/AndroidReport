@@ -1,0 +1,48 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.wallapop.functionality.help.behaviour.HelpTest",
+    "children" : [ {
+      "name" : "[C740] Help: Access and sections",
+      "uid" : "45533971e313e8ad",
+      "parentUid" : "51db91230256d6303e59781ed0b21434",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564343911746,
+        "stop" : 1564343931563,
+        "duration" : 19817
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[C739] Help: Legal agreements",
+      "uid" : "d35d6ea953c5c91d",
+      "parentUid" : "51db91230256d6303e59781ed0b21434",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564343931747,
+        "stop" : 1564343953898,
+        "duration" : 22151
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
+      "uid" : "3433b1a70c7c4a98",
+      "parentUid" : "51db91230256d6303e59781ed0b21434",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564343953964,
+        "stop" : 1564343986364,
+        "duration" : 32400
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "51db91230256d6303e59781ed0b21434"
+  } ]
+}

@@ -1,0 +1,51 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Tests passed",
+    "children" : [ {
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "45533971e313e8ad",
+        "parentUid" : "9da621a6b1dc048e89861717850c9607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1564343911746,
+          "stop" : 1564343931563,
+          "duration" : 19817
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C739] Help: Legal agreements",
+        "uid" : "d35d6ea953c5c91d",
+        "parentUid" : "9da621a6b1dc048e89861717850c9607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1564343931747,
+          "stop" : 1564343953898,
+          "duration" : 22151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
+        "uid" : "3433b1a70c7c4a98",
+        "parentUid" : "9da621a6b1dc048e89861717850c9607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1564343953964,
+          "stop" : 1564343986364,
+          "duration" : 32400
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9da621a6b1dc048e89861717850c9607"
+    } ],
+    "uid" : "347d4161d9f8f3704d8f0c443b5ce940"
+  } ]
+}
