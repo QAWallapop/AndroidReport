@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jul 28 21:24:13 CEST 2019","Sun Jul 28 21:24:36 CEST 2019","23095","","com.wallapop.functionality.help.behaviour.HelpTest","","com.wallapop.functionality.help.behaviour.HelpTest","help_01_goToHelpScreen_isSectionsDisplayed","[C740] Help: Access and sections",""
