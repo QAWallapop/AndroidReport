@@ -1,0 +1,51 @@
+Executed '[C740] Help: Access and sections' on 28-07-2019
+---------------------------------------------------------------------------------
+07-28 21:41:24.119   804   890 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-28 21:41:24.199   804  1324 V AlarmManager:  remove PendingIntent] PendingIntent{ff3e446: PendingIntentRecord{c350877 com.wallapop broadcastIntent}}
+
+07-28 21:41:24.249   804   891 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{5b20f74 u0 d0 com.wallapop/com.rewallapop.ui.wall.WallActivity}
+
+07-28 21:41:24.429   804  1724 V WindowStateAnimator: Finishing drawing window Window{5b20f74 u0 d0 com.wallapop/com.rewallapop.ui.wall.WallActivity}: mDrawState=DRAW_PENDING
+
+07-28 21:41:24.439   804   932 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.wall.WallActivity: +327ms
+
+07-28 21:41:24.689   804   932 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{602254d u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1464} time:190675085
+
+07-28 21:41:29.989  7650  7650 I Timeline: Timeline: Activity_launch_request id:com.wallapop time:190680386
+
+07-28 21:41:30.009   804   832 V WindowManager: addAppToken: AppWindowToken{1ae05ef token=Token{14962ce ActivityRecord{6fcbbc9 u0 com.wallapop/.activities.PreferencesActivity t1464}}} to stack=1 task=1464 at 1
+
+07-28 21:41:30.049   804   890 V MARsPolicyManager: updatePackagesScore PackageInfo name -- com.wallapop
+
+07-28 21:41:30.049  7650  7650 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-28 21:41:30.059  7650  7650 W ResourcesManager: getTopLevelResources: /data/app/com.wallapop-1/base.apk / 1.0 running in com.wallapop rsrc of package null
+
+07-28 21:41:30.079   804   832 V AlarmManager:  remove PendingIntent] PendingIntent{2c188fc: PendingIntentRecord{c350877 com.wallapop broadcastIntent}}
+
+07-28 21:41:30.119   804  2436 D ISSUE_DEBUG: InputChannelName : 91cddda com.wallapop/com.wallapop.activities.PreferencesActivity
+
+07-28 21:41:30.139   804   891 D StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{91cddda u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}
+
+07-28 21:41:30.189   804   832 V WindowStateAnimator: Finishing drawing window Window{91cddda u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}: mDrawState=DRAW_PENDING
+
+07-28 21:41:30.209   804   932 I ActivityManager: Displayed com.wallapop/.activities.PreferencesActivity: +180ms
+
+07-28 21:41:30.219   804  1502 V WindowStateAnimator: Finishing drawing window Window{91cddda u0 d0 com.wallapop/com.wallapop.activities.PreferencesActivity}: mDrawState=HAS_DRAWN
+
+07-28 21:41:30.459   804   932 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{6fcbbc9 u0 com.wallapop/.activities.PreferencesActivity t1464} time:190680858
+
+07-28 21:41:30.469  7650  7650 E WallapopError: 	at com.wallapop.kernel.l.e$a.a(SourceFile:4)
+
+07-28 21:41:30.469  7650  7650 E WallapopError: 	at com.wallapop.kernel.l.g$a.a(SourceFile:6)
+
+07-28 21:41:30.469  7650  7650 E WallapopError: 	at com.wallapop.kernel.l.e$a.a(SourceFile)
+
+07-28 21:41:30.499  7650  7650 W GmsClientEvents: unregisterConnectionFailedListener(): listener GooglePlayServicesHeadlessFragment{245c0c5 (40a06e44-945e-4933-88fe-5f053fcddca4) com.wallapop.fragments.headless.GooglePlayServicesHeadlessFragment} not found
+
+07-28 21:41:30.499  7650  7650 W GmsClientEvents: unregisterConnectionCallbacks(): listener GooglePlayServicesHeadlessFragment{245c0c5 (40a06e44-945e-4933-88fe-5f053fcddca4) com.wallapop.fragments.headless.GooglePlayServicesHeadlessFragment} not found
+
+07-28 21:41:30.499  7650  7650 V ActivityThread: updateVisibility : ActivityRecord{30f712a token=android.os.BinderProxy@b4a7b3b {com.wallapop/com.rewallapop.ui.wall.WallActivity}} show : false
+
+
