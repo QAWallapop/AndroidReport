@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Tests with errors",
+    "children" : [ {
+      "name" : "empty String",
+      "children" : [ {
+        "name" : "[C646] Item actions: Favorite an item at the item detail",
+        "uid" : "cd3f2f6ef6e8f55",
+        "parentUid" : "29c12ba9828faef09623d0907a9680c2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1569421671133,
+          "stop" : 1569421779482,
+          "duration" : 108349
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "29c12ba9828faef09623d0907a9680c2"
+    } ],
+    "uid" : "58c24a55be50da19333a4698a0af545e"
+  } ]
+}

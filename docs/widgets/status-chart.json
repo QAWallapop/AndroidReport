@@ -1,0 +1,11 @@
+[ {
+  "uid" : "cd3f2f6ef6e8f55",
+  "name" : "[C646] Item actions: Favorite an item at the item detail",
+  "time" : {
+    "start" : 1569421671133,
+    "stop" : 1569421779482,
+    "duration" : 108349
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

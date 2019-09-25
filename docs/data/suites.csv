@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Sep 25 16:27:51 CEST 2019","Wed Sep 25 16:29:39 CEST 2019","108349","","com.wallapop.functionality.item.actions.behaviour.OtherItemsTest","","com.wallapop.functionality.item.actions.behaviour.OtherItemsTest","otherItem_01_favouriteItem_isItemFavourited","[C646] Item actions: Favorite an item at the item detail",""
