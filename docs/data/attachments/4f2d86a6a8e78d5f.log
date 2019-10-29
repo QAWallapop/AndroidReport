@@ -1,0 +1,463 @@
+Executed '[C58894] Chat: Active conversations - Conversations information' on 29-10-2019
+---------------------------------------------------------------------------------
+11-08 23:14:16.344 22325 22373 I appium  : AppiumResponse: {"sessionId":"bf8d304f-618e-47de-8bbc-fd5d3dbf7833","value":{"sessionId":"bf8d304f-618e-47de-8bbc-fd5d3dbf7833","capabilities":{"firstMatch":[{"platform":"LINUX","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":false,"warnings":{},"desired":{"platformName":"android","normalizeTagNames":true,"androidInstallTimeout":150000,"app":"","appActivity":"com.rewallapop.ui.main.MainActivity","appPackage":"com.wallapop","isHeadless":false,"skipDeviceInitialization":true,"autoAcceptAlerts":true,"autoGrantPermissions":true,"automationName":"UiAutomator2","avd":"","deviceName":"3200f02dc0aab5db","deviceReadyTimeout":1,"fullReset":false,"ignoreUnimportantViews":true,"newCommandTimeout":60,"noReset":true,"systemPort":8223,"udid":"3200f02dc0aab5db"},"platformName":"android","normalizeTagNames":true,"androidInstallTimeout":150000,"app":"","appActivity":"com.rewallapop.ui.main.MainActivity","appPackage":"com.wallapop","isHeadless":false,"skipDeviceInitialization":true,"autoAcceptAlerts":true,"autoGrantPermissions":true,"automationName":"UiAutomator2","avd":"","deviceName":"3200f02dc0aab5db","deviceReadyTimeout":1,"fullReset":false,"ignoreUnimportantViews":true,"newCommandTimeout":60,"noReset":true,"systemPort":8223,"udid":"3200f02dc0aab5db","deviceUDID":"3200f02dc0aab5db"}],"alwaysMatch":{}}}}
+
+11-08 23:14:16.925  4211  4221 I ActivityManager: Force stopping com.wallapop appid=10308 user=0: from pid 22380 caller com.android.server.am.ActivityManagerShellCommand.runStartActivity:412
+
+11-08 23:14:16.927  4211  4221 I ActivityManager: Killing 21726:com.wallapop/u0a308 (adj 902): stop com.wallapop,from pid 22380 caller com.android.server.am.ActivityManagerShellCommand.runStartActivity:412
+
+11-08 23:14:16.960  4211  4227 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.wallapop flg=0x10 (has extras) } to android/com.kddi.android.CpaNotiReceiver
+
+11-08 23:14:16.964  4211  4211 D SamsungAlarmManager: Remove alarm for next reason : android.intent.action.PACKAGE_RESTARTED : package: com.wallapop
+
+11-08 23:14:16.968  4211  4211 W NotificationListeners: Not binding notification listener service ComponentInfo{com.wallapop.app/com.wallapop.mylistener}: service not found
+
+11-08 23:14:16.968  4211  4211 W NotificationListeners: Not binding notification listener service ComponentInfo{com.wallapop/com.wallapop.mylistener}: service not found
+
+11-08 23:14:17.207  4211  4221 I ActivityManager: START u0 {act=null typ=null flg=0x10000000 cmp=ComponentInfo{com.wallapop/com.rewallapop.ui.main.MainActivity}} from uid 2000
+
+11-08 23:14:17.216  4211  4221 I ActivityManager: [IOP] sourceDir : /data/app/com.wallapop-nN61LgWkU31ss5nH-FafhQ== in ActivityStacksupervisor
+
+11-08 23:14:17.233  3727  3727 I SurfaceFlinger: id=21741 createSurf (4440x4440),2 flag=4, AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}}#0
+
+11-08 23:14:17.246  3727  3727 I SurfaceFlinger: id=21742 createSurf (4440x4440),2 flag=4, 2620ff5 Splash Screen com.wallapop#0
+
+11-08 23:14:17.251  4211  5505 D StorageManagerService: getExternalStorageMountMode : final mountMode=1, uid : 10308, packageName : com.wallapop
+
+11-08 23:14:17.251  4211  5505 I ApplicationPolicy: isApplicationExternalStorageWhitelisted:com.wallapop user:0
+
+11-08 23:14:17.251  4211  5505 D ActivityManager: package  com.wallapop, user - 0 is SDcard whitelisted
+
+11-08 23:14:17.251  4211  5505 I ApplicationPolicy: isApplicationExternalStorageBlacklisted:com.wallapop user:0
+
+11-08 23:14:17.251  4211  5505 I ApplicationPolicy: isApplicationExternalStorageBlacklisted:com.wallapop user:0
+
+11-08 23:14:17.252  4211  4211 D Telecom:SamsungPrebindingServiceImpl: onTopActivityChanged : ComponentInfo{com.wallapop/com.rewallapop.ui.main.MainActivity}
+
+11-08 23:14:17.258  4211  4310 V WindowManager: Relayout Window{2620ff5 u0 Splash Screen com.wallapop}: viewVisibility=0 req=1080x2220 {(0,0)(fillxfill) sim={adjust=pan} ty=APPLICATION_STARTING fmt=TRANSLUCENT wanim=0x10302fe
+
+11-08 23:14:17.261  3727  3727 I SurfaceFlinger: id=21743 createSurf (1080x2220),1 flag=4, Splash Screen com.wallapop#0
+
+11-08 23:14:17.263  4211  4310 D WindowManager: makeSurface duration=2 name=Splash Screen com.wallapop
+
+11-08 23:14:17.269  4211  5505 V WindowManager: Resize reasons for w=Window{2620ff5 u0 Splash Screen com.wallapop}:  contentInsetsChanged=false [0,63][0,126] visibleInsetsChanged=false [0,63][0,126] stableInsetsChanged=false [0,63][0,126] outsetsChanged=false [0,0][0,0] surfaceResized=false configChanged=false dragResizingChanged=false reportOrientationChanged=false displayCutoutChanged=false nextForceRelayoutToClient=false
+
+11-08 23:14:17.273  4211  4229 I ActivityManager: Start proc 22385:com.wallapop/u0a308 for activity com.wallapop/com.rewallapop.ui.main.MainActivity
+
+11-08 23:14:17.280 22385 22385 I com.wallapop: Late-enabling -Xcheck:jni
+
+11-08 23:14:17.302  4211  4310 D WindowManager: finishDrawingWindow: Window{2620ff5 u0 Splash Screen com.wallapop} mDrawState=DRAW_PENDING
+
+11-08 23:14:17.304  4211  4310 I WindowManager: commitFinishDrawingLocked: mDrawState=READY_TO_SHOW Surface(name=Splash Screen com.wallapop)/@0xc78e4d7
+
+11-08 23:14:17.310 22385 22385 I com.wallapop: report jit thread pid = 22390
+
+11-08 23:14:17.326  4211  5505 I ActivityManager: DSS on for com.wallapop and scale is 1.0
+
+11-08 23:14:17.330  4211  5505 I WindowManager: commitFinishDrawingLocked: mDrawState=READY_TO_SHOW Surface(name=Splash Screen com.wallapop)/@0xc78e4d7
+
+11-08 23:14:17.335  4211  4310 I WindowManager: commitFinishDrawingLocked: mDrawState=READY_TO_SHOW Surface(name=Splash Screen com.wallapop)/@0xc78e4d7
+
+11-08 23:14:17.341  4211  5505 D GamePkgDataHelper: notifyAppCreate(), pkgName: com.wallapop, sendRet: true
+
+11-08 23:14:17.341  4211  4473 D GamePkgDataHelper: getGamePkgData(). com.wallapop
+
+11-08 23:14:17.341  4211  4473 D GameManagerService: handleMessage(), MSG_APP_CREATE. ignore. pkgName: com.wallapop
+
+11-08 23:14:17.344  4211  5505 D GameManagerService: noteResumeComponent(), resumeComponent: com.wallapop
+
+11-08 23:14:17.344  4211  4473 D GameManagerService: handleForegroundChange(). pkgName: com.wallapop, clsName: com.rewallapop.ui.main.MainActivity,FgActivityName:com.wallapop/com.rewallapop.ui.main.MainActivity
+
+11-08 23:14:17.344  4211  5593 D GamePkgDataHelper: getGamePkgDataIncServer(). com.wallapop
+
+11-08 23:14:17.344  4211  4473 D GameManagerService:   handleForegroundChange(). set mFgApp: com.wallapop
+
+11-08 23:14:17.345  4211  4473 D GameManagerService: notifyResumePause(). pkg: com.wallapop, type: 4, isMinimized: false, isTunableApp: false
+
+11-08 23:14:17.345  4211  5505 D GamePkgDataHelper: getSosPolicy(). com.wallapop
+
+11-08 23:14:17.345  4211  5505 D GameManagerService: identifyGamePackage. com.wallapop
+
+11-08 23:14:17.345  4211  5505 D GamePkgDataHelper: getGamePkgData(). com.wallapop
+
+11-08 23:14:17.346  4211  5505 D MARsPolicyManager: onPackageResumedFG pkgName = com.wallapop, userId = 0
+
+11-08 23:14:17.347  4211  4310 I WindowManager: commitFinishDrawingLocked: mDrawState=READY_TO_SHOW Surface(name=Splash Screen com.wallapop)/@0xc78e4d7
+
+11-08 23:14:17.354  4211  4310 I WindowManager: Cancelling animation restarting=true, leash=null, surface=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48, parent=Surface(name=Task=2063)/@0xaab1de1
+
+11-08 23:14:17.354  4211  4310 I WindowManager: Reparenting to leash, surface=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48
+
+11-08 23:14:17.355  3727  3727 I SurfaceFlinger: id=21745 createSurf (4440x4440),2 flag=4, Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash#0
+
+11-08 23:14:17.356  4211  4310 D WindowManager: makeSurface duration=2 leash=Surface(name=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash)/@0xafc7706
+
+11-08 23:14:17.357  4211  4310 D SurfaceControl: reparent is called, sc=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48, newParentHandle=android.os.BinderProxy@e66b1c7, transaction=android.view.SurfaceControl$Transaction@2ce83f4
+
+11-08 23:14:17.357  4211  4310 V WindowManager: performShowLocked: mDrawState=HAS_DRAWN in Window{2620ff5 u0 Splash Screen com.wallapop}
+
+11-08 23:14:17.360  3727  3771 D Layer   : [AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}}#0]::reparent oldParent:[Task=2063#0], newParent:[Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash#0]
+
+11-08 23:14:17.364  4211  5593 D GamePkgDataHelper: getSosPolicy(). com.wallapop
+
+11-08 23:14:17.365  4211  4228 D CodecSolution: isMaxAspectPackageEx: com.wallapop : true(2)
+
+11-08 23:14:17.368 22385 22385 I com.wallapop: The ClassLoaderContext is a special shared library.
+
+11-08 23:14:17.368  4211  4228 D WindowManager: setSystemUiVisibility: vis= 0xa018, fullscreenVis= 0x2000, dockedVis= 0x0, win=Window{2620ff5 u0 Splash Screen com.wallapop}
+
+11-08 23:14:17.369  4211  5505 D GameManagerService: identifyGamePackage. com.wallapop
+
+11-08 23:14:17.369  4211  5505 D GamePkgDataHelper: getGamePkgData(). com.wallapop
+
+11-08 23:14:17.374  4211  4312 D GameManagerService: identifyGamePackage. com.wallapop
+
+11-08 23:14:17.374  4211  4312 D GamePkgDataHelper: getGamePkgData(). com.wallapop
+
+11-08 23:14:17.463  3727  3727 I SurfaceFlinger:      Client | 0x70dda1fcc0 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |   91  186  989 2034 | Splash Screen com.wallapop#0
+
+11-08 23:14:17.494  4211  4669 D MdnieScenarioControlService:  packageName : com.wallapop    className : com.rewallapop.ui.main.MainActivity
+
+11-08 23:14:17.504  3727  3727 I SurfaceFlinger:      Device | 0x70dda1fcc0 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |   50  103 1030 2117 | Splash Screen com.wallapop#0
+
+11-08 23:14:17.622  4211  4310 I WindowManager: reset, Reparenting to original parent, shouldDeferScheduleAnimation=false, destroyLeash=true, surface=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48, parent=Surface(name=Task=2063)/@0xaab1de1, parentNativeHandle=android.os.BinderProxy@949eb60, caller=com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$0:97 com.android.server.wm.-$$Lambda$SurfaceAnimator$SIBia0mND666K8lMCPsoid8pUTI.run:4 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$1:104 com.android.server.wm.-$$Lambda$SurfaceAnimator$vdRZk66hQVbQCvVXEaQCT1kVmFc.onAnimationFinished:4 com.android.server.wm.LocalAnimationAdapter.lambda$startAnimation$0:74
+
+11-08 23:14:17.622  4211  4310 D SurfaceControl: reparent is called, sc=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48, newParentHandle=android.os.BinderProxy@949eb60, transaction=android.view.SurfaceControl$Transaction@2ce83f4
+
+11-08 23:14:17.622  4211  4310 D SurfaceControl: destroy(transaction), animation-leash is destroyed, sc=Surface(name=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash)/@0xafc7706, transaction=android.view.SurfaceControl$Transaction@2ce83f4, caller=com.android.server.wm.SurfaceAnimator.reset:338 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$0:97 com.android.server.wm.-$$Lambda$SurfaceAnimator$SIBia0mND666K8lMCPsoid8pUTI.run:4 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$1:104 com.android.server.wm.-$$Lambda$SurfaceAnimator$vdRZk66hQVbQCvVXEaQCT1kVmFc.onAnimationFinished:4 com.android.server.wm.LocalAnimationAdapter.lambda$startAnimation$0:74 com.android.server.wm.-$$Lambda$LocalAnimationAdapter$X--EomqUvw4qy89IeeTFTH7aCMo.run:4
+
+11-08 23:14:17.626  3727  3771 D Layer   : [AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}}#0]::reparent oldParent:[Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash#0], newParent:[Task=2063#0]
+
+11-08 23:14:17.626  3727  3771 I SurfaceFlinger: id=21745 Removed Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash#0 (0/72)
+
+11-08 23:14:17.638  3727  3727 I Layer   : id=21745 onRemoved Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash#0
+
+11-08 23:14:17.663  3727  3727 I SurfaceFlinger:      Device | 0x70dda1fcc0 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | Splash Screen com.wallapop#0
+
+11-08 23:14:17.760 22385 22420 W com.wallapop: Unsupported class loader
+
+11-08 23:14:17.763 22385 22420 W com.wallapop: Skipping duplicate class check due to unsupported classloader
+
+11-08 23:14:17.765 22385 22420 I com.wallapop: Waiting for a blocking GC ClassLinker
+
+11-08 23:14:17.854 22385 22396 I com.wallapop: Background concurrent copying GC freed 26400(4MB) AllocSpace objects, 42(1152KB) LOS objects, 71% free, 2MB/8MB, paused 284us total 139.867ms
+
+11-08 23:14:17.854 22385 22420 I com.wallapop: WaitForGcToComplete blocked ClassLinker on AddRemoveAppImageSpace for 88.829ms
+
+11-08 23:14:17.860 22385 22407 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+11-08 23:14:17.913 22385 22420 W com.wallapop: Unsupported class loader
+
+11-08 23:14:18.239 22385 22454 I stetho  : Listening on @stetho_com.wallapop_devtools_remote
+
+11-08 23:14:18.377 22385 22461 W com.wallapop: Accessing hidden field Lsun/misc/Unsafe;->theUnsafe:Lsun/misc/Unsafe; (light greylist, reflection)
+
+11-08 23:14:18.408 22385 22462 W com.wallapop: Accessing hidden field Ljava/nio/Buffer;->address:J (light greylist, reflection)
+
+11-08 23:14:18.503 22385 22396 I com.wallapop: Background concurrent copying GC freed 69895(5MB) AllocSpace objects, 15(428KB) LOS objects, 66% free, 3MB/9MB, paused 199us total 128.972ms
+
+11-08 23:14:18.506 22385 22385 I com.wallapop: The ClassLoaderContext is a special shared library.
+
+11-08 23:14:18.508 22385 22385 I chatty  : uid=10308(com.wallapop) identical 1 line
+
+11-08 23:14:18.510 22385 22385 I com.wallapop: The ClassLoaderContext is a special shared library.
+
+11-08 23:14:18.905 22385 22488 W com.wallapop: Accessing hidden method Landroid/content/Context;->bindServiceAsUser(Landroid/content/Intent;Landroid/content/ServiceConnection;ILandroid/os/Handler;Landroid/os/UserHandle;)Z (light greylist, reflection)
+
+11-08 23:14:18.909  4211  5593 I ApplicationPolicy: isApplicationExternalStorageWhitelisted:com.wallapop user:0
+
+11-08 23:14:18.909  4211  5593 D ActivityManager: package  com.wallapop, user - 0 is SDcard whitelisted
+
+11-08 23:14:18.910  4211  5593 I ApplicationPolicy: isApplicationExternalStorageBlacklisted:com.wallapop user:0
+
+11-08 23:14:18.910  4211  5593 I ApplicationPolicy: isApplicationExternalStorageBlacklisted:com.wallapop user:0
+
+11-08 23:14:18.932  4211  4229 I ActivityManager: Start proc 22495:com.android.chrome:sandboxed_process0/u0i676 for webview_service com.wallapop/org.chromium.content.app.SandboxedProcessService0
+
+11-08 23:14:18.964  4211  6759 I ActivityManager: DSS on for com.wallapop and scale is 1.0
+
+11-08 23:14:18.965  4211  6759 D MultiDisplayManager: init process display: set packageProcessId, displayId=0, same_package_proc=ProcessRecord{f0212bfd0 22385:com.wallapop/u0a308}, app=ProcessRecord{50399c6d0 22495:com.android.chrome:sandboxed_process0/u0a308i676}
+
+11-08 23:14:19.081 22385 22385 W com.wallapop: Accessing hidden method Landroid/view/textclassifier/logging/SmartSelectionEventTracker;-><init>(Landroid/content/Context;I)V (light greylist, reflection)
+
+11-08 23:14:19.081 22385 22385 W com.wallapop: Accessing hidden method Landroid/view/textclassifier/logging/SmartSelectionEventTracker;->logEvent(Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent;)V (light greylist, reflection)
+
+11-08 23:14:19.082 22385 22385 W com.wallapop: Accessing hidden method Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent;->selectionStarted(I)Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent; (light greylist, reflection)
+
+11-08 23:14:19.082 22385 22385 W com.wallapop: Accessing hidden method Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent;->selectionModified(II)Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent; (light greylist, reflection)
+
+11-08 23:14:19.082 22385 22385 W com.wallapop: Accessing hidden method Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent;->selectionModified(IILandroid/view/textclassifier/TextClassification;)Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent; (light greylist, reflection)
+
+11-08 23:14:19.082 22385 22385 W com.wallapop: Accessing hidden method Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent;->selectionModified(IILandroid/view/textclassifier/TextSelection;)Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent; (light greylist, reflection)
+
+11-08 23:14:19.082 22385 22385 W com.wallapop: Accessing hidden method Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent;->selectionAction(III)Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent; (light greylist, reflection)
+
+11-08 23:14:19.082 22385 22385 W com.wallapop: Accessing hidden method Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent;->selectionAction(IIILandroid/view/textclassifier/TextClassification;)Landroid/view/textclassifier/logging/SmartSelectionEventTracker$SelectionEvent; (light greylist, reflection)
+
+11-08 23:14:19.133 22385 22513 W com.wallapop: Accessing hidden method Landroid/media/AudioManager;->getOutputLatency(I)I (light greylist, reflection)
+
+11-08 23:14:19.198 22385 22385 W com.wallapop: Accessing hidden method Landroid/app/ActivityThread;->currentPackageName()Ljava/lang/String; (light greylist, reflection)
+
+11-08 23:14:19.756 22385 22560 W com.wallapop: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->setAlpnProtocols([B)V (light greylist, reflection)
+
+11-08 23:14:20.140 22385 22560 W com.wallapop: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->getAlpnSelectedProtocol()[B (light greylist, reflection)
+
+11-08 23:14:21.701  4211  5505 D SamsungAlarmManager: Cancel Alarm calling from uid:10308 pid :22385 / op:PendingIntent{415b703: PendingIntentRecord{7cf455a com.wallapop broadcastIntent}}
+
+11-08 23:14:21.894 22385 22385 W com.wallapop: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (light greylist, reflection)
+
+11-08 23:14:21.895 22385 22385 W com.wallapop: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (light greylist, reflection)
+
+11-08 23:14:21.916 22385 22385 W com.wallapop: Accessing hidden field Landroid/view/ViewGroup;->mOnHierarchyChangeListener:Landroid/view/ViewGroup$OnHierarchyChangeListener; (light greylist, reflection)
+
+11-08 23:14:21.957  4211  4312 D SamsungAlarmManager: Cancel Alarm calling from uid:10308 pid :22385 / op:PendingIntent{b0081f1: PendingIntentRecord{834f1d6 com.wallapop broadcastIntent}}
+
+11-08 23:14:22.051 22385 22385 I chatty  : uid=10308(com.wallapop) identical 14 lines
+
+11-08 23:14:22.051 22385 22385 I chatty  : uid=10308(com.wallapop) identical 1 line
+
+11-08 23:14:22.053 22385 22385 I chatty  : uid=10308(com.wallapop) identical 8 lines
+
+11-08 23:14:22.134  4211  5505 D LocationManagerService: request 1e50efb passive Request[POWER_NONE passive fastest=0 num=1 lowPowerMode=false] from com.wallapop(10308 foreground)
+
+11-08 23:14:22.135  4622  4682 E RequestManager_FLP: [LocationManagerService] Location request 1e50efb(PendingIntent) passive interval=0 from com.wallapop(10308)
+
+11-08 23:14:22.210  4211  4312 I ActivityManager: START u0 {act=null typ=null flg=0x0 cmp=ComponentInfo{com.wallapop/com.rewallapop.ui.wall.WallActivity}} from uid 10308
+
+11-08 23:14:22.227  3727  3727 I SurfaceFlinger: id=21746 createSurf (4440x4440),2 flag=4, AppWindowToken{4e65562 token=Token{b8a4c2d ActivityRecord{7a0344 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t2063}}}#0
+
+11-08 23:14:22.231  4211  4312 D SurfaceControl: reparent is called, sc=Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3, newParentHandle=android.os.BinderProxy@1b60fb0, transaction=android.view.SurfaceControl$Transaction@56c7e29
+
+11-08 23:14:22.234  4211  4228 D WindowManager: setSystemUiVisibility: vis= 0xa018, fullscreenVis= 0x2000, dockedVis= 0x0, win=Window{2620ff5 u0 Splash Screen com.wallapop}
+
+11-08 23:14:22.234  3727  3771 D Layer   : [2620ff5 Splash Screen com.wallapop#0]::reparent oldParent:[AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}}#0], newParent:[AppWindowToken{4e65562 token=Token{b8a4c2d ActivityRecord{7a0344 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t2063}}}#0]
+
+11-08 23:14:22.236  4211  4211 D Telecom:SamsungPrebindingServiceImpl: onTopActivityChanged : ComponentInfo{com.wallapop/com.rewallapop.ui.wall.WallActivity}
+
+11-08 23:14:22.388 22385 22396 I com.wallapop: Background concurrent copying GC freed 52680(3MB) AllocSpace objects, 56(1568KB) LOS objects, 50% free, 6MB/12MB, paused 1.315ms total 204.004ms
+
+11-08 23:14:22.522  4211  4227 D ApplicationPolicy: isStatusBarNotificationAllowedAsUser: packageName = com.wallapop,userId = 0
+
+11-08 23:14:22.522  4211  4227 D ApplicationPolicy: isStatusBarNotificationAllowedAsUser: packageName = com.wallapop,userId = 0
+
+11-08 23:14:22.529  4211  4312 D GamePkgDataHelper: notifyAppCreate(), pkgName: com.wallapop, sendRet: true
+
+11-08 23:14:22.529  4211  4473 D GamePkgDataHelper: getGamePkgData(). com.wallapop
+
+11-08 23:14:22.529  4211  4473 D GameManagerService: handleMessage(), MSG_APP_CREATE. ignore. pkgName: com.wallapop
+
+11-08 23:14:22.532  4211  4312 D GameManagerService: noteResumeComponent(), resumeComponent: com.wallapop
+
+11-08 23:14:22.532  4211  4312 D MARsPolicyManager: onPackageResumedFG pkgName = com.wallapop, userId = 0
+
+11-08 23:14:22.533  4211  4473 D GameManagerService: handleForegroundChange(). pkgName: com.wallapop, clsName: com.rewallapop.ui.wall.WallActivity,FgActivityName:com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+11-08 23:14:22.534  4211  4211 D Telecom:SamsungPrebindingServiceImpl: onTopActivityChanged : ComponentInfo{com.wallapop/com.rewallapop.ui.wall.WallActivity}
+
+11-08 23:14:22.537  4211  4312 I WindowManager: Cancelling animation restarting=true, leash=null, surface=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48, parent=Surface(name=Task=2063)/@0xaab1de1
+
+11-08 23:14:22.537  4211  4312 I WindowManager: Reparenting to leash, surface=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48
+
+11-08 23:14:22.538  3727  3727 I SurfaceFlinger: id=21747 createSurf (4440x4440),2 flag=4, Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash#0
+
+11-08 23:14:22.540  4211  4312 D WindowManager: makeSurface duration=2 leash=Surface(name=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash)/@0xf444399
+
+11-08 23:14:22.540  4211  4312 D SurfaceControl: reparent is called, sc=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48, newParentHandle=android.os.BinderProxy@dff965e, transaction=android.view.SurfaceControl$Transaction@2ce83f4
+
+11-08 23:14:22.543  3727  3771 D Layer   : [AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}}#0]::reparent oldParent:[Task=2063#0], newParent:[Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash#0]
+
+11-08 23:14:22.631 23911 23911 D Notification.Badge: [valid] onNotificationPosted : StatusBarNotification(pkg=com.wallapop user=UserHandle{0} id=999 tag=null key=0|com.wallapop|999|null|10308: Notification(channel=wallapop_channel pri=-2 contentView=null vibrate=null sound=null defaults=0x0 flags=0x62 color=0x00000000 vis=PRIVATE semFlags=0x0 semPriority=0 semMissedCount=0))
+
+11-08 23:14:22.631 23911 23911 D Notification.Badge: notificationKey : 0|com.wallapop|999|null|10308, count : 0, this.count : 1
+
+11-08 23:14:22.632 23911 23978 D Notification.Badge: LauncherModel:onNotificationPosted() : com.wallapop, count : [0], shouldBeFilteredOut : [false]
+
+11-08 23:14:22.632 23911 23978 D Notification.Badge: notificationKey : 0|com.wallapop|999|null|10308, count : 1, mTotalCount : 1
+
+11-08 23:14:22.637 22385 22452 W com.wallapop: Accessing hidden method Ldalvik/system/VMRuntime;->getRuntime()Ldalvik/system/VMRuntime; (light greylist, reflection)
+
+11-08 23:14:22.637 22385 22452 W com.wallapop: Accessing hidden method Ldalvik/system/VMRuntime;->vmInstructionSet()Ljava/lang/String; (light greylist, reflection)
+
+11-08 23:14:22.647 23911 23978 D Notification.Badge: updateLauncherIconBadges() item : [IconInfo(title=_Wallapop_ intent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.wallapop/.activities.HomeActivity (has extras) } id=156 type=0 container=-102 screen=1 cellX=3 cellY=0 spanX=1 spanY=1 rank=3 hidden=0 dropPos=null user=UserHandle{0} screenType=0)], mShowBadge : [true], item.mBadgeCount : [1]
+
+11-08 23:14:22.647 23911 23978 D Notification.Badge: updateLauncherIconBadges() item : [IconInfo(title=_Wallapop_ intent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.wallapop/.activities.HomeActivity (has extras) } id=157 type=0 container=-100 screen=0 cellX=2 cellY=3 spanX=1 spanY=1 rank=3 hidden=0 dropPos=null user=UserHandle{0} screenType=0)], mShowBadge : [true], item.mBadgeCount : [1]
+
+11-08 23:14:22.657 23911 23911 D RecommendedView: updateBadgeItems: [IconInfo(title=_Wallapop_ intent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.wallapop/.activities.HomeActivity (has extras) } id=156 type=0 container=-102 screen=1 cellX=3 cellY=0 spanX=1 spanY=1 rank=3 hidden=0 dropPos=null user=UserHandle{0} screenType=0), IconInfo(title=_Wallapop_ intent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.wallapop/.activities.HomeActivity (has extras) } id=157 type=0 container=-100 screen=0 cellX=2 cellY=3 spanX=1 spanY=1 rank=3 hidden=0 dropPos=null user=UserHandle{0} screenType=0)]
+
+11-08 23:14:22.696 22385 22648 I com.wallapop: The ClassLoaderContext is a special shared library.
+
+11-08 23:14:22.777 17724 17806 I Finsky  : [7299] fxx.d(21): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+11-08 23:14:22.782 17724 17806 I Finsky  : [7299] fxx.d(21): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+11-08 23:14:22.786 17724 17806 I Finsky  : [7299] fxx.d(21): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+11-08 23:14:22.788 17724 17806 I Finsky  : [7299] fxx.d(21): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+11-08 23:14:22.829  4211  4310 I WindowManager: reset, Reparenting to original parent, shouldDeferScheduleAnimation=false, destroyLeash=true, surface=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48, parent=Surface(name=Task=2063)/@0xaab1de1, parentNativeHandle=android.os.BinderProxy@949eb60, caller=com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$0:97 com.android.server.wm.-$$Lambda$SurfaceAnimator$SIBia0mND666K8lMCPsoid8pUTI.run:4 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$1:104 com.android.server.wm.-$$Lambda$SurfaceAnimator$vdRZk66hQVbQCvVXEaQCT1kVmFc.onAnimationFinished:4 com.android.server.wm.LocalAnimationAdapter.lambda$startAnimation$0:74
+
+11-08 23:14:22.830  4211  4310 D SurfaceControl: reparent is called, sc=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48, newParentHandle=android.os.BinderProxy@949eb60, transaction=android.view.SurfaceControl$Transaction@2ce83f4
+
+11-08 23:14:22.830  4211  4310 D SurfaceControl: destroy(transaction), animation-leash is destroyed, sc=Surface(name=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash)/@0xf444399, transaction=android.view.SurfaceControl$Transaction@2ce83f4, caller=com.android.server.wm.SurfaceAnimator.reset:338 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$0:97 com.android.server.wm.-$$Lambda$SurfaceAnimator$SIBia0mND666K8lMCPsoid8pUTI.run:4 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$1:104 com.android.server.wm.-$$Lambda$SurfaceAnimator$vdRZk66hQVbQCvVXEaQCT1kVmFc.onAnimationFinished:4 com.android.server.wm.LocalAnimationAdapter.lambda$startAnimation$0:74 com.android.server.wm.-$$Lambda$LocalAnimationAdapter$X--EomqUvw4qy89IeeTFTH7aCMo.run:4
+
+11-08 23:14:22.850  3727  3770 D Layer   : [AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}}#0]::reparent oldParent:[Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash#0], newParent:[Task=2063#0]
+
+11-08 23:14:22.850  3727  3770 I SurfaceFlinger: id=21747 Removed Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash#0 (0/71)
+
+11-08 23:14:22.862  3727  3727 I Layer   : id=21747 onRemoved Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48 - animation-leash#0
+
+11-08 23:14:22.976  4211  4808 D SamsungAlarmManager: Cancel Alarm calling from uid:10308 pid :22385 / op:PendingIntent{321336: PendingIntentRecord{834f1d6 com.wallapop broadcastIntent}}
+
+11-08 23:14:23.222 22385 22385 W com.wallapop: Accessing hidden method Landroid/widget/TextView;->getTextDirectionHeuristic()Landroid/text/TextDirectionHeuristic; (light greylist, linking)
+
+11-08 23:14:23.228 22385 22385 W com.wallapop: Accessing hidden method Landroid/graphics/FontFamily;-><init>()V (light greylist, reflection)
+
+11-08 23:14:23.228 22385 22385 W com.wallapop: Accessing hidden method Landroid/graphics/FontFamily;->addFontFromAssetManager(Landroid/content/res/AssetManager;Ljava/lang/String;IZIII[Landroid/graphics/fonts/FontVariationAxis;)Z (light greylist, reflection)
+
+11-08 23:14:23.228 22385 22385 W com.wallapop: Accessing hidden method Landroid/graphics/FontFamily;->addFontFromBuffer(Ljava/nio/ByteBuffer;I[Landroid/graphics/fonts/FontVariationAxis;II)Z (light greylist, reflection)
+
+11-08 23:14:23.228 22385 22385 W com.wallapop: Accessing hidden method Landroid/graphics/FontFamily;->freeze()Z (light greylist, reflection)
+
+11-08 23:14:23.228 22385 22385 W com.wallapop: Accessing hidden method Landroid/graphics/FontFamily;->abortCreation()V (light greylist, reflection)
+
+11-08 23:14:23.229 22385 22385 W com.wallapop: Accessing hidden method Landroid/graphics/Typeface;->createFromFamiliesWithDefault([Landroid/graphics/FontFamily;Ljava/lang/String;II)Landroid/graphics/Typeface; (light greylist, reflection)
+
+11-08 23:14:23.294 22385 22396 I com.wallapop: Background concurrent copying GC freed 125825(6MB) AllocSpace objects, 15(524KB) LOS objects, 50% free, 9MB/18MB, paused 469us total 267.760ms
+
+11-08 23:14:23.377  4211  7608 D GameManagerService: identifyGamePackage. com.wallapop
+
+11-08 23:14:23.377  4211  7608 D GamePkgDataHelper: getGamePkgData(). com.wallapop
+
+11-08 23:14:23.430 22385 22668 I com.wallapop: The ClassLoaderContext is a special shared library.
+
+11-08 23:14:24.074 22385 22390 I com.wallapop: Compiler allocated 4MB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+
+11-08 23:14:24.172  3727  3727 I SurfaceFlinger: id=21748 createSurf (4440x4440),2 flag=4, 3213422 com.wallapop/com.rewallapop.ui.wall.WallActivity#0
+
+11-08 23:14:24.210 17724 17850 I Finsky  : [7315] fxx.d(21): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+11-08 23:14:24.219  4211  5239 D ActivityManagerPerformance: Received MSG_DISABLE_ACT_START, r: ActivityRecord{7a0344 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t2063}
+
+11-08 23:14:24.258 17724 17850 I Finsky  : [7315] fxx.d(21): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+11-08 23:14:24.306 17724 17850 I Finsky  : [7315] fxx.d(21): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+11-08 23:14:24.394 17724 17850 I Finsky  : [7315] fxx.d(21): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+11-08 23:14:24.607 22385 22396 I com.wallapop: Background concurrent copying GC freed 79080(5MB) AllocSpace objects, 34(2MB) LOS objects, 50% free, 11MB/22MB, paused 1.156ms total 234.441ms
+
+11-08 23:14:24.880  4211  5500 V WindowManager: Relayout Window{3213422 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}: viewVisibility=0 req=1080x2220 {(0,0)(fillxfill) sim={adjust=resize forwardNavigation} ty=BASE_APPLICATION wanim=0x10302fe
+
+11-08 23:14:24.885  3727  3727 I SurfaceFlinger: id=21749 createSurf (1080x2220),1 flag=404, com.wallapop/com.rewallapop.ui.wall.WallActivity[22385]#0
+
+11-08 23:14:24.887  4211  5500 D WindowManager: makeSurface duration=3 name=com.wallapop/com.rewallapop.ui.wall.WallActivity[22385]
+
+11-08 23:14:24.888  4211  5500 V WindowManager: Changing focus from null to Window{3213422 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity} Callers=com.android.server.wm.WindowManagerService.relayoutWindow:2526 com.android.server.wm.Session.relayoutForTranslate:302 android.view.IWindowSession$Stub.onTransact:518 com.android.server.wm.Session.onTransact:186
+
+11-08 23:14:24.889  4211  4228 D WindowManager: setSystemUiVisibility: vis= 0xa518, fullscreenVis= 0x2000, dockedVis= 0x0, win=Window{3213422 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}
+
+11-08 23:14:24.892  4211  4242 D WindowManager: reportFocusChangedSerialized, focused=true, inTouchMode=true, win=Window{3213422 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}
+
+11-08 23:14:25.014 17724 17806 I Finsky  : [7299] fxx.d(21): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+11-08 23:14:25.275  4211  5593 D WindowManager: finishDrawingWindow: Window{3213422 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity} mDrawState=DRAW_PENDING
+
+11-08 23:14:25.278  4211  4310 I WindowManager: commitFinishDrawingLocked: mDrawState=READY_TO_SHOW Surface(name=com.wallapop/com.rewallapop.ui.wall.WallActivity[22385])/@0x396a2c9
+
+11-08 23:14:25.278  4211  4310 V WindowManager: Resize reasons for w=Window{3213422 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}:  contentInsetsChanged=false [0,63][0,126] visibleInsetsChanged=false [0,63][0,126] stableInsetsChanged=false [0,63][0,126] outsetsChanged=false [0,0][0,0] surfaceResized=false configChanged=false dragResizingChanged=false reportOrientationChanged=false displayCutoutChanged=false nextForceRelayoutToClient=false
+
+11-08 23:14:25.286  4211  4310 I WindowManager: commitFinishDrawingLocked: mDrawState=READY_TO_SHOW Surface(name=com.wallapop/com.rewallapop.ui.wall.WallActivity[22385])/@0x396a2c9
+
+11-08 23:14:25.286  4211  4310 I WindowManager: Cancelling animation restarting=false, leash=null, surface=Surface(name=3213422 com.wallapop/com.rewallapop.ui.wall.WallActivity)/@0xd32bdce, parent=Surface(name=AppWindowToken{4e65562 token=Token{b8a4c2d ActivityRecord{7a0344 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t2063}}})/@0xfc3c4ef
+
+11-08 23:14:25.288  4211  4310 V WindowManager: performShowLocked: mDrawState=HAS_DRAWN in Window{3213422 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}
+
+11-08 23:14:25.313  3727  3727 I SurfaceFlinger:      Device | 0x70dda20b00 | 0002 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | com.wallapop/com.rewallapop.ui.wall.WallActivity[22385]#0
+
+11-08 23:14:25.313  3727  3727 I SurfaceFlinger:      Device | 0x70dda1fcc0 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | Splash Screen com.wallapop#0
+
+11-08 23:14:25.316  4211  4242 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.wall.WallActivity: +2s761ms (total +8s38ms)
+
+11-08 23:14:25.321  4211  4310 V WindowManager: Remove Window{2620ff5 u0 Splash Screen com.wallapop}: mSurfaceController=Surface(name=Splash Screen com.wallapop)/@0xc78e4d7 mAnimatingExit=false mRemoveOnExit=false mHasSurface=true surfaceShowing=true isAnimationSet=false app-animation=false mWillReplaceWindow=false inPendingTransaction=false mDisplayFrozen=false callers=com.android.server.wm.WindowState.removeIfPossible:2764 com.android.server.wm.WindowManagerService.removeWindow:1943 com.android.server.wm.Session.remove:268 android.view.ViewRootImpl.dispatchDetachedFromWindow:4565 android.view.ViewRootImpl.doDie:7996 android.view.ViewRootImpl$ViewRootHandler.handleMessage:4987
+
+11-08 23:14:25.322  4211  4310 I WindowManager: Cancelling animation restarting=true, leash=null, surface=Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3, parent=Surface(name=AppWindowToken{4e65562 token=Token{b8a4c2d ActivityRecord{7a0344 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t2063}}})/@0xfc3c4ef
+
+11-08 23:14:25.322  4211  4310 I WindowManager: Reparenting to leash, surface=Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3
+
+11-08 23:14:25.329  3727  3727 I SurfaceFlinger: id=21750 createSurf (4440x4440),2 flag=4, Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3 - animation-leash#0
+
+11-08 23:14:25.331  4211  4310 D WindowManager: makeSurface duration=9 leash=Surface(name=Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3 - animation-leash)/@0xcdda285
+
+11-08 23:14:25.332  4211  4310 D SurfaceControl: reparent is called, sc=Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3, newParentHandle=android.os.BinderProxy@9c0e8da, transaction=android.view.SurfaceControl$Transaction@56c7e29
+
+11-08 23:14:25.335  3727  3770 D Layer   : [2620ff5 Splash Screen com.wallapop#0]::reparent oldParent:[AppWindowToken{4e65562 token=Token{b8a4c2d ActivityRecord{7a0344 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t2063}}}#0], newParent:[Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3 - animation-leash#0]
+
+11-08 23:14:25.433 22385 22385 V InputMethodManager: Starting input: tba=com.wallapop ic=null mNaviBarColor -1 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+
+11-08 23:14:25.437  4211  8761 V InputMethodManagerService: windowGainedFocus : reason=WINDOW_FOCUS_GAIN client=android.os.BinderProxy@f8207b1 inputContext=null missingMethods= attribute=android.view.inputmethod.EditorInfo@6af4683 nm = com.wallapop controlFlags=#104 softInputMode=#110 windowFlags=#81810100
+
+11-08 23:14:25.484  4211  4310 I WindowManager: reset, Reparenting to original parent, shouldDeferScheduleAnimation=false, destroyLeash=true, surface=Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3, parent=Surface(name=AppWindowToken{4e65562 token=Token{b8a4c2d ActivityRecord{7a0344 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t2063}}})/@0xfc3c4ef, parentNativeHandle=android.os.BinderProxy@1b60fb0, caller=com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$0:97 com.android.server.wm.-$$Lambda$SurfaceAnimator$SIBia0mND666K8lMCPsoid8pUTI.run:4 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$1:104 com.android.server.wm.-$$Lambda$SurfaceAnimator$vdRZk66hQVbQCvVXEaQCT1kVmFc.onAnimationFinished:4 com.android.server.wm.LocalAnimationAdapter.lambda$startAnimation$0:74
+
+11-08 23:14:25.484  4211  4310 D SurfaceControl: reparent is called, sc=Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3, newParentHandle=android.os.BinderProxy@1b60fb0, transaction=android.view.SurfaceControl$Transaction@56c7e29
+
+11-08 23:14:25.485  4211  4310 D SurfaceControl: destroy(transaction), animation-leash is destroyed, sc=Surface(name=Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3 - animation-leash)/@0xcdda285, transaction=android.view.SurfaceControl$Transaction@56c7e29, caller=com.android.server.wm.SurfaceAnimator.reset:338 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$0:97 com.android.server.wm.-$$Lambda$SurfaceAnimator$SIBia0mND666K8lMCPsoid8pUTI.run:4 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$1:104 com.android.server.wm.-$$Lambda$SurfaceAnimator$vdRZk66hQVbQCvVXEaQCT1kVmFc.onAnimationFinished:4 com.android.server.wm.LocalAnimationAdapter.lambda$startAnimation$0:74 com.android.server.wm.-$$Lambda$LocalAnimationAdapter$X--EomqUvw4qy89IeeTFTH7aCMo.run:4
+
+11-08 23:14:25.485  4211  4310 E WindowManager: win=Window{2620ff5 u0 Splash Screen com.wallapop EXITING} destroySurfaces: appStopped=false win.mWindowRemovalAllowed=true win.mRemoveOnExit=true win.mViewVisibility=0 caller=com.android.server.wm.AppWindowToken.destroySurfaces:870 com.android.server.wm.AppWindowToken.destroySurfaces:851 com.android.server.wm.WindowState.onExitAnimationDone:5436 com.android.server.wm.WindowStateAnimator.onAnimationFinished:319 com.android.server.wm.WindowState.onAnimationFinished:5858 com.android.server.wm.-$$Lambda$yVRF8YoeNdTa8GR1wDStVsHu8xM.run:2 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$0:100
+
+11-08 23:14:25.486  4211  4310 I WindowManager: Destroying surface Surface(name=Splash Screen com.wallapop)/@0xc78e4d7 called by com.android.server.wm.WindowStateAnimator.destroySurface:1901 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:838 com.android.server.wm.WindowState.destroySurfaceUnchecked:3839 com.android.server.wm.WindowState.destroySurface:3820 com.android.server.wm.AppWindowToken.destroySurfaces:870 com.android.server.wm.AppWindowToken.destroySurfaces:851 com.android.server.wm.WindowState.onExitAnimationDone:5436 com.android.server.wm.WindowStateAnimator.onAnimationFinished:319
+
+11-08 23:14:25.486  3727  3771 I SurfaceFlinger: id=21743 Removed Splash Screen com.wallapop#0 (0/73)
+
+11-08 23:14:25.499  3727  3771 W SurfaceFlinger: Attempting to set client state on removed layer: Splash Screen com.wallapop#0 [s.what : 40]
+
+11-08 23:14:25.499  3727  3771 D Layer   : [2620ff5 Splash Screen com.wallapop#0]::reparent oldParent:[Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3 - animation-leash#0], newParent:[AppWindowToken{4e65562 token=Token{b8a4c2d ActivityRecord{7a0344 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t2063}}}#0]
+
+11-08 23:14:25.499  3727  3771 I SurfaceFlinger: id=21750 Removed Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3 - animation-leash#0 (2/72)
+
+11-08 23:14:25.499  3727  3771 W SurfaceFlinger: Attempting to destroy on removed layer: Splash Screen com.wallapop#0
+
+11-08 23:14:25.499  3727  3771 I SurfaceFlinger: id=21742 Removed 2620ff5 Splash Screen com.wallapop#0 (1/71)
+
+11-08 23:14:25.500  3727  3727 I Layer   : id=21743 onRemoved Splash Screen com.wallapop#0
+
+11-08 23:14:25.501  3727  3727 I Layer   : id=21750 onRemoved Surface(name=2620ff5 Splash Screen com.wallapop)/@0xfe266f3 - animation-leash#0
+
+11-08 23:14:25.501  3727  3727 I Layer   : id=21742 onRemoved 2620ff5 Splash Screen com.wallapop#0
+
+11-08 23:14:25.507  3727  3727 I SurfaceFlinger:      Device | 0x70dda20b00 | 0002 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | com.wallapop/com.rewallapop.ui.wall.WallActivity[22385]#0
+
+11-08 23:14:25.574 22385 22385 V InputMethodManager: Starting input: tba=com.wallapop ic=null mNaviBarColor -1 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+
+11-08 23:14:25.634 17724 17850 I Finsky  : [7315] fxx.d(21): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+11-08 23:14:25.646 17724 17850 I Finsky  : [7315] fxx.d(21): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+11-08 23:14:25.675  4622  4682 E RequestManager_FLP: [FusedLocationApi] Location request d91f2d4(Listener) PRIORITY_BALANCED_POWER_ACCURACY interval=300000 from com.wallapop
+
+11-08 23:14:25.732  4211  5500 I WindowManager: Cancelling animation restarting=false, leash=null, surface=Surface(name=AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}})/@0xc00fb48, parent=Surface(name=Task=2063)/@0xaab1de1
+
+11-08 23:14:25.735  3727  5001 I SurfaceFlinger: id=21741 Removed AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}}#0 (0/70)
+
+11-08 23:14:25.751  3727  3727 I Layer   : id=21741 onRemoved AppWindowToken{c7ee8e8 token=Token{9fe820b ActivityRecord{3340dda u0 com.wallapop/com.rewallapop.ui.main.MainActivity t2063}}}#0
+
+11-08 23:14:25.761  4211  4228 D CodecSolution: isMaxAspectPackageEx: com.wallapop : true(2)
+
+11-08 23:14:25.792 22385 22396 I com.wallapop: Background concurrent copying GC freed 130909(6MB) AllocSpace objects, 37(5MB) LOS objects, 50% free, 19MB/39MB, paused 467us total 396.744ms
+
+11-08 23:14:25.836  4211  4669 D MdnieScenarioControlService:  packageName : com.wallapop    className : com.rewallapop.ui.wall.WallActivity
+
+11-08 23:14:26.188 22385 22385 W com.wallapop: Accessing hidden field Landroid/view/View;->mAccessibilityDelegate:Landroid/view/View$AccessibilityDelegate; (light greylist, reflection)
+
+11-08 23:14:27.004 22385 22385 W View    : requestLayout() improperly called by com.wallapop.design.view.WallapopTextView{88eb97a V.ED..... ......ID 47,26-47,86 #7f0a090e app:id/wp__home__tv_bubble} during layout: running second layout pass
+
+11-08 23:14:29.022  4211  5505 D WifiPermissionsUtil: canAccessScanResults: pkgName = com.wallapop, uid = 10308
+
+11-08 23:14:29.068 22385 22899 D com.amazon.device.ads.r:c:87: with json params:[{"oo":"false","dinfo":{"os":"Android","model":"SM-A750FN","make":"samsung","osVersion":"9","connectionType":"13","country":"ES","scalingFactor":"2.625","carrier":"JAZZTEL","language":"es","screenSize":"1080x2094","orientation":"portrait"},"ad-id":"Axre2l7KcE-wgekH3W8Q1Es","mraid":["1.0","2.0","3.0"],"idfa":"bf505ce3-e614-4d9a-a4d7-9c324edc6560","geoloc":"41.4479515,2.2383642,23.942","isDTBMobile":"true","ua":"Dalvik\/2.1.0 (Linux; U; Android 9; SM-A750FN Build\/PPR1.180610.011)","pkg":{"lbl":"_Wallapop_","pn":"com.wallapop","v":"1840200","vn":"1.84.2-d1910281408"},"gdpr":{"e":"1","c":"BOR0xKKOR0xKKABABAENBZ-AAAAfZ7_______9______9uz_Gv_v_f__33e8__9v_l_7_-___u_-33d4-_1vX99yfm1-7ftr3tp_86ues2vHqK9ZoA"},"adsdk":"aps-android-7.4.3","slots":[{"sz":"320x50","slot":"f414d83c-ab9f-4e02-9c59-5137663ee6c7","slotId":1,"supportedMediaTypes":["DISPLAY"]}],"isTest":"true","appId":"d2ba46e2d5ef4c9883051d9c8d0125d5"}]
+
+11-08 23:14:29.307 22385 22396 I com.wallapop: Background concurrent copying GC freed 346821(19MB) AllocSpace objects, 94(5MB) LOS objects, 49% free, 15MB/30MB, paused 604us total 209.979ms
+
+11-08 23:14:31.553 22385 22396 I com.wallapop: Background concurrent copying GC freed 195777(9MB) AllocSpace objects, 94(5MB) LOS objects, 50% free, 17MB/35MB, paused 468us total 197.587ms
+
+11-08 23:14:34.779 22385 22396 I com.wallapop: Background concurrent copying GC freed 175729(11MB) AllocSpace objects, 137(8MB) LOS objects, 49% free, 16MB/32MB, paused 866us total 197.581ms
+
+
