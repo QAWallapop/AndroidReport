@@ -1,0 +1,38 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Tests passed",
+    "children" : [ {
+      "children" : [ {
+        "name" : "[C58894] Chat: Active conversations - Conversations information",
+        "uid" : "5ed501e525c40d78",
+        "parentUid" : "9da621a6b1dc048e89861717850c9607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572471263582,
+          "stop" : 1572471270133,
+          "duration" : 6551
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C60457] Chat: Active conversations - Pagination",
+        "uid" : "78fd75b45d32ee00",
+        "parentUid" : "9da621a6b1dc048e89861717850c9607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572471270369,
+          "stop" : 1572471273998,
+          "duration" : 3629
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9da621a6b1dc048e89861717850c9607"
+    } ],
+    "uid" : "347d4161d9f8f3704d8f0c443b5ce940"
+  } ]
+}

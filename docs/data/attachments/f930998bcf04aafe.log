@@ -1,0 +1,19 @@
+Executed '[C60457] Chat: Active conversations - Pagination' on 30-10-2019
+---------------------------------------------------------------------------------
+11-09 22:34:28.414  4211  4390 D WifiTrafficPoller: TrafficStats TxPkts=721686 RxPkts=1305296 TxBytes=166264786 RxBytes=1241486676 , Foreground uid=10311 pkgName=com.wallapop TxPackets=40274 RxPackets=49720 TxBytes=5162039 RxBytes=55006098
+
+11-09 22:34:29.374  4211  4475 I CodecSolution: pid(6463) pkg(com.wallapop)
+
+11-09 22:34:29.385  4211  6751 D CodecSolution: topName : com.wallapop
+
+11-09 22:34:29.385  4211  6751 I CodecSolution: Top : com.wallapop
+
+11-09 22:34:29.385  4211  6751 D SCPMHelper: getPackageInfo(com.wallapop)
+
+11-09 22:34:29.637  6463  6475 I com.wallapop: Background concurrent copying GC freed 206350(10MB) AllocSpace objects, 172(11MB) LOS objects, 47% free, 26MB/50MB, paused 401us total 176.890ms
+
+11-09 22:34:30.325  6463  7108 I chatty  : uid=10311(com.wallapop) CodecLooper identical 1 line
+
+11-09 22:34:32.502  4211  4390 D WifiTrafficPoller: TrafficStats TxPkts=721735 RxPkts=1305356 TxBytes=166272254 RxBytes=1241494832 , Foreground uid=10311 pkgName=com.wallapop TxPackets=40318 RxPackets=49774 TxBytes=5169307 RxBytes=55013640
+
+
