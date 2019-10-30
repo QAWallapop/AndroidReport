@@ -1,0 +1,21 @@
+[ {
+  "uid" : "358d56a4f425e392",
+  "name" : "[C60457] Chat: Active conversations - Pagination",
+  "time" : {
+    "start" : 1572473313449,
+    "stop" : 1572473317405,
+    "duration" : 3956
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "f7570738797cd790",
+  "name" : "[C58894] Chat: Active conversations - Conversations information",
+  "time" : {
+    "start" : 1572473305628,
+    "stop" : 1572473313277,
+    "duration" : 7649
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]
