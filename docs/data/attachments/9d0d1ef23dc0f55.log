@@ -1,7 +1,0 @@
-Executed '[C58895] Chat: Active conversations - Archive conversations' on 31-10-2019
----------------------------------------------------------------------------------
-11-10 00:47:15.655  4211  4390 D WifiTrafficPoller: TrafficStats TxPkts=754219 RxPkts=1345919 TxBytes=171914153 RxBytes=1281822803 , Foreground uid=10311 pkgName=com.wallapop TxPackets=56644 RxPackets=65334 TxBytes=8379546 RxBytes=66479231
-
-11-10 00:47:19.743  4211  4390 D WifiTrafficPoller: TrafficStats TxPkts=754221 RxPkts=1345921 TxBytes=171914269 RxBytes=1281822915 , Foreground uid=10311 pkgName=com.wallapop TxPackets=56646 RxPackets=65336 TxBytes=8379662 RxBytes=66479343
-
-
