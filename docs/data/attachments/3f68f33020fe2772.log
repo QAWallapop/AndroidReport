@@ -1,0 +1,7 @@
+Executed '[C58895] Chat: Active conversations - Archive conversations' on 31-10-2019
+---------------------------------------------------------------------------------
+11-10 00:50:12.185  4211  4349 V SamsungAlarmManager: Sending to uid : 10311 action=com.appboy.action.receiver.DATA_SYNC alarm=Alarm{33eb5f3 type 1 when 1573343412175 com.wallapop}
+
+11-10 00:50:12.915  4211  4390 D WifiTrafficPoller: TrafficStats TxPkts=755489 RxPkts=1347055 TxBytes=172218733 RxBytes=1282512655 , Foreground uid=10311 pkgName=com.wallapop TxPackets=57547 RxPackets=66115 TxBytes=8602598 RxBytes=66970515
+
+

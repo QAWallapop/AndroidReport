@@ -1,0 +1,7 @@
+Executed '[C60457] Chat: Active conversations - Pagination' on 31-10-2019
+---------------------------------------------------------------------------------
+11-10 00:50:07.849  4211  4390 D WifiTrafficPoller: TrafficStats TxPkts=755477 RxPkts=1347045 TxBytes=172217918 RxBytes=1282506022 , Foreground uid=10311 pkgName=com.wallapop TxPackets=57537 RxPackets=66108 TxBytes=8601883 RxBytes=66964367
+
+11-10 00:50:11.502 26604 26609 I com.wallapop: Compiler allocated 4MB to compile void android.view.ViewRootImpl.performTraversals()
+
+
