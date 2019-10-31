@@ -1,0 +1,100 @@
+{
+  "uid" : "c9fc283346e6083d",
+  "name" : "[C58894] Chat: Active conversations - Conversations information",
+  "fullName" : "com.wallapop.functionality.chat.inbox.behaviour.TmpTest.test58894",
+  "historyId" : "6fb66671a7f91a563449b1cdae0c8298",
+  "time" : {
+    "start" : 1572512171735,
+    "stop" : 1572512178837,
+    "duration" : 7102
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "18deb5c2ff2d97df",
+      "name" : "Logcat",
+      "source" : "18deb5c2ff2d97df.log",
+      "type" : "text/plain",
+      "size" : 58267
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "OtherSuites_Android"
+  }, {
+    "name" : "tag",
+    "value" : "RegressionTest_Android"
+  }, {
+    "name" : "story",
+    "value" : "Active conversations inbox"
+  }, {
+    "name" : "feature",
+    "value" : "Chat"
+  }, {
+    "name" : "epic",
+    "value" : "OtherSuites_Android"
+  }, {
+    "name" : "host",
+    "value" : "QA-DavidCalvo"
+  }, {
+    "name" : "thread",
+    "value" : "13428@QA-DavidCalvo.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.functionality.chat.inbox.behaviour.TmpTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.functionality.chat.inbox.behaviour.TmpTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test58894"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.functionality.chat.inbox.behaviour.TmpTest"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "TestRail",
+    "url" : "https://wallapop.testrail.io/index.php?/cases/view/58894",
+    "type" : "custom"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Tests passed",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "tags" : [ "OtherSuites_Android", "RegressionTest_Android" ]
+  },
+  "source" : "c9fc283346e6083d.json",
+  "parameterValues" : [ ]
+}
