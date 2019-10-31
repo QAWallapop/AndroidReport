@@ -1,0 +1,51 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Tests passed",
+    "children" : [ {
+      "children" : [ {
+        "name" : "[C58894] Chat: Active conversations - Conversations information",
+        "uid" : "71bdbfbcc9764cc0",
+        "parentUid" : "9da621a6b1dc048e89861717850c9607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572514667328,
+          "stop" : 1572514675267,
+          "duration" : 7939
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C60457] Chat: Active conversations - Pagination",
+        "uid" : "148110cf79bbf2f9",
+        "parentUid" : "9da621a6b1dc048e89861717850c9607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572514675436,
+          "stop" : 1572514679057,
+          "duration" : 3621
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C58895] Chat: Active conversations - Archive conversations",
+        "uid" : "6e6dfb0261588b03",
+        "parentUid" : "9da621a6b1dc048e89861717850c9607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572514679107,
+          "stop" : 1572514684035,
+          "duration" : 4928
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9da621a6b1dc048e89861717850c9607"
+    } ],
+    "uid" : "347d4161d9f8f3704d8f0c443b5ce940"
+  } ]
+}
