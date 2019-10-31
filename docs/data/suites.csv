@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Oct 31 10:44:39 CET 2019","Thu Oct 31 10:44:42 CET 2019","3650","","com.wallapop.functionality.chat.inbox.behaviour.TmpTest","","com.wallapop.functionality.chat.inbox.behaviour.TmpTest","test60457","[C60457] Chat: Active conversations - Pagination",""
+"passed","Thu Oct 31 10:44:32 CET 2019","Thu Oct 31 10:44:38 CET 2019","6390","","com.wallapop.functionality.chat.inbox.behaviour.TmpTest","","com.wallapop.functionality.chat.inbox.behaviour.TmpTest","test58894","[C58894] Chat: Active conversations - Conversations information",""
+"passed","Thu Oct 31 10:44:42 CET 2019","Thu Oct 31 10:44:47 CET 2019","4549","","com.wallapop.functionality.chat.inbox.behaviour.Tmp2Test","","com.wallapop.functionality.chat.inbox.behaviour.Tmp2Test","test58895","[C58895] Chat: Active conversations - Archive conversations",""

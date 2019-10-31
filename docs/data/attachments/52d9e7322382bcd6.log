@@ -1,0 +1,17 @@
+Executed '[C60457] Chat: Active conversations - Pagination' on 31-10-2019
+---------------------------------------------------------------------------------
+11-10 10:44:36.637  4211  4475 I CodecSolution: pid(13514) pkg(com.wallapop)
+
+11-10 10:44:36.648  4211  8761 D CodecSolution: topName : com.wallapop
+
+11-10 10:44:36.648  4211  8761 I CodecSolution: Top : com.wallapop
+
+11-10 10:44:36.648  4211  8761 D SCPMHelper: getPackageInfo(com.wallapop)
+
+11-10 10:44:36.690 13514 14128 I chatty  : uid=10311(com.wallapop) CodecLooper identical 1 line
+
+11-10 10:44:37.596 13514 14128 I chatty  : uid=10311(com.wallapop) CodecLooper identical 1 line
+
+11-10 10:44:39.874  4211  4390 D WifiTrafficPoller: TrafficStats TxPkts=770437 RxPkts=1366616 TxBytes=175740867 RxBytes=1291962520 , Foreground uid=10311 pkgName=com.wallapop TxPackets=66810 RxPackets=75201 TxBytes=10486628 RxBytes=72997028
+
+
