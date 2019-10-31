@@ -1,0 +1,52 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.wallapop.functionality.chat.inbox.behaviour.TmpTest",
+    "children" : [ {
+      "name" : "[C58894] Chat: Active conversations - Conversations information",
+      "uid" : "12ec7d8222d2adad",
+      "parentUid" : "dfa6a654a886c1a49119c85bd2e0f0c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572513263611,
+        "stop" : 1572513273899,
+        "duration" : 10288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[C60457] Chat: Active conversations - Pagination",
+      "uid" : "bbea0bde4d62de43",
+      "parentUid" : "dfa6a654a886c1a49119c85bd2e0f0c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572513274199,
+        "stop" : 1572513277975,
+        "duration" : 3776
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "dfa6a654a886c1a49119c85bd2e0f0c9"
+  }, {
+    "name" : "com.wallapop.functionality.chat.inbox.behaviour.Tmp2Test",
+    "children" : [ {
+      "name" : "[C58895] Chat: Active conversations - Archive conversations",
+      "uid" : "a044afcd772ddde4",
+      "parentUid" : "a0c4ae79f1fa4a94f1b8e5d8c1948ecc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572513278038,
+        "stop" : 1572513282917,
+        "duration" : 4879
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a0c4ae79f1fa4a94f1b8e5d8c1948ecc"
+  } ]
+}
