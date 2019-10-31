@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "QA-DavidCalvo",
+    "children" : [ {
+      "name" : "15416@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "[C60457] Chat: Active conversations - Pagination",
+        "uid" : "2237db983f12abb1",
+        "parentUid" : "5c3766ebd6c170072852e683879ca7e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572513901062,
+          "stop" : 1572513904976,
+          "duration" : 3914
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C58895] Chat: Active conversations - Archive conversations",
+        "uid" : "1fcbe2ecc2e75e6a",
+        "parentUid" : "5c3766ebd6c170072852e683879ca7e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572513905060,
+          "stop" : 1572513910058,
+          "duration" : 4998
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C58894] Chat: Active conversations - Conversations information",
+        "uid" : "cf5707cae234a9d7",
+        "parentUid" : "5c3766ebd6c170072852e683879ca7e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572513893569,
+          "stop" : 1572513900908,
+          "duration" : 7339
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5c3766ebd6c170072852e683879ca7e4"
+    } ],
+    "uid" : "706f3b10e492961c2ff0d86cc259212f"
+  } ]
+}
