@@ -1,7 +1,0 @@
-Executed '[C60457] Chat: Active conversations - Pagination' on 31-10-2019
----------------------------------------------------------------------------------
-11-10 10:24:58.278  9709 10330 I chatty  : uid=10311(com.wallapop) CodecLooper identical 1 line
-
-11-10 10:25:00.264  4211  4390 D WifiTrafficPoller: TrafficStats TxPkts=766146 RxPkts=1361382 TxBytes=174724971 RxBytes=1289305795 , Foreground uid=10311 pkgName=com.wallapop TxPackets=63366 RxPackets=71842 TxBytes=9724969 RxBytes=71032559
-
-
