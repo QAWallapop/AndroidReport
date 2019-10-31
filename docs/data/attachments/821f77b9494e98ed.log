@@ -1,9 +1,0 @@
-Executed '[C60457] Chat: Active conversations - Pagination' on 31-10-2019
----------------------------------------------------------------------------------
-11-10 10:10:19.541  4211  4390 D WifiTrafficPoller: TrafficStats TxPkts=763204 RxPkts=1357303 TxBytes=173973129 RxBytes=1287261408 , Foreground uid=10311 pkgName=com.wallapop TxPackets=61087 RxPackets=69612 TxBytes=9244042 RxBytes=69530209
-
-11-10 10:10:23.609  4211  4390 D WifiTrafficPoller: TrafficStats TxPkts=763240 RxPkts=1357348 TxBytes=173974589 RxBytes=1287306426 , Foreground uid=10311 pkgName=com.wallapop TxPackets=61121 RxPackets=69686 TxBytes=9247074 RxBytes=69631918
-
-11-10 10:10:24.146  7087  7098 I com.wallapop: Background concurrent copying GC freed 186516(8MB) AllocSpace objects, 141(14MB) LOS objects, 44% free, 30MB/54MB, paused 863us total 191.877ms
-
-
