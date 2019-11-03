@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.wallapop.functionality.RegressionTest",
+    "children" : [ {
+      "name" : "RegressionTestSuite()",
+      "uid" : "97ebfc0d307609cf",
+      "parentUid" : "eaef20e32dd38e41b8beecb4af785f4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572823643958,
+        "stop" : 1572823646834,
+        "duration" : 2876
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "eaef20e32dd38e41b8beecb4af785f4b"
+  } ]
+}

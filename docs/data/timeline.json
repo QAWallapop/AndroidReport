@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "QA-DavidCalvo",
+    "children" : [ {
+      "name" : "12400@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "RegressionTestSuite()",
+        "uid" : "97ebfc0d307609cf",
+        "parentUid" : "54a3c6f21b90a234edaa40f4ce399dfb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572823643958,
+          "stop" : 1572823646834,
+          "duration" : 2876
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "54a3c6f21b90a234edaa40f4ce399dfb"
+    } ],
+    "uid" : "706f3b10e492961c2ff0d86cc259212f"
+  } ]
+}
