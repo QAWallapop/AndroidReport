@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Nov 03 02:42:54 CET 2019","Sun Nov 03 02:42:57 CET 2019","2201","","com.wallapop.functionality.chat.inbox.behaviour.TestRailTest","","com.wallapop.functionality.chat.inbox.behaviour.TestRailTest","TestRailTest_01","TestRailTest_01()",""
