@@ -1,0 +1,81 @@
+{
+  "uid" : "ffde2f6111dfd08f",
+  "name" : "TestRailTest_01()",
+  "fullName" : "com.wallapop.functionality.chat.inbox.behaviour.TestRailTest.TestRailTest_01",
+  "historyId" : "df9a1e7239c6cf167b84d3fda540fba7",
+  "time" : {
+    "start" : 1572742760248,
+    "stop" : 1572742766157,
+    "duration" : 5909
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f0700aeaec5a2fe1",
+      "name" : "Logcat",
+      "source" : "f0700aeaec5a2fe1.log",
+      "type" : "text/plain",
+      "size" : 10594
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "OtherSuites_Android"
+  }, {
+    "name" : "host",
+    "value" : "QA-DavidCalvo"
+  }, {
+    "name" : "thread",
+    "value" : "10692@QA-DavidCalvo.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.functionality.chat.inbox.behaviour.TestRailTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.functionality.chat.inbox.behaviour.TestRailTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestRailTest_01"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.functionality.chat.inbox.behaviour.TestRailTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Tests passed",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "tags" : [ "OtherSuites_Android" ]
+  },
+  "source" : "ffde2f6111dfd08f.json",
+  "parameterValues" : [ ]
+}
