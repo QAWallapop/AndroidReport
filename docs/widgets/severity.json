@@ -1,0 +1,11 @@
+[ {
+  "uid" : "a655af02eb7cbb32",
+  "name" : "TestRailTest_01()",
+  "time" : {
+    "start" : 1572820376989,
+    "stop" : 1572820379559,
+    "duration" : 2570
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
