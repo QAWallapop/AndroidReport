@@ -1,0 +1,129 @@
+Executed 'TestRailTest_01()' on 03-11-2019
+---------------------------------------------------------------------------------
+11-03 01:06:53.072 19907 19907 E e4defrag: ext4 defragmentation for directory(/data/data/com.wallapop)
+
+11-03 01:06:53.099 19907 19907 E e4defrag: [79;0H[K[28/551]/data/data/com.wallapop/cache/org.chromium.android_webview/Code Cache/js/7f17f822e1e62820_0:	100%
+
+11-03 01:06:53.102 19907 19907 E e4defrag: [79;0H[K[32/551]/data/data/com.wallapop/cache/org.chromium.android_webview/Code Cache/js/9ee7b33688d06d20_0:	100%
+
+11-03 01:06:53.103 19907 19907 E e4defrag: [79;0H[K[35/551]/data/data/com.wallapop/cache/org.chromium.android_webview/Code Cache/js/87148a014412bf5f_0:	100%
+
+11-03 01:06:53.103 19907 19907 E e4defrag: [79;0H[K[43/551]/data/data/com.wallapop/cache/org.chromium.android_webview/Code Cache/js/7659751a5e121d9a_0:	100%
+
+11-03 01:06:53.106 19907 19907 E e4defrag: [79;0H[K[73/551]/data/data/com.wallapop/cache/org.chromium.android_webview/f038e94cb33282ab_0:	100%
+
+11-03 01:06:53.106 19907 19907 E e4defrag: [79;0H[K[74/551]/data/data/com.wallapop/cache/org.chromium.android_webview/20f9fcfcbe9fdb98_0:	100%
+
+11-03 01:06:53.107 19907 19907 E e4defrag: [79;0H[K[95/551]/data/data/com.wallapop/cache/org.chromium.android_webview/329b2a609f4b097e_0:	100%
+
+11-03 01:06:53.108 19907 19907 E e4defrag: [79;0H[K[99/551]/data/data/com.wallapop/cache/org.chromium.android_webview/30464f3e87388bfd_0:	100%
+
+11-03 01:06:53.108 19907 19907 E e4defrag: [79;0H[K[101/551]/data/data/com.wallapop/cache/org.chromium.android_webview/45c7ce6f1157700a_0:	100%
+
+11-03 01:06:53.108 19907 19907 E e4defrag: [79;0H[K[104/551]/data/data/com.wallapop/cache/org.chromium.android_webview/1d342b8feff3b552_0:	100%
+
+11-03 01:06:53.108 19907 19907 E e4defrag: [79;0H[K[108/551]/data/data/com.wallapop/cache/org.chromium.android_webview/ab133c0af5e58507_0:	100%
+
+11-03 01:06:53.109 19907 19907 E e4defrag: [79;0H[K[109/551]/data/data/com.wallapop/cache/org.chromium.android_webview/50c8f94b3e1bcb17_0:	100%
+
+11-03 01:06:53.109 19907 19907 E e4defrag: [79;0H[K[110/551]/data/data/com.wallapop/cache/org.chromium.android_webview/d3fa56d974f51612_0:	100%
+
+11-03 01:06:53.109 19907 19907 E e4defrag: [79;0H[K[111/551]/data/data/com.wallapop/cache/org.chromium.android_webview/4cac1714e20b8568_0:	100%
+
+11-03 01:06:53.109 19907 19907 E e4defrag: [79;0H[K[114/551]/data/data/com.wallapop/cache/org.chromium.android_webview/b5f2a06b901f50b0_0:	100%
+
+11-03 01:06:53.111 19907 19907 E e4defrag: [79;0H[K[125/551]/data/data/com.wallapop/cache/org.chromium.android_webview/ace419df7384b5b3_0:	100%
+
+11-03 01:06:53.123 19907 19907 E e4defrag: [79;0H[K[333/551]/data/data/com.wallapop/cache/-1071536691.png:	100%
+
+11-03 01:06:53.129 19907 19907 E e4defrag: [79;0H[K[437/551]/data/data/com.wallapop/files/TLProperties.json:	100%
+
+11-03 01:06:53.133 19907 19907 E e4defrag: [79;0H[K[472/551]/data/data/com.wallapop/databases/wallapop-chat.db:	100%
+
+11-03 01:06:53.133 19907 19907 E e4defrag: [79;0H[K[480/551]/data/data/com.wallapop/databases/mparticle.db:	100%
+
+11-03 01:06:53.251 19901 19901 I appproc : Command=app_process /system/bin com.android.commands.am.Am force-stop com.wallapop
+
+11-03 01:06:54.447 19917 20014 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+11-03 01:06:56.189 19917 19917 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+11-03 01:06:56.189 19917 19917 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+11-03 01:06:59.659 19917 20160 E linker  : warning: unable to get realpath for the library "/data/data/com.wallapop/app_optimized/audience_network.dex". Will use given name.
+
+11-03 01:07:04.674  3066  3388 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10196  WEBSENDSEGS=139  WEBRESENDSEGS=0  WEBRECVSEGS=134  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=243  WEBRTTSEGS=53  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=0]
+
+11-03 01:13:50.995 20639 20701 I appium  : AppiumResponse: {"sessionId":"f7139ec2-1322-4470-badc-493422839f2d","value":{"sessionId":"f7139ec2-1322-4470-badc-493422839f2d","capabilities":{"firstMatch":[{"platform":"LINUX","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":false,"warnings":{},"desired":{"platformName":"android","normalizeTagNames":true,"androidInstallTimeout":150000,"app":"","appActivity":"com.rewallapop.ui.main.MainActivity","appPackage":"com.wallapop","isHeadless":false,"skipDeviceInitialization":true,"autoAcceptAlerts":true,"autoGrantPermissions":true,"automationName":"UiAutomator2","avd":"","deviceName":"W3D7N16219018904","deviceReadyTimeout":1,"fullReset":false,"ignoreUnimportantViews":true,"newCommandTimeout":60,"noReset":true,"systemPort":8223,"udid":"W3D7N16219018904"},"platformName":"android","normalizeTagNames":true,"androidInstallTimeout":150000,"app":"","appActivity":"com.rewallapop.ui.main.MainActivity","appPackage":"com.wallapop","isHeadless":false,"skipDeviceInitialization":true,"autoAcceptAlerts":true,"autoGrantPermissions":true,"automationName":"UiAutomator2","avd":"","deviceName":"W3D7N16219018904","deviceReadyTimeout":1,"fullReset":false,"ignoreUnimportantViews":true,"newCommandTimeout":60,"noReset":true,"systemPort":8223,"udid":"W3D7N16219018904","deviceUDID":"W3D7N16219018904"}],"alwaysMatch":{}}}}
+
+11-03 01:13:52.176 20707 20707 I appproc : Command=app_process /system/bin com.android.commands.am.Am start -W -n com.wallapop/com.rewallapop.ui.main.MainActivity -S
+
+11-03 01:13:52.759  3986  4530 W PGApi_client: recv actoionId = 10000, action = com.huawei.pgmng.PGAction@3f48a97 actionId =10000 pkg =com.wallapop extend1 =14989 extend2 = flag =3 type =1
+
+11-03 01:13:52.759  3986  4530 W PGMiddleWare: in handleAction, invoke client = com.huawei.pgmng.middleware.AudioEffectLowPowerImpl@1eaa45e, action = com.huawei.pgmng.PGAction@3f48a97 actionId =10000 pkg =com.wallapop extend1 =14989 extend2 = flag =3 type =1
+
+11-03 01:13:53.483 20716 20811 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+11-03 01:13:54.893 20716 20716 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+11-03 01:13:54.893 20716 20716 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.wallapop.clickstream.JobIntentService$f>
+
+11-03 01:13:59.025 20716 21008 E linker  : warning: unable to get realpath for the library "/data/data/com.wallapop/app_optimized/audience_network.dex". Will use given name.
+
+11-03 01:13:59.770 20716 20884 E linker  : warning: unable to get realpath for the library "/data/data/com.wallapop/cache/1570054248636.dex". Will use given name.
+
+11-03 01:14:00.842 30059 30072 I Finsky  : [782] fyd.d(3): com.wallapop: Account determined from installer data - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:00.843 30059 30072 I Finsky  : [782] fyd.d(14): com.wallapop: Account from preferred account - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:00.853 30059 30073 I Finsky  : [783] fyd.d(3): com.wallapop: Account determined from installer data - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:00.853 30059 30073 I Finsky  : [783] fyd.d(14): com.wallapop: Account from preferred account - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:00.860 30059 30258 I Finsky  : [858] fyd.d(3): com.wallapop: Account determined from installer data - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:00.860 30059 30258 I Finsky  : [858] fyd.d(14): com.wallapop: Account from preferred account - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:00.863 30059 30257 I Finsky  : [857] fyd.d(3): com.wallapop: Account determined from installer data - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:00.865 30059 30257 I Finsky  : [857] fyd.d(14): com.wallapop: Account from preferred account - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:01.514  3066  3085 I ActivityManager: Displayed com.wallapop/com.rewallapop.ui.wall.WallActivity: +2s937ms (total +7m7s982ms)
+
+11-03 01:14:01.543 30059 30258 I Finsky  : [858] fyd.d(3): com.wallapop: Account determined from installer data - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:01.544 30059 30258 I Finsky  : [858] fyd.d(14): com.wallapop: Account from preferred account - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:01.630 30059 30257 I Finsky  : [857] fyd.d(3): com.wallapop: Account determined from installer data - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:01.630 30059 30257 I Finsky  : [857] fyd.d(14): com.wallapop: Account from preferred account - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:01.727 30059 30072 I Finsky  : [782] fyd.d(3): com.wallapop: Account determined from installer data - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:01.728 30059 30072 I Finsky  : [782] fyd.d(14): com.wallapop: Account from preferred account - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:01.775 30059 30073 I Finsky  : [783] fyd.d(3): com.wallapop: Account determined from installer data - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:01.776 30059 30073 I Finsky  : [783] fyd.d(14): com.wallapop: Account from preferred account - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:02.005 30059 30258 I Finsky  : [858] fyd.d(3): com.wallapop: Account determined from installer data - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:02.005 30059 30258 I Finsky  : [858] fyd.d(14): com.wallapop: Account from preferred account - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:02.290 30059 30257 I Finsky  : [857] fyd.d(3): com.wallapop: Account determined from installer data - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:02.294 30059 30257 I Finsky  : [857] fyd.d(14): com.wallapop: Account from preferred account - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:02.324 30059 30072 I Finsky  : [782] fyd.d(3): com.wallapop: Account determined from installer data - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:02.325 30059 30072 I Finsky  : [782] fyd.d(14): com.wallapop: Account from preferred account - [VoWxNn8b5rEQ16LF0i3-s5KcEVYDMATZSI2v8NbSQx0]
+
+11-03 01:14:02.852  3066  3388 E HwCHRWebMonitor: running processNamecom.wallapop
+
+11-03 01:14:02.853  3066  3388 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10196  WEBSENDSEGS=307  WEBRESENDSEGS=0  WEBRECVSEGS=245  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=906  WEBRTTSEGS=111  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=0]
+
+11-03 01:14:07.874  3066  3388 E HwCHRWebMonitor: running processNamecom.wallapop
+
+11-03 01:14:07.875  3066  3388 E HwCHRWebMonitor: HwCHRWifiUIDWebSpeed [appName=com.wallapop UID=10196  WEBSENDSEGS=301  WEBRESENDSEGS=0  WEBRECVSEGS=329  WEBERRSEGS=0  WEBOUTRSTS=0  WEBESTABLISRST=0  WEBRTTDURATION=361  WEBRTTSEGS=76  WEBSNDDUPACKS=0  suckTimes=0 recovage_times=1]
+
+
