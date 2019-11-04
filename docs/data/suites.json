@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.wallapop.functionality.general.utilities.testRail.TestRailTest",
+    "children" : [ {
+      "name" : "TestRailTest_01()",
+      "uid" : "b5dd1d6187a5aba6",
+      "parentUid" : "e3d9765f79606d6b45bb8b55f5d81c41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1572875138982,
+        "stop" : 1572875142772,
+        "duration" : 3790
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e3d9765f79606d6b45bb8b55f5d81c41"
+  } ]
+}
