@@ -1,0 +1,81 @@
+{
+  "uid" : "3d02462c165f66f9",
+  "name" : "TestRailTest_01()",
+  "fullName" : "com.wallapop.functionality.general.utilities.testRail.TestRailTest.TestRailTest_01",
+  "historyId" : "913429beeb33f68549fafc5a84fb312d",
+  "time" : {
+    "start" : 1572887091718,
+    "stop" : 1572887095633,
+    "duration" : 3915
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c641b83580ff7ae5",
+      "name" : "Logcat",
+      "source" : "c641b83580ff7ae5.log",
+      "type" : "text/plain",
+      "size" : 81306
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "OtherSuites_Android"
+  }, {
+    "name" : "host",
+    "value" : "QA-DavidCalvo"
+  }, {
+    "name" : "thread",
+    "value" : "15692@QA-DavidCalvo.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.functionality.general.utilities.testRail.TestRailTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.functionality.general.utilities.testRail.TestRailTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestRailTest_01"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.functionality.general.utilities.testRail.TestRailTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Tests passed",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "tags" : [ "OtherSuites_Android" ]
+  },
+  "source" : "3d02462c165f66f9.json",
+  "parameterValues" : [ ]
+}
