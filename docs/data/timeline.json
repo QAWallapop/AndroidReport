@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "QA-DavidCalvo",
+    "children" : [ {
+      "name" : "14008@QA-DavidCalvo.main(1)",
+      "children" : [ {
+        "name" : "TestRailTest_01()",
+        "uid" : "7ccc25ebb6bc5f99",
+        "parentUid" : "565f8178edeae58e5da7069cc8e8eb7f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1572863977457,
+          "stop" : 1572863980977,
+          "duration" : 3520
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "565f8178edeae58e5da7069cc8e8eb7f"
+    } ],
+    "uid" : "706f3b10e492961c2ff0d86cc259212f"
+  } ]
+}
