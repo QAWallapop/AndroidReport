@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.wallapop.functionality.help.tests.HelpTest",
+    "children" : [ {
+      "name" : "help_01_goToHelpScreen_isSectionsDisplayed",
+      "uid" : "f6eaf2fc3bd8551a",
+      "parentUid" : "f13c548685e29b793663428e504c9aa5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594163203209,
+        "stop" : 1594163228062,
+        "duration" : 24853
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.wallapop.functionality.help.tests.HelpTest"
+  } ]
+}
