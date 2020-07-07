@@ -1,0 +1,30 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Regression",
+    "children" : [ {
+      "name" : "Help",
+      "children" : [ {
+        "name" : "Help information and actions",
+        "children" : [ {
+          "name" : "[C740] Help: Access and sections",
+          "uid" : "b46b3df93ffdd5d1",
+          "parentUid" : "044bac959cd875b7d482cd66babb238a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594162525353,
+            "stop" : 1594162549864,
+            "duration" : 24511
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "044bac959cd875b7d482cd66babb238a"
+      } ],
+      "uid" : "3a9ba29ab8c9501f364b0c80e6947095"
+    } ],
+    "uid" : "03c2c43ea40815c27306e3934ff482fd"
+  } ]
+}
