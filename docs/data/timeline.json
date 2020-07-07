@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-3BJSC0U",
+    "children" : [ {
+      "name" : "1904@DESKTOP-3BJSC0U.main(1)",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "ba63347fa28d0b3d",
+        "parentUid" : "7403e1687cf308e6b9a954a1e26eb62c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594163087752,
+          "stop" : 1594163114502,
+          "duration" : 26750
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7403e1687cf308e6b9a954a1e26eb62c"
+    } ],
+    "uid" : "3938a7d75a6b036e34bde3e1e72d131b"
+  } ]
+}

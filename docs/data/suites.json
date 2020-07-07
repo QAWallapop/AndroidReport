@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.wallapop.functionality.help.tests.HelpTest",
+    "children" : [ {
+      "name" : "[C740] Help: Access and sections",
+      "uid" : "ba63347fa28d0b3d",
+      "parentUid" : "5027b3bd6fab81741c5c709f0cbd3df4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594163087752,
+        "stop" : 1594163114502,
+        "duration" : 26750
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5027b3bd6fab81741c5c709f0cbd3df4"
+  } ]
+}
