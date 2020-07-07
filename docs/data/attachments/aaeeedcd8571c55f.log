@@ -1,0 +1,1327 @@
+Executed '[C740] Help: Access and sections' on 08-07-2020
+---------------------------------------------------------------------------------
+07-08 00:25:24.036  4948 13116 I ActivityManager: Force stopping com.wallapop appid=10385 user=0: from pid 24397
+
+07-08 00:25:24.037  4948 13116 I ActivityManager: Killing 22130:com.wallapop/u0a385 (adj 200): stop com.wallapop
+
+07-08 00:25:24.041  4948 13116 W ActivityManager: Scheduling restart of crashed service com.wallapop/com.rewallapop.ui.debug.view.DebugActivity$Service in 1000ms
+
+07-08 00:25:24.042  4948  4948 D EdgeLightingManager: hideForNotification : packageName = com.wallapop
+
+07-08 00:25:24.042  4948  4948 D EdgeLightingPolicyManager:NotificationGroup: remove : sbn : StatusBarNotification(pkg=com.wallapop user=UserHandle{0} id=999 tag=null key=0|com.wallapop|999|null|10385: Notification(channel=wallapop_channel pri=-2 contentView=null vibrate=null sound=null defaults=0x0 flags=0x62 color=0x00000000 vis=PRIVATE semFlags=0x0 semPriority=0 semMissedCount=0))
+
+07-08 00:25:24.042  4948 13116 W ActivityTaskManager: Force removing ActivityRecord{a78b5ca u0 com.wallapop/.activities.PreferencesActivity t1301 f}: app died, no saved state
+
+07-08 00:25:24.042  4948  4948 D EdgeLightingPolicyManager: isAcceptableApplication:  pkg=com.wallapop , range=1 , includeAllApp=false , userId=0 , infoRange=0 , infoCategory=0
+
+07-08 00:25:24.044  4382  4439 I Layer   : id=1353 removeFromCurrentState 4da0634 com.wallapop/com.wallapop.activities.PreferencesActivity#0 (56)
+
+07-08 00:25:24.044  4382  4439 I SurfaceFlinger: id=1353 Removed 4da0634 com.wallapop/com.wallapop.activities.PreferencesActivity#0 (56)
+
+07-08 00:25:24.044  4948 13116 W ActivityTaskManager: Force removing ActivityRecord{1cddd5b u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1301 f}: app died, no saved state
+
+07-08 00:25:24.045  4382  4439 I Layer   : id=1352 removeFromCurrentState AppWindowToken{a8e2a58 token=Token{105233b ActivityRecord{a78b5ca u0 com.wallapop/.activities.PreferencesActivity t1301}}}#0 (56)
+
+07-08 00:25:24.046  4382  4439 I Layer   : id=1349 removeFromCurrentState a8a04e7 com.wallapop/com.rewallapop.ui.wall.WallActivity#0 (56)
+
+07-08 00:25:24.046  4382  4439 I SurfaceFlinger: id=1352 Removed AppWindowToken{a8e2a58 token=Token{105233b ActivityRecord{a78b5ca u0 com.wallapop/.activities.PreferencesActivity t1301}}}#0 (56)
+
+07-08 00:25:24.046  4382  4439 I SurfaceFlinger: id=1349 Removed a8a04e7 com.wallapop/com.rewallapop.ui.wall.WallActivity#0 (56)
+
+07-08 00:25:24.047  4382  4439 I Layer   : id=1344 removeFromCurrentState AppWindowToken{20a9ed1 token=Token{d7b29f8 ActivityRecord{1cddd5b u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1301}}}#0 (56)
+
+07-08 00:25:24.048  4382  4439 I SurfaceFlinger: id=1344 Removed AppWindowToken{20a9ed1 token=Token{d7b29f8 ActivityRecord{1cddd5b u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1301}}}#0 (56)
+
+07-08 00:25:24.048 12945 12986 V NotificationManager_FLP: Notification for foreground service is removed, 0|com.wallapop|999|null|10385
+
+07-08 00:25:24.050 13050 13050 D Launcher.NotificationListener: onNotificationRemoved : StatusBarNotification(pkg=com.wallapop user=UserHandle{0} id=999 tag=null key=0|com.wallapop|999|null|10385: Notification(channel=wallapop_channel pri=-2 contentView=null vibrate=null sound=null defaults=0x0 flags=0x62 color=0x00000000 vis=PRIVATE semFlags=0x0 semPriority=0 semMissedCount=0)) listener : null
+
+07-08 00:25:24.053  4382  4382 I Layer   : id=1353[1] Destroyed 4da0634 com.wallapop/com.wallapop.activities.PreferencesActivity#0
+
+07-08 00:25:24.053  4382  4382 I Layer   : id=1349[1] Destroyed a8a04e7 com.wallapop/com.rewallapop.ui.wall.WallActivity#0
+
+07-08 00:25:24.053  4382  4382 I Layer   : id=1344[1] Destroyed AppWindowToken{20a9ed1 token=Token{d7b29f8 ActivityRecord{1cddd5b u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1301}}}#0
+
+07-08 00:25:24.053  4382  4382 I Layer   : id=1352[1] Destroyed AppWindowToken{a8e2a58 token=Token{105233b ActivityRecord{a78b5ca u0 com.wallapop/.activities.PreferencesActivity t1301}}}#0
+
+07-08 00:25:24.061  4948  4948 D SamsungAlarmManager: Remove alarm for next reason : android.intent.action.PACKAGE_RESTARTED : package: com.wallapop
+
+07-08 00:25:24.070  4948  5106 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.wallapop flg=0x10 (has extras) } to android/com.kddi.android.CpaNotiReceiver
+
+07-08 00:25:29.684  4948 15033 I ActivityManager: Force stopping com.wallapop appid=10385 user=0: from pid 24799
+
+07-08 00:25:29.686  4948  4948 D SamsungAlarmManager: Remove alarm for next reason : android.intent.action.PACKAGE_RESTARTED : package: com.wallapop
+
+07-08 00:25:29.689  4948  5106 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.wallapop flg=0x10 (has extras) } to android/com.kddi.android.CpaNotiReceiver
+
+07-08 00:25:29.938  4948 15033 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.wallapop/com.rewallapop.ui.main.MainActivity} from uid 2000
+
+07-08 00:25:29.945  4382  5775 I SurfaceFlinger: id=1373 createSurf (0x0),-1 flag=80004, AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}}#0
+
+07-08 00:25:29.947  4948  5100 D GameSDKService: MultiWindowEventListener.onFocusStackChanged(), state=0, top=ComponentInfo{com.wallapop/com.rewallapop.ui.main.MainActivity}
+
+07-08 00:25:29.948  4948  5100 D GameSDKService: MultiWindowEventListener.onFocusStackChanged(): com.wallapop
+
+07-08 00:25:29.949  4948  5100 D GameManagerService: MultiWindowEventListener.onFocusedStackChanged(), state=0, top=ComponentInfo{com.wallapop/com.rewallapop.ui.main.MainActivity}
+
+07-08 00:25:29.949  4948  5100 D GameManagerService: MultiWindowEventListener.onFocusedStackChanged(), pkgName: com.wallapop, clsName: com.rewallapop.ui.main.MainActivity, FgActivityName:com.wallapop/com.rewallapop.ui.main.MainActivity, userID:0
+
+07-08 00:25:29.952  4948  5100 I ApplicationPolicy: isApplicationExternalStorageWhitelisted:com.wallapop user:0
+
+07-08 00:25:29.952  4948  5100 D ActivityManager: package  com.wallapop, user - 0 is SDcard whitelisted
+
+07-08 00:25:29.953  4948  5100 I ApplicationPolicy: isApplicationExternalStorageBlacklisted:com.wallapop user:0
+
+07-08 00:25:29.953  4948  5100 I ApplicationPolicy: isApplicationExternalStorageBlacklisted:com.wallapop user:0
+
+07-08 00:25:29.954  4948  5101 D PhoneWindow: forceLight changed to true [Splash Screen com.wallapop] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4268 com.android.internal.policy.DecorView.updateColorViews:1513 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3246 android.view.Window.setFlags:1148 com.android.internal.policy.PhoneWindow.generateLayout:2474
+
+07-08 00:25:29.954  4948  5101 D PhoneWindow: forceLight changed to false [Splash Screen com.wallapop] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1513 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3246 android.view.Window.setFlags:1148 com.android.internal.policy.PhoneWindow.generateLayout:2620
+
+07-08 00:25:29.957  4382  5775 I SurfaceFlinger: id=1374 createSurf (0x0),-1 flag=80004, df298b4 Splash Screen com.wallapop#0
+
+07-08 00:25:29.958  4948  5101 D WindowManager: w is invisible : df298b4 Splash Screen com.wallapop
+
+07-08 00:25:29.958  4948  5101 D WindowManager: w is invisible : df298b4 Splash Screen com.wallapop
+
+07-08 00:25:29.963  4948  5101 V WindowManager: Relayout Window{df298b4 u0 Splash Screen com.wallapop}: viewVisibility=0 req=1080x2220
+
+07-08 00:25:29.965  4382  5775 I SurfaceFlinger: id=1375 createSurf (1080x2220),1 flag=4, Splash Screen com.wallapop#0
+
+07-08 00:25:29.966  4948  5101 D WindowManager: makeSurface duration=1 name=Splash Screen com.wallapop
+
+07-08 00:25:29.971  4948  5107 I ActivityManager: Start proc 24802:com.wallapop/u0a385 for activity {com.wallapop/com.rewallapop.ui.main.MainActivity}
+
+07-08 00:25:29.976  4948  5101 D WindowManager: finishDrawingWindow: Window{df298b4 u0 Splash Screen com.wallapop} mDrawState=DRAW_PENDING
+
+07-08 00:25:29.978 24802 24802 I com.wallapop: Late-enabling -Xcheck:jni
+
+07-08 00:25:29.978  4948  5101 V WindowManager: performShow on Window{df298b4 u0 Splash Screen com.wallapop}: mDrawState=READY_TO_SHOW readyForDisplay=false starting=true during animation: policyVis=true parentHidden=false tok.hiddenRequested=false tok.hidden=true animating=true tok animating=true Callers=com.android.server.wm.WindowState.performShowLocked:4731 com.android.server.wm.WindowStateAnimator.commitFinishDrawingLocked:401 com.android.server.wm.DisplayContent.lambda$new$8$DisplayContent:990 com.android.server.wm.-$$Lambda$DisplayContent$qxt4izS31fb0LF2uo_OF9DMa7gc.accept:4
+
+07-08 00:25:29.987  4948  5101 D WindowManager: finishDrawingWindow: Window{df298b4 u0 Splash Screen com.wallapop} mDrawState=READY_TO_SHOW
+
+07-08 00:25:29.999 24802 24802 E com.wallapop: Unknown bits set in runtime_flags: 0x8000
+
+07-08 00:25:30.013  4948 15823 I ActivityManager: DSS OFF for com.wallapop
+
+07-08 00:25:30.016  4948 15823 V WindowManager: performShow on Window{df298b4 u0 Splash Screen com.wallapop}: mDrawState=READY_TO_SHOW readyForDisplay=false starting=true during animation: policyVis=true parentHidden=false tok.hiddenRequested=false tok.hidden=true animating=true tok animating=true Callers=com.android.server.wm.WindowState.performShowLocked:4731 com.android.server.wm.WindowStateAnimator.commitFinishDrawingLocked:401 com.android.server.wm.DisplayContent.lambda$new$8$DisplayContent:990 com.android.server.wm.-$$Lambda$DisplayContent$qxt4izS31fb0LF2uo_OF9DMa7gc.accept:4
+
+07-08 00:25:30.018  4948 15823 D GamePkgDataHelper: notifyAppCreate(), pkgName: com.wallapop, sendRet: true
+
+07-08 00:25:30.018  4948 12772 D GameManagerService: onLooperPrepared(), msg: { when=0 what=10010 obj=com.wallapop target=com.samsung.android.game.GameManagerService$FgCheckThread$1 }
+
+07-08 00:25:30.018  4948 12772 D GameManagerService: handleMessage(), MSG_APP_CREATE. pkgName: com.wallapop
+
+07-08 00:25:30.019  4948 15823 D MARsPolicyManager: onPackageResumedFG pkgName = com.wallapop, userId = 0
+
+07-08 00:25:30.021  4948  5101 V WindowManager: performShow on Window{df298b4 u0 Splash Screen com.wallapop}: mDrawState=READY_TO_SHOW readyForDisplay=false starting=true during animation: policyVis=true parentHidden=false tok.hiddenRequested=false tok.hidden=true animating=true tok animating=true Callers=com.android.server.wm.WindowState.performShowLocked:4731 com.android.server.wm.WindowStateAnimator.commitFinishDrawingLocked:401 com.android.server.wm.DisplayContent.lambda$new$8$DisplayContent:990 com.android.server.wm.-$$Lambda$DisplayContent$qxt4izS31fb0LF2uo_OF9DMa7gc.accept:4
+
+07-08 00:25:30.025  4948  5101 I WindowManager: Reparenting to leash, surface=Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d
+
+07-08 00:25:30.025  4382  4440 I SurfaceFlinger: id=1378 createSurf (0x0),-1 flag=80004, Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-leash#0
+
+07-08 00:25:30.025  4948  5101 D WindowManager: makeSurface duration=0 leash=Surface(name=Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-leash)/@0xd06c962
+
+07-08 00:25:30.025  4382  4440 I SurfaceFlinger: id=1379 createSurf (0x0),-1 flag=80004, Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-bounds#0
+
+07-08 00:25:30.026  4948  5098 D WindowManager: setSystemUiVisibility: displayId=0, vis=0xa018, fullVis=0x2000, dockVis=0x0, win=Window{df298b4 u0 Splash Screen com.wallapop}
+
+07-08 00:25:30.032  4948 12703 D PkgPredictorService: com.wallapop go to foreground!
+
+07-08 00:25:30.032  4948 12703 D PkgPredictorService: previous pkgs: com.wallapop,com.wallapop,com.wallapop running pkg: com.wallapop, uid: 0 is system: false
+
+07-08 00:25:30.032  4948 12703 D PkgPredictorService-Collector:  (hour:0 day:4 previous:[com.wallapop, com.wallapop, com.wallapop] activityName:unknown running:com.wallapop userId:0 screenOrientation:0 wifi:1 bt:0 predictTime:1 apkVersion:1.102.0-d2007061006 consumeTime:-1 preloaded:false>)
+
+07-08 00:25:30.032  4948  5100 D GamePkgDataHelper: getSosPolicy(). com.wallapop
+
+07-08 00:25:30.032  4948 12703 D PkgPredictorService-NapPreloadController: User using: com.wallapop
+
+07-08 00:25:30.032  4948 12703 D PkgPredictorService-NapClassifier: Predict result: 17.0,2.0,29.0, - [0_&_com.wallapop, 0_&_com.android.vending, 0_&_com.Slack]
+
+07-08 00:25:30.032  4948  5100 D GameManagerService: identifyGamePackage. com.wallapop, mCurrentUserId: 0, callerUserId: 0
+
+07-08 00:25:30.032  4948  5100 D GamePkgDataHelper: getGamePkgData(). com.wallapop
+
+07-08 00:25:30.032  4948 12703 D PkgPredictorService-NapPreloadController: preloadWithUid pkg: [com.wallapop] Uid: [0]
+
+07-08 00:25:30.033 12945 12986 V PermissionManager_FLP: onOpChanged, op=0 / packageName=com.wallapop
+
+07-08 00:25:30.035  4948  5100 D GameManagerService: noteResumeComponent(), resumeComponent: com.wallapop
+
+07-08 00:25:30.035  4948 12772 D GameManagerService: onLooperPrepared(), msg: { when=0 what=10000 obj=ComponentInfo{com.wallapop/com.rewallapop.ui.main.MainActivity} target=com.samsung.android.game.GameManagerService$FgCheckThread$1 }
+
+07-08 00:25:30.035  4948 12937 D GamePkgDataHelper: getSosPolicy(). com.wallapop
+
+07-08 00:25:30.035  4948 12772 D GameManagerService: notifyResumePause(). pkg: com.wallapop, type: 4, isMinimized: false, isTunableApp: false
+
+07-08 00:25:30.036  4948  5098 D CodecSolution: isMaxAspectPackageEx: com.wallapop : true(2)
+
+07-08 00:25:30.036  4948  5098 I PerfSDKService: Current foregroundpackage name : com.wallapop
+
+07-08 00:25:30.065 24802 24802 I com.wallapop: The ClassLoaderContext is a special shared library.
+
+07-08 00:25:30.119  4382  4382 I SurfaceFlinger:      DEVICE | 0x7afdfc8340 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |   90  186  990 2034 | Splash Screen com.wallapop#0
+
+07-08 00:25:30.149  4382  4382 I SurfaceFlinger:      DEVICE | 0x7afdfc8340 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |   49  102 1031 2118 | Splash Screen com.wallapop#0
+
+07-08 00:25:30.162  4948 12848 D MdnieScenarioControlService:  packageName : com.wallapop    className : com.rewallapop.ui.main.MainActivity
+
+07-08 00:25:30.185 24802 24823 W com.wallapop: Unsupported class loader
+
+07-08 00:25:30.280  4948  5101 I WindowManager: Reparenting to original parent: Surface(name=Task=1302)/@0x5edf637, destroyLeash=true, surface=Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d
+
+07-08 00:25:30.282  4382  5775 I Layer   : id=1378 removeFromCurrentState Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-leash#0 (59)
+
+07-08 00:25:30.282  4382  5775 I Layer   : id=1379 removeFromCurrentState Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-bounds#0 (59)
+
+07-08 00:25:30.283  4382  5787 I SurfaceFlinger: id=1379 Removed Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-bounds#0 (59)
+
+07-08 00:25:30.284  4382  5775 I SurfaceFlinger: id=1378 Removed Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-leash#0 (59)
+
+07-08 00:25:30.296  4382  4382 I Layer   : id=1379[1] Destroyed Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-bounds#0
+
+07-08 00:25:30.296  4382  4382 I Layer   : id=1378[1] Destroyed Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-leash#0
+
+07-08 00:25:30.300 24802 24829 I FA      :   adb shell setprop debug.firebase.analytics.app com.wallapop
+
+07-08 00:25:30.318  4382  4382 I SurfaceFlinger:      DEVICE | 0x7afdfc8340 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | Splash Screen com.wallapop#0
+
+07-08 00:25:30.361 24802 24802 W com.wallapop: Accessing hidden method Ldalvik/system/CloseGuard;->get()Ldalvik/system/CloseGuard; (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:30.361 24802 24802 W com.wallapop: Accessing hidden method Ldalvik/system/CloseGuard;->open(Ljava/lang/String;)V (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:30.361 24802 24802 W com.wallapop: Accessing hidden method Ldalvik/system/CloseGuard;->warnIfOpen()V (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:30.390 24802 24856 I stetho  : Listening on @stetho_com.wallapop_devtools_remote
+
+07-08 00:25:30.418  4948 12937 D PackageManager: setEnabledSetting : userId = 0 packageName = com.wallapop cmp = androidx.work.impl.background.systemjob.SystemJobService newState = 1 callingPackage = 10385/com.wallapop
+
+07-08 00:25:30.598 24802 24884 W com.wallapop: Accessing hidden field Lsun/misc/Unsafe;->theUnsafe:Lsun/misc/Unsafe; (greylist, reflection, allowed)
+
+07-08 00:25:30.602 24802 24884 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->arrayIndexScale(Ljava/lang/Class;)I (greylist, linking, allowed)
+
+07-08 00:25:30.602 24802 24884 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->arrayBaseOffset(Ljava/lang/Class;)I (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:30.603 24802 24884 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->objectFieldOffset(Ljava/lang/reflect/Field;)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:30.610 24802 24891 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:30.610 24802 24891 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putOrderedObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:30.610 24802 24891 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putOrderedLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:30.649 24802 24905 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->peekLong(JZ)J (greylist, reflection, allowed)
+
+07-08 00:25:30.649 24802 24905 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->pokeLong(JJZ)V (greylist, reflection, allowed)
+
+07-08 00:25:30.649 24802 24905 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->pokeInt(JIZ)V (greylist, reflection, allowed)
+
+07-08 00:25:30.649 24802 24905 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->peekInt(JZ)I (greylist, reflection, allowed)
+
+07-08 00:25:30.649 24802 24905 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->pokeByte(JB)V (greylist, reflection, allowed)
+
+07-08 00:25:30.649 24802 24905 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->peekByte(J)B (greylist, reflection, allowed)
+
+07-08 00:25:30.650 24802 24905 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->pokeByteArray(J[BII)V (greylist, reflection, allowed)
+
+07-08 00:25:30.650 24802 24905 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->peekByteArray(J[BII)V (greylist, reflection, allowed)
+
+07-08 00:25:30.652 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:30.652 24802 24905 W com.wallapop: Accessing hidden field Ljava/nio/Buffer;->address:J (greylist, reflection, allowed)
+
+07-08 00:25:30.653 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, reflection, allowed)
+
+07-08 00:25:30.653 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, reflection, allowed)
+
+07-08 00:25:30.653 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:30.653 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, reflection, allowed)
+
+07-08 00:25:30.653 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, reflection, allowed)
+
+07-08 00:25:30.654 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, reflection, allowed)
+
+07-08 00:25:30.685  4948 15697 D PackageManager: setEnabledSetting : userId = 0 packageName = com.wallapop cmp = androidx.work.impl.background.systemalarm.RescheduleReceiver newState = 1 callingPackage = 10385/com.wallapop
+
+07-08 00:25:30.736 24802 24857 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->allocateInstance(Ljava/lang/Class;)Ljava/lang/Object; (greylist, reflection, allowed)
+
+07-08 00:25:30.738  4948 15039 D SamsungAlarmManager: Cancel Alarm calling from uid:10385 pid :24802 / op:PendingIntent{ac31ed: PendingIntentRecord{190df2e com.wallapop broadcastIntent}}
+
+07-08 00:25:30.758  4948 15039 D BaseRestrictionMgr: Package: com.android.vending, userid: 0, hostingType: bindService is allowed by freecess, caller is: com.wallapop
+
+07-08 00:25:30.847  4948 15697 D SamsungAlarmManager: Cancel Alarm calling from uid:10385 pid :24802 / op:PendingIntent{c2cf907: PendingIntentRecord{5705a34 com.wallapop broadcastIntent}}
+
+07-08 00:25:30.881 24802 24802 I chatty  : uid=10385(com.wallapop) identical 13 lines
+
+07-08 00:25:30.882 24802 24802 I chatty  : uid=10385(com.wallapop) identical 1 line
+
+07-08 00:25:30.882 24802 24802 I chatty  : uid=10385(com.wallapop) identical 6 lines
+
+07-08 00:25:30.912  4948 12937 I ActivityTaskManager: START u0 {cmp=com.wallapop/com.rewallapop.ui.wall.WallActivity (has extras)} from uid 10385
+
+07-08 00:25:30.914  4382  5787 I SurfaceFlinger: id=1380 createSurf (0x0),-1 flag=80004, AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}}#0
+
+07-08 00:25:30.916  4948  5098 D WindowManager: setSystemUiVisibility: displayId=0, vis=0xa018, fullVis=0x2000, dockVis=0x0, win=Window{df298b4 u0 Splash Screen com.wallapop}
+
+07-08 00:25:30.943 24802 24802 W com.wallapop: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+
+07-08 00:25:30.944 24802 24802 W com.wallapop: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+
+07-08 00:25:30.949 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:30.949 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putOrderedObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:30.949 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putOrderedLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:31.071 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.072 24802 24957 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.074 24802 24957 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.077 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.085 24802 24859 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.088 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:31.088 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.093  4948  5106 D ApplicationPolicy: isStatusBarNotificationAllowedAsUser: packageName = com.wallapop,userId = 0
+
+07-08 00:25:31.094  4948  5106 D ApplicationPolicy: isStatusBarNotificationAllowedAsUser: packageName = com.wallapop,userId = 0
+
+07-08 00:25:31.102  4948 15697 D GamePkgDataHelper: notifyAppCreate(), pkgName: com.wallapop, sendRet: true
+
+07-08 00:25:31.102  4948 12772 D GameManagerService: onLooperPrepared(), msg: { when=0 what=10010 obj=com.wallapop target=com.samsung.android.game.GameManagerService$FgCheckThread$1 }
+
+07-08 00:25:31.102  4948 12772 D GameManagerService: handleMessage(), MSG_APP_CREATE. pkgName: com.wallapop
+
+07-08 00:25:31.103  4948 15697 D MARsPolicyManager: onPackageResumedFG pkgName = com.wallapop, userId = 0
+
+07-08 00:25:31.107  4948 15697 I WindowManager: Reparenting to leash, surface=Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d
+
+07-08 00:25:31.108  4382  5787 I SurfaceFlinger: id=1381 createSurf (0x0),-1 flag=80004, Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-leash#0
+
+07-08 00:25:31.109  4948 15697 D WindowManager: makeSurface duration=1 leash=Surface(name=Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-leash)/@0x7527af5
+
+07-08 00:25:31.109  4382  5787 I SurfaceFlinger: id=1382 createSurf (0x0),-1 flag=80004, Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-bounds#0
+
+07-08 00:25:31.113  4948  5100 D GameManagerService: notePauseComponent(), pauseComponent: com.wallapop
+
+07-08 00:25:31.126  4948  5100 D GameManagerService: noteResumeComponent(), resumeComponent: com.wallapop
+
+07-08 00:25:31.126  4948 12772 D GameManagerService: onLooperPrepared(), msg: { when=0 what=10000 obj=ComponentInfo{com.wallapop/com.rewallapop.ui.wall.WallActivity} target=com.samsung.android.game.GameManagerService$FgCheckThread$1 }
+
+07-08 00:25:31.126  4948 12772 D GameManagerService: notifyResumePause(). pkg: com.wallapop, type: 4, isMinimized: false, isTunableApp: false
+
+07-08 00:25:31.130 24802 24884 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.183 24802 24866 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.185 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.188  4948 12966 D SamsungAlarmManager: Cancel Alarm calling from uid:10385 pid :24802 / op:PendingIntent{4abdc5c: PendingIntentRecord{5705a34 com.wallapop broadcastIntent}}
+
+07-08 00:25:31.188 24802 24866 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.188 24802 24866 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:31.188 24802 24866 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:31.189  4948 12966 D SamsungAlarmManager: Cancel Alarm calling from uid:10385 pid :24802 / op:PendingIntent{5790b65: PendingIntentRecord{5705a34 com.wallapop broadcastIntent}}
+
+07-08 00:25:31.199  4948  4948 D EdgeLightingManager: showForNotification : isInteractive=true, isHeadUp=false, color=0, sbn = StatusBarNotification(pkg=com.wallapop user=UserHandle{0} id=999 tag=null key=0|com.wallapop|999|null|10385: Notification(channel=wallapop_channel pri=-2 contentView=null vibrate=null sound=null defaults=0x0 flags=0x62 color=0x00000000 vis=PRIVATE semFlags=0x0 semPriority=0 semMissedCount=0))
+
+07-08 00:25:31.199  4948  4948 D EdgeLightingPolicyManager: isAcceptableApplication:  pkg=com.wallapop , range=256 , includeAllApp=false , userId=0 , infoRange=0 , infoCategory=0
+
+07-08 00:25:31.199  4948  4948 D EdgeLightingPolicyManager.NotificationGroup: group key = 0|com.wallapop|999|null|10385 ,value= summary : null , child : 1key = 0|com.wallapop|999|null|10385 , value =  NotificationData { tag= null } , }
+
+07-08 00:25:31.199  4948  4948 D EdgeLightingPolicyManager: isAcceptableApplication:  pkg=com.wallapop , range=1 , includeAllApp=false , userId=0 , infoRange=0 , infoCategory=0
+
+07-08 00:25:31.199  4948  4948 D NotificationService: 0|com.wallapop|999|null|10385: granting content://settings/system/notification_sound
+
+07-08 00:25:31.202 12945 12986 V NotificationManager_FLP: Notification for foreground service is posted, 0|com.wallapop|999|null|10385
+
+07-08 00:25:31.203 13050 13050 D Launcher.NotificationListener: onNotificationPosted : StatusBarNotification(pkg=com.wallapop user=UserHandle{0} id=999 tag=null key=0|com.wallapop|999|null|10385: Notification(channel=wallapop_channel pri=-2 contentView=null vibrate=null sound=null defaults=0x0 flags=0x62 color=0x00000000 vis=PRIVATE semFlags=0x0 semPriority=0 semMissedCount=0)) number : 0 listener : null
+
+07-08 00:25:31.203 13050 13050 D Launcher.NotificationListener: shouldBeFilteredOut : com.wallapop missingTitleAndText : false isGroupHeader : false
+
+07-08 00:25:31.308 24802 24843 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:31.308 24802 24843 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.309 24802 24843 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.309 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.310 24802 24846 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.311 24802 24846 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.311 24802 24846 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.314 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.200  4948  4948 D NotificationService: 0|com.wallapop|999|null|10385: granting content://settings/system/notification_sound
+
+07-08 00:25:31.398  4948  5101 I WindowManager: Reparenting to original parent: Surface(name=Task=1302)/@0x5edf637, destroyLeash=true, surface=Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d
+
+07-08 00:25:31.415  4382  4440 I Layer   : id=1381 removeFromCurrentState Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-leash#0 (59)
+
+07-08 00:25:31.415  4382  4440 I Layer   : id=1382 removeFromCurrentState Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-bounds#0 (59)
+
+07-08 00:25:31.416  4382  4440 I SurfaceFlinger: id=1381 Removed Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-leash#0 (59)
+
+07-08 00:25:31.416  4382  4440 I SurfaceFlinger: id=1382 Removed Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-bounds#0 (59)
+
+07-08 00:25:31.431  4382  4382 I Layer   : id=1382[1] Destroyed Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-bounds#0
+
+07-08 00:25:31.431  4382  4382 I Layer   : id=1381[1] Destroyed Surface(name=AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}})/@0xed4102d - animation-leash#0
+
+07-08 00:25:31.449 24802 24952 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.449 24802 24952 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.450 24802 24952 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:31.451 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.462 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.465 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:31.466 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.466 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.466 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.469 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:31.471 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.497  4382  4440 I SurfaceFlinger: id=1385 createSurf (0x0),-1 flag=80004, b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity#0
+
+07-08 00:25:31.505 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.509 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:31.512 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:31.536 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.586 24802 25016 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.586 24802 25016 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.588 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:31.588 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.602 24802 24968 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.602 24802 24968 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:31.602 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.620 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.620 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putOrderedLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:31.623 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.634 24802 24952 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.636 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.637 24802 24952 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.637 24802 24952 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:31.670  4948 15823 V WindowManager: Relayout Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}: viewVisibility=0 req=1080x2220
+
+07-08 00:25:31.672  4382  5787 I SurfaceFlinger: id=1386 createSurf (1080x2220),1 flag=404, com.wallapop/com.rewallapop.ui.wall.WallActivity$_24802#0
+
+07-08 00:25:31.673  4948 15823 D WindowManager: makeSurface duration=1 name=com.wallapop/com.rewallapop.ui.wall.WallActivity$_24802
+
+07-08 00:25:31.673  4948 15823 V WindowManager: Changing focus from null to Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity} displayId=0 Callers=com.android.server.wm.RootWindowContainer.updateFocusedWindowLocked:202 com.android.server.wm.WindowManagerService.updateFocusedWindowLocked:6282 com.android.server.wm.WindowManagerService.relayoutWindow:2574 com.android.server.wm.Session.relayout:202 android.view.IWindowSession$Stub.onTransact:708 com.android.server.wm.Session.onTransact:142
+
+07-08 00:25:31.673  4948  5098 D WindowManager: setSystemUiVisibility: displayId=0, vis=0xa518, fullVis=0x2000, dockVis=0x0, win=Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}
+
+07-08 00:25:31.674  4948  5100 I WindowManager: Focus moving from null to Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity} displayId=0
+
+07-08 00:25:31.675  4948  5100 D WindowManager: w is invisible : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:31.675  4948  5100 D WindowManager: w is invisible : df298b4 Splash Screen com.wallapop
+
+07-08 00:25:31.675  4948  5100 D WindowManager: windowMattersToAccessibility, check : df298b4 Splash Screen com.wallapop
+
+07-08 00:25:31.675  4948  5100 D WindowManager: windowMattersToAccessibility : df298b4 Splash Screen com.wallapop
+
+07-08 00:25:31.675  4948  5100 D WindowManager: windowMattersToAccessibility, check : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:31.675  4948  5100 I WindowManager: Gaining focus: Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}
+
+07-08 00:25:31.712  4948 15823 D WindowManager: w is invisible : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:31.712  4948 15823 D WindowManager: w is invisible : df298b4 Splash Screen com.wallapop
+
+07-08 00:25:31.712  4948 15823 D WindowManager: windowMattersToAccessibility, check : df298b4 Splash Screen com.wallapop
+
+07-08 00:25:31.712  4948 15823 D WindowManager: windowMattersToAccessibility : df298b4 Splash Screen com.wallapop
+
+07-08 00:25:31.712  4948 15823 D WindowManager: windowMattersToAccessibility, check : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:31.725 24802 24969 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.725 24802 24969 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.725 24802 24969 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:31.727 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.747  4948 15823 D WindowManager: finishDrawingWindow: Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity} mDrawState=DRAW_PENDING
+
+07-08 00:25:31.750  4948  5101 D PkgPredictorService: pkg:com.wallapop activity:com.rewallapop.ui.wall.WallActivity thisTime:1813
+
+07-08 00:25:31.760  4948  5101 I WindowManager: Reparenting to leash, surface=Surface(name=df298b4 Splash Screen com.wallapop)/@0x824d9e4
+
+07-08 00:25:31.761  4382  5787 I SurfaceFlinger: id=1387 createSurf (0x0),-1 flag=80004, Surface(name=df298b4 Splash Screen com.wallapop)/@0x824d9e4 - animation-leash#0
+
+07-08 00:25:31.761  4948  5105 I ActivityTaskManager: Displayed com.wallapop/com.rewallapop.ui.wall.WallActivity: +1s813ms
+
+07-08 00:25:31.762  4948  5101 D WindowManager: makeSurface duration=1 leash=Surface(name=Surface(name=df298b4 Splash Screen com.wallapop)/@0x824d9e4 - animation-leash)/@0x1ea249
+
+07-08 00:25:31.770  4382  4382 I SurfaceFlinger:      DEVICE | 0x7afdfc7080 | 0002 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | com.wallapop/com.rewallapop.ui.wall.WallActivity$_24802#0
+
+07-08 00:25:31.770  4382  4382 I SurfaceFlinger:      DEVICE | 0x7afdfc8340 | 0000 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | Splash Screen com.wallapop#0
+
+07-08 00:25:31.770 24802 24843 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.772 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.778 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.785 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:31.805 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.805 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.806 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:31.815  4948  5101 I WindowManager: Reparenting to original parent: Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5, destroyLeash=true, surface=Surface(name=df298b4 Splash Screen com.wallapop)/@0x824d9e4
+
+07-08 00:25:31.816  4948  5101 E WindowManager: win=Window{df298b4 u0 Splash Screen com.wallapop EXITING} destroySurfaces: appStopped=false win.mWindowRemovalAllowed=true win.mRemoveOnExit=true win.mViewVisibility=0 caller=com.android.server.wm.AppWindowToken.destroySurfaces:1234 com.android.server.wm.AppWindowToken.destroySurfaces:1215 com.android.server.wm.WindowState.onExitAnimationDone:5100 com.android.server.wm.WindowStateAnimator.onAnimationFinished:308 com.android.server.wm.WindowState.onAnimationFinished:5541 com.android.server.wm.-$$Lambda$yVRF8YoeNdTa8GR1wDStVsHu8xM.run:2 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$0$SurfaceAnimator:100
+
+07-08 00:25:31.816  4948  5101 I WindowManager: Destroying surface Surface(name=Splash Screen com.wallapop)/@0xff58bc8 called by com.android.server.wm.WindowStateAnimator.destroySurface:1790 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:720 com.android.server.wm.WindowState.destroySurfaceUnchecked:3540 com.android.server.wm.WindowState.destroySurface:3514 com.android.server.wm.AppWindowToken.destroySurfaces:1234 com.android.server.wm.AppWindowToken.destroySurfaces:1215 com.android.server.wm.WindowState.onExitAnimationDone:5100 com.android.server.wm.WindowStateAnimator.onAnimationFinished:308
+
+07-08 00:25:31.816  4382  5787 I Layer   : id=1375 removeFromCurrentState Splash Screen com.wallapop#0 (59)
+
+07-08 00:25:31.817 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:31.817  4382  5787 I Layer   : id=1374 removeFromCurrentState df298b4 Splash Screen com.wallapop#0 (59)
+
+07-08 00:25:31.817  4382  5787 I Layer   : id=1387 removeFromCurrentState Surface(name=df298b4 Splash Screen com.wallapop)/@0x824d9e4 - animation-leash#0 (59)
+
+07-08 00:25:31.818  4382  4633 I SurfaceFlinger: id=1387 Removed Surface(name=df298b4 Splash Screen com.wallapop)/@0x824d9e4 - animation-leash#0 (59)
+
+07-08 00:25:31.818  4382  4633 I SurfaceFlinger: id=1375 Removed Splash Screen com.wallapop#0 (59)
+
+07-08 00:25:31.818  4382  5787 I SurfaceFlinger: id=1374 Removed df298b4 Splash Screen com.wallapop#0 (59)
+
+07-08 00:25:31.822 24802 24988 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.823 24802 24988 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.825 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.832 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:31.833  4382  4382 I Layer   : id=1387[1] Destroyed Surface(name=df298b4 Splash Screen com.wallapop)/@0x824d9e4 - animation-leash#0
+
+07-08 00:25:31.833  4382  4382 I Layer   : id=1374[1] Destroyed df298b4 Splash Screen com.wallapop#0
+
+07-08 00:25:31.834  4382  4382 I Layer   : id=1375[1] Destroyed Splash Screen com.wallapop#0
+
+07-08 00:25:31.838  4382  4382 I SurfaceFlinger:      DEVICE | 0x7afdfc7580 | 0002 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | com.wallapop/com.rewallapop.ui.wall.WallActivity$_24802#0
+
+07-08 00:25:31.844 24802 24802 D EmergencyMode: [EmergencyManager] android createPackageContext successful: com.wallapop
+
+07-08 00:25:31.849 24802 24802 V InputMethodManager: Starting input: tba=com.wallapop ic=null mNaviBarColor -1 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+
+07-08 00:25:31.850  4948  5100 D WindowManager: w is invisible : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:31.850  4948  5100 D WindowManager: windowMattersToAccessibility, check : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:31.859 24802 24887 I com.wallapop: The ClassLoaderContext is a special shared library.
+
+07-08 00:25:31.864 24802 24887 I com.wallapop: The ClassLoaderContext is a special shared library.
+
+07-08 00:25:31.889 24802 24802 V InputMethodManager: Starting input: tba=com.wallapop ic=null mNaviBarColor -1 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+
+07-08 00:25:31.924 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:31.944 12945 12986 V PermissionManager_FLP: checkLocationAccess for com.wallapop[GMS_FUSED,300000,100], result is true
+
+07-08 00:25:31.944 12945 12986 E RequestManager_FLP: [FusedLocationApi] Location request  7059b38(Listener) PRIORITY_BALANCED_POWER_ACCURACY interval=300000 from com.wallapop (10385 foreground)
+
+07-08 00:25:31.960 24802 24887 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getUnsafe()Lsun/misc/Unsafe; (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:31.960 24802 24887 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:31.960 24802 24887 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:31.964 24802 24866 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:31.965 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:31.965 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.966 24802 24866 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.966 24802 24866 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:31.982 24802 24968 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:31.983 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:32.013 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:32.016 24802 24887 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:32.020 24802 25053 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:32.023 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:32.025 24802 25053 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:32.033 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:32.048 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:32.174 24802 25047 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:32.174 24802 25047 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:32.175 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:32.176 24802 24850 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:32.181 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:32.186 24802 25003 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:32.188 24802 25003 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:32.190 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:32.293 24802 24815 I com.wallapop: Background young concurrent copying GC freed 861568(43MB) AllocSpace objects, 1779(328MB) LOS objects, 46% free, 27MB/51MB, paused 360us total 293.960ms
+
+07-08 00:25:32.443 24802 25003 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:32.444 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:32.515 24802 24802 W View    : requestLayout() improperly called by com.wallapop.design.view.WallapopTextView{899833 V.ED..... ......ID 47,26-47,81 #7f0a0a85 app:id/wp__home__tv_bubble} during layout: running second layout pass
+
+07-08 00:25:32.604 24802 25072 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->pokeByte(JB)V (greylist, reflection, allowed)
+
+07-08 00:25:32.604 24802 25072 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->peekByte(J)B (greylist, reflection, allowed)
+
+07-08 00:25:32.604 24802 25072 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:32.604 24802 25072 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, reflection, allowed)
+
+07-08 00:25:32.604 24802 25072 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, reflection, allowed)
+
+07-08 00:25:32.604 24802 25072 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:32.604 24802 25072 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, reflection, allowed)
+
+07-08 00:25:32.604 24802 25072 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, reflection, allowed)
+
+07-08 00:25:32.604 24802 25072 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, reflection, allowed)
+
+07-08 00:25:32.605 24802 25072 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:32.605 24802 25072 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:32.605 24802 25072 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:32.605 24802 25072 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:32.648  4948 12937 I ApplicationPolicy: isApplicationExternalStorageWhitelisted:com.wallapop user:0
+
+07-08 00:25:32.648  4948 12937 D ActivityManager: package  com.wallapop, user - 0 is SDcard whitelisted
+
+07-08 00:25:32.648  4948 12937 I ApplicationPolicy: isApplicationExternalStorageBlacklisted:com.wallapop user:0
+
+07-08 00:25:32.648  4948 12937 I ApplicationPolicy: isApplicationExternalStorageBlacklisted:com.wallapop user:0
+
+07-08 00:25:32.668  4948  5107 I ActivityManager: Start proc 25080:com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0/u0i22 for  {com.wallapop/org.chromium.content.app.SandboxedProcessService0:0}
+
+07-08 00:25:32.668  4948  5107 I ActivityManager: check webview name : com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0check hostingname webview : {com.wallapop/org.chromium.content.app.SandboxedProcessService0:0}
+
+07-08 00:25:32.686  4948 15033 I ActivityManager: DSS OFF for com.wallapop
+
+07-08 00:25:32.727 24802 25089 W com.wallapop: Accessing hidden method Landroid/media/AudioManager;->getOutputLatency(I)I (greylist, reflection, allowed)
+
+07-08 00:25:32.802 13273 13298 I Finsky  : [288] bmc.a(53): com.wallapop: Account from first account - [rJj4Md76H4LxoN-B4dnoZM7XaXDDBcXGlC-caOCi6Uc]
+
+07-08 00:25:32.816 24802 25112 I chatty  : uid=10385(com.wallapop) Chrome_InProcGp identical 1 line
+
+07-08 00:25:32.934  4382  5787 I Layer   : id=1373 removeFromCurrentState AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}}#0 (56)
+
+07-08 00:25:32.955  4948  5098 D CodecSolution: isMaxAspectPackageEx: com.wallapop : true(2)
+
+07-08 00:25:33.054 24802 24888 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:33.056 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.056 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.060 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.060 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:33.085  4948 12848 D MdnieScenarioControlService:  packageName : com.wallapop    className : com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:33.107 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.107 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.159 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.160 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.232 24802 25156 D Amazon DTB Ads API: with json params:[{"oo":"false","dinfo":{"os":"Android","model":"SM-G965F","make":"samsung","osVersion":"10","connectionType":"Wifi","country":"ES","scalingFactor":"2.625","carrier":"","language":"es","screenSize":"1080x2094","orientation":"portrait"},"ad-id":"A03863gai0nboYBq_wzHL-w","mraid":["1.0","2.0","3.0"],"idfa":"a3fe49b3-a5e8-4500-bb3d-2a76dd7c7301","geoloc":"41.4479521,2.2382348,14.296","isDTBMobile":"true","ua":"Dalvik\/2.1.0 (Linux; U; Android 10; SM-G965F Build\/QP1A.190711.020)","pkg":{"lbl":"_Wallapop_","pn":"com.wallapop","v":"10102000","vn":"1.102.0-d2007061006"},"gdpr":{"e":"1","c":"BO13wEuO13wRSAHABAktCb-AAAAo1rv___7__9_-____9uz7Ov_v_f__33e8779v_h_7_-___u_-3zd4u_1vf99yfm1-7ctr3tp_87uesm_Xur__59__3z3_9phP78k89r7337Ew4MA"},"adsdk":"aps-android-7.4.3","slots":[{"sz":"320x50","slot":"f414d83c-ab9f-4e02-9c59-5137663ee6c7","slotId":1,"supportedMediaTypes":["DISPLAY"]},{"sz":"320x100","slot":"f414d83c-ab9f-4e02-9c59-5137663ee6c7","slotId":2,"supportedMediaTypes":["DISPLAY"]},{"sz":"320x200","slot":"f414d83c-ab9f-4e02-9c59-5137663ee6c7","slotId":3,"supportedMediaTypes":["DISPLAY"]}],"appId":"d2ba46e2d5ef4c9883051d9c8d0125d5"}]
+
+07-08 00:25:33.257 24802 25053 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:33.268 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.268 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:33.268 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:33.268 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.271 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.271 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:33.272 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:33.273 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:33.274 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.280 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.282 24802 25159 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->pokeByte(JB)V (greylist, reflection, allowed)
+
+07-08 00:25:33.282 24802 25159 W com.wallapop: Accessing hidden method Llibcore/io/Memory;->peekByte(J)B (greylist, reflection, allowed)
+
+07-08 00:25:33.283 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:33.283 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, reflection, allowed)
+
+07-08 00:25:33.283 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, reflection, allowed)
+
+07-08 00:25:33.283 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:33.283 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, reflection, allowed)
+
+07-08 00:25:33.283 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, reflection, allowed)
+
+07-08 00:25:33.283 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, reflection, allowed)
+
+07-08 00:25:33.287 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.287 24802 25159 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.288 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:33.368 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:33.439 24802 25185 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:33.495 24802 25214 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:33.497 24802 25054 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:33.497 24802 25054 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.503 24802 25176 W com.wallapop: Long monitor contention with owner gads-1 (25158) at long com.android.org.conscrypt.NativeCrypto.EVP_MD_CTX_create()(NativeCrypto.java:-2) waiters=0 in void com.google.android.ads.tasks.d.a() for 176ms
+
+07-08 00:25:33.504 24802 25054 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:33.506 24802 25054 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.511 24802 25188 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.512 24802 25166 W com.wallapop: Long monitor contention with owner gads-1 (25158) at long com.android.org.conscrypt.NativeCrypto.EVP_MD_CTX_create()(NativeCrypto.java:-2) waiters=3 in void com.google.android.ads.tasks.d.a() for 166ms
+
+07-08 00:25:33.514 24802 25184 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.515 24802 25186 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.521 24802 25192 W com.wallapop: Long monitor contention with owner gads-1 (25158) at long com.android.org.conscrypt.NativeCrypto.EVP_MD_CTX_create()(NativeCrypto.java:-2) waiters=4 in void com.google.android.ads.tasks.d.a() for 170ms
+
+07-08 00:25:33.525 24802 25187 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.526 24802 25187 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.576 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.576 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.578 24802 24846 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.578 24802 24846 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:33.611 24802 24843 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.612 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.613 24802 25156 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.613 24802 25232 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:33.614 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.663 24802 25186 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:33.663 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:33.663 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.663 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:33.663 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.833 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:33.833 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.835 24802 24846 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:33.842  4382  5775 I SurfaceFlinger: id=1373 Removed AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}}#0 (55)
+
+07-08 00:25:33.852  4382  4382 I Layer   : id=1373[1] Destroyed AppWindowToken{c3c2466 token=Token{751a4c1 ActivityRecord{f63d1a8 u0 com.wallapop/com.rewallapop.ui.main.MainActivity t1302}}}#0
+
+07-08 00:25:34.536 24802 25211 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:34.539 24802 25205 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:34.679 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:34.684 24802 25186 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:34.794 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:34.802 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:34.872 24802 24815 I com.wallapop: Background concurrent copying GC freed 449297(25MB) AllocSpace objects, 140(9008KB) LOS objects, 49% free, 18MB/37MB, paused 334us total 176.854ms
+
+07-08 00:25:34.938 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.025 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.030 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.038  4948 12703 D PkgPredictorService-NapPreloadController: Sent pkg = com.wallapop type: ml
+
+07-08 00:25:35.038  4948 13109 D ActivityManager: [ML] packageName : com.wallapop uid : 0 type : ml
+
+07-08 00:25:35.097 24802 25225 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.098 24802 25211 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.102 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.276 24802 25220 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.276 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.421 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.425 24802 25225 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.517 24802 25225 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.518 24802 25230 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.522 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.528 24802 25222 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.583 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.658 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.681 24802 25197 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:35.681 24802 25197 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:35.682 24802 25197 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:35.684 24802 25197 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:35.685 24802 25197 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:35.685 24802 25197 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:35.694 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.738 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.739 24802 25228 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:35.739 24802 25228 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:35.742 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.809 24802 25054 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.841 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.992 24802 25205 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:35.993 24802 25215 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.062  4948 20618 D GameManagerService: identifyGamePackage. com.wallapop, mCurrentUserId: 0, callerUserId: 0
+
+07-08 00:25:36.062  4948 20618 D GamePkgDataHelper: getGamePkgData(). com.wallapop
+
+07-08 00:25:36.228 24802 25351 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:36.229 24802 25351 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:36.229 24802 25351 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:36.229 24802 25351 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:36.231 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:36.283 24802 25352 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.307 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.310 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.311 24802 25215 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.315 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.445 24802 25165 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:36.445 24802 25165 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:36.445 24802 25165 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:36.445 24802 25165 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:36.445 24802 25165 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:36.445 24802 25165 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:36.449 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.455 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:36.463 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.471 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.497 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.504 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.507 24802 25192 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:36.507 24802 25192 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:36.507 24802 25192 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:36.509 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.512 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:36.512 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:36.512 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:36.514 24802 24808 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:36.514 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:36.514 24802 24808 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+
+07-08 00:25:36.515 24802 24808 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:36.515 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.518 24802 25215 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.523 24802 25225 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.527 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.562 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:36.704 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:36.743 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.744 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.750 24802 25205 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:36.972 24802 25352 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:37.094 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:37.137 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:37.143 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:37.247 24802 25352 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:37.431 24802 24815 I com.wallapop: Background concurrent copying GC freed 153557(8086KB) AllocSpace objects, 134(10MB) LOS objects, 49% free, 20MB/41MB, paused 569us total 124.007ms
+
+07-08 00:25:37.558 24802 25352 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:37.562 24802 25224 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:37.583 24802 25061 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:37.584 24802 25061 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:37.586 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:37.586 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:37.587 24802 25061 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:37.587 24802 25061 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:37.614 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:37.864 24802 25207 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:37.865 24802 25222 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:37.866 24802 25215 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:38.169 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:38.188 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:38.192 24802 25222 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:38.214 24802 25230 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:38.347 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:38.371 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:38.419 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:38.772 24802 25352 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:38.786 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:39.415 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:39.765 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:39.887 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:40.154 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:40.238 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:40.520 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:40.732 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:40.840 24802 25352 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:41.150 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:41.198 24802 24866 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:41.198 24802 24866 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:41.200 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:41.343 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:41.483 24802 24866 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:41.487 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:41.608 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:41.772 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:42.147 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:42.367 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:42.700 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:42.879 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:42.904 24802 25352 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:43.121 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:43.216 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:43.502 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:43.577  4948  5727 V SamsungAlarmManager: Sending to uid : 10385 action=com.appboy.action.receiver.DATA_SYNC alarm=Alarm{ff802eb type 1 when 1594160741063 com.wallapop}
+
+07-08 00:25:43.614 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:44.072 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:44.291 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:44.687 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:44.766 24802 24802 E com.wallapop: No package ID 47 found for ID 0x47470002.
+
+07-08 00:25:44.985 24802 25352 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:45.457  4948 15697 D WindowManager: w is invisible : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:45.458  4948 15697 D WindowManager: windowMattersToAccessibility, check : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:46.673 24802 24808 I com.wallapop: Compiler allocated 4171KB to compile void android.view.ViewRootImpl.performTraversals()
+
+07-08 00:25:46.857  4948 15039 I ActivityTaskManager: START u0 {cmp=com.wallapop/.activities.PreferencesActivity (has extras)} from uid 10385
+
+07-08 00:25:46.877  4382  5775 I SurfaceFlinger: id=1388 createSurf (0x0),-1 flag=80004, AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}}#0
+
+07-08 00:25:46.882  4948 15039 D WindowManager: w is invisible : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:46.882  4948 15039 D WindowManager: windowMattersToAccessibility, check : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:46.884 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObjectVolatile(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:46.884 24802 24802 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putOrderedLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:46.893 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:46.897  4948 15039 D GamePkgDataHelper: notifyAppCreate(), pkgName: com.wallapop, sendRet: true
+
+07-08 00:25:46.897  4948 12772 D GameManagerService: onLooperPrepared(), msg: { when=0 what=10010 obj=com.wallapop target=com.samsung.android.game.GameManagerService$FgCheckThread$1 }
+
+07-08 00:25:46.897  4948 12772 D GameManagerService: handleMessage(), MSG_APP_CREATE. pkgName: com.wallapop
+
+07-08 00:25:46.898  4948 15039 V WindowManager: Changing focus from Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity} to null displayId=0 Callers=com.android.server.wm.RootWindowContainer.updateFocusedWindowLocked:202 com.android.server.wm.WindowManagerService.updateFocusedWindowLocked:6282 com.android.server.wm.ActivityDisplay.setFocusedApp:1583 com.android.server.wm.ActivityTaskManagerService.setResumedActivityUncheckLocked:6860 com.android.server.wm.ActivityStack.onActivityStateChanged:653 com.android.server.wm.TaskRecord.onActivityStateChanged:2248
+
+07-08 00:25:46.898  4948 15039 D MARsPolicyManager: onPackageResumedFG pkgName = com.wallapop, userId = 0
+
+07-08 00:25:46.900  4948  5100 D GameManagerService: notePauseComponent(), pauseComponent: com.wallapop
+
+07-08 00:25:46.902  4948  5100 I WindowManager: Focus moving from Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity} to null displayId=0
+
+07-08 00:25:46.902  4948  5100 I WindowManager: Losing focus: Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}
+
+07-08 00:25:46.904  4948  5100 D GameManagerService: noteResumeComponent(), resumeComponent: com.wallapop
+
+07-08 00:25:46.904  4948 12772 D GameManagerService: onLooperPrepared(), msg: { when=-1ms what=10000 obj=ComponentInfo{com.wallapop/com.wallapop.activities.PreferencesActivity} target=com.samsung.android.game.GameManagerService$FgCheckThread$1 }
+
+07-08 00:25:46.904  4948 12772 D GameManagerService: notifyResumePause(). pkg: com.wallapop, type: 4, isMinimized: false, isTunableApp: false
+
+07-08 00:25:46.907 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:46.932 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:46.956  4948 15697 D SamsungAlarmManager: Cancel Alarm calling from uid:10385 pid :24802 / op:PendingIntent{2b6d990: PendingIntentRecord{384b289 com.wallapop broadcastIntent}}
+
+07-08 00:25:46.957  4948 12966 D SamsungAlarmManager: Cancel Alarm calling from uid:10385 pid :24802 / op:PendingIntent{cdbf28e: PendingIntentRecord{384b289 com.wallapop broadcastIntent}}
+
+07-08 00:25:46.962 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:47.012 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:47.018  4382  4439 I SurfaceFlinger: id=1389 createSurf (0x0),-1 flag=80004, 3d7febc com.wallapop/com.wallapop.activities.PreferencesActivity#0
+
+07-08 00:25:47.033 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:47.039 24802 25209 I chatty  : uid=10385(com.wallapop) AdWorker(Defaul identical 1 line
+
+07-08 00:25:47.044 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:47.056  4948 12937 V WindowManager: Relayout Window{3d7febc u0 com.wallapop/com.wallapop.activities.PreferencesActivity}: viewVisibility=0 req=1080x2220
+
+07-08 00:25:47.058  4382  4439 I SurfaceFlinger: id=1390 createSurf (1080x2220),1 flag=404, com.wallapop/com.wallapop.activities.PreferencesActivity$_24802#0
+
+07-08 00:25:47.058  4948 12937 D WindowManager: makeSurface duration=1 name=com.wallapop/com.wallapop.activities.PreferencesActivity$_24802
+
+07-08 00:25:47.059  4948 12937 V WindowManager: Changing focus from null to Window{3d7febc u0 com.wallapop/com.wallapop.activities.PreferencesActivity} displayId=0 Callers=com.android.server.wm.RootWindowContainer.updateFocusedWindowLocked:202 com.android.server.wm.WindowManagerService.updateFocusedWindowLocked:6282 com.android.server.wm.WindowManagerService.relayoutWindow:2574 com.android.server.wm.Session.relayout:202 android.view.IWindowSession$Stub.onTransact:708 com.android.server.wm.Session.onTransact:142
+
+07-08 00:25:47.059  4948  5098 D WindowManager: setSystemUiVisibility: displayId=0, vis=0xa018, fullVis=0x2000, dockVis=0x0, win=Window{3d7febc u0 com.wallapop/com.wallapop.activities.PreferencesActivity}
+
+07-08 00:25:47.060  4948  5100 I WindowManager: Focus moving from null to Window{3d7febc u0 com.wallapop/com.wallapop.activities.PreferencesActivity} displayId=0
+
+07-08 00:25:47.060  4948  5100 D WindowManager: w is invisible : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:47.060  4948  5100 D WindowManager: w is invisible : 3d7febc com.wallapop/com.wallapop.activities.PreferencesActivity
+
+07-08 00:25:47.060  4948  5100 D WindowManager: windowMattersToAccessibility, check : 3d7febc com.wallapop/com.wallapop.activities.PreferencesActivity
+
+07-08 00:25:47.060  4948  5100 I WindowManager: Gaining focus: Window{3d7febc u0 com.wallapop/com.wallapop.activities.PreferencesActivity}
+
+07-08 00:25:47.067  4948 12966 D WindowManager: w is invisible : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:47.067  4948 12966 D WindowManager: w is invisible : 3d7febc com.wallapop/com.wallapop.activities.PreferencesActivity
+
+07-08 00:25:47.067  4948 12966 D WindowManager: windowMattersToAccessibility, check : 3d7febc com.wallapop/com.wallapop.activities.PreferencesActivity
+
+07-08 00:25:47.080  4948 12966 D WindowManager: finishDrawingWindow: Window{3d7febc u0 com.wallapop/com.wallapop.activities.PreferencesActivity} mDrawState=DRAW_PENDING
+
+07-08 00:25:47.082  4948  5101 I WindowManager: Reparenting to leash, surface=Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5
+
+07-08 00:25:47.082  4382  4439 I SurfaceFlinger: id=1391 createSurf (0x0),-1 flag=80004, Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5 - animation-leash#0
+
+07-08 00:25:47.083  4948  5101 D WindowManager: makeSurface duration=1 leash=Surface(name=Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5 - animation-leash)/@0xf276954
+
+07-08 00:25:47.083  4382  4439 I SurfaceFlinger: id=1392 createSurf (0x0),-1 flag=80004, Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5 - animation-bounds#0
+
+07-08 00:25:47.086  4948  5101 I WindowManager: Reparenting to leash, surface=Surface(name=AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}})/@0xb8ef2b5
+
+07-08 00:25:47.086  4382  4439 I SurfaceFlinger: id=1395 createSurf (0x0),-1 flag=80004, Surface(name=AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}})/@0xb8ef2b5 - animation-leash#0
+
+07-08 00:25:47.087  4948  5101 D WindowManager: makeSurface duration=1 leash=Surface(name=Surface(name=AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}})/@0xb8ef2b5 - animation-leash)/@0x6cead4a
+
+07-08 00:25:47.087  4382  4439 I SurfaceFlinger: id=1396 createSurf (0x0),-1 flag=80004, Surface(name=AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}})/@0xb8ef2b5 - animation-bounds#0
+
+07-08 00:25:47.088  4948  5101 D PkgPredictorService: pkg:com.wallapop activity:com.wallapop.activities.PreferencesActivity thisTime:-1
+
+07-08 00:25:47.091 24802 24802 V InputMethodManager: Starting input: tba=com.wallapop ic=null mNaviBarColor -1 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+
+07-08 00:25:47.111  4382  4382 I SurfaceFlinger:      DEVICE | 0x7afdfc7080 | 0002 | RGBA_8888 |   0.0    1.0 1080.0 2220.0 |    0    0 1080 2220 | com.wallapop/com.rewallapop.ui.wall.WallActivity$_24802#0
+
+07-08 00:25:47.111  4382  4382 I SurfaceFlinger:      DEVICE | 0x7b1b8aed40 | 0002 | RGBA_8888 |   0.0    0.0 1080.0 1701.0 |    0  519 1080 2220 | com.wallapop/com.wallapop.activities.PreferencesActivity$_24802#0
+
+07-08 00:25:47.128  4382  4382 I SurfaceFlinger:      DEVICE | 0x7afdfc7080 | 0002 | RGBA_8888 |   0.0    4.0 1080.0 2220.0 |    0    0 1080 2217 | com.wallapop/com.rewallapop.ui.wall.WallActivity$_24802#0
+
+07-08 00:25:47.128  4382  4382 I SurfaceFlinger:      DEVICE | 0x7b1b8adf80 | 0002 | RGBA_8888 |   0.0    0.0 1080.0 1723.0 |    0  496 1080 2220 | com.wallapop/com.wallapop.activities.PreferencesActivity$_24802#0
+
+07-08 00:25:47.189  4948  5100 D WindowManager: w is invisible : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:47.189  4948  5100 D WindowManager: w is invisible : 3d7febc com.wallapop/com.wallapop.activities.PreferencesActivity
+
+07-08 00:25:47.189  4948  5100 D WindowManager: windowMattersToAccessibility, check : 3d7febc com.wallapop/com.wallapop.activities.PreferencesActivity
+
+07-08 00:25:47.317 24802 24846 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+
+07-08 00:25:47.317 24802 24846 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+
+07-08 00:25:47.318 24802 24846 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+
+07-08 00:25:47.318 24802 24846 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:47.318 24802 24846 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:47.318 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:47.376  4948  5101 I WindowManager: Reparenting to original parent: Surface(name=Task=1302)/@0x5edf637, destroyLeash=true, surface=Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5
+
+07-08 00:25:47.376  4948  5101 V WindowManager: Setting visibility of Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}: false, caller=com.android.server.wm.WindowContainer.sendAppVisibilityToClients:640 com.android.server.wm.AppWindowToken.setClientHidden:639 com.android.server.wm.AppWindowToken.onAnimationFinished:3839 com.android.server.wm.-$$Lambda$yVRF8YoeNdTa8GR1wDStVsHu8xM.run:2 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$0$SurfaceAnimator:100
+
+07-08 00:25:47.377  4948  5101 I WindowManager: Reparenting to original parent: Surface(name=Task=1302)/@0x5edf637, destroyLeash=true, surface=Surface(name=AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}})/@0xb8ef2b5
+
+07-08 00:25:47.380  4382  4439 I Layer   : id=1389 removeFromCurrentState 3d7febc com.wallapop/com.wallapop.activities.PreferencesActivity#0 (63)
+
+07-08 00:25:47.380  4382  4439 I Layer   : id=1390 removeFromCurrentState com.wallapop/com.wallapop.activities.PreferencesActivity$_24802#0 (63)
+
+07-08 00:25:47.380  4382  4439 I Layer   : id=1395 removeFromCurrentState Surface(name=AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}})/@0xb8ef2b5 - animation-leash#0 (63)
+
+07-08 00:25:47.380  4382  4439 I Layer   : id=1388 removeFromCurrentState AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}}#0 (63)
+
+07-08 00:25:47.380  4382  4439 I Layer   : id=1391 removeFromCurrentState Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5 - animation-leash#0 (63)
+
+07-08 00:25:47.380  4382  4439 I Layer   : id=1392 removeFromCurrentState Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5 - animation-bounds#0 (63)
+
+07-08 00:25:47.380  4382  4439 I Layer   : id=1396 removeFromCurrentState Surface(name=AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}})/@0xb8ef2b5 - animation-bounds#0 (63)
+
+07-08 00:25:47.381  4382  4440 I SurfaceFlinger: id=1395 Removed Surface(name=AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}})/@0xb8ef2b5 - animation-leash#0 (63)
+
+07-08 00:25:47.381  4382  5775 I SurfaceFlinger: id=1396 Removed Surface(name=AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}})/@0xb8ef2b5 - animation-bounds#0 (63)
+
+07-08 00:25:47.381  4382  4439 I SurfaceFlinger: id=1391 Removed Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5 - animation-leash#0 (63)
+
+07-08 00:25:47.381  4382  4439 I SurfaceFlinger: id=1392 Removed Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5 - animation-bounds#0 (63)
+
+07-08 00:25:47.393  4382  4382 I Layer   : id=1392[1] Destroyed Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5 - animation-bounds#0
+
+07-08 00:25:47.393  4382  4382 I Layer   : id=1391[1] Destroyed Surface(name=AppWindowToken{66d2acd token=Token{ff8b864 ActivityRecord{32031f7 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity t1302}}})/@0xbccfee5 - animation-leash#0
+
+07-08 00:25:47.393  4382  4382 I Layer   : id=1396[1] Destroyed Surface(name=AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}})/@0xb8ef2b5 - animation-bounds#0
+
+07-08 00:25:47.393  4382  4382 I Layer   : id=1395[1] Destroyed Surface(name=AppWindowToken{335e5d5 token=Token{7a2da8c ActivityRecord{58263bf u0 com.wallapop/.activities.PreferencesActivity t1302}}})/@0xb8ef2b5 - animation-leash#0
+
+07-08 00:25:47.395  4382  4382 I SurfaceFlinger:      DEVICE | 0x7b1b8aed40 | 0002 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | com.wallapop/com.wallapop.activities.PreferencesActivity$_24802#0
+
+07-08 00:25:47.396  4382  5775 E BufferQueueProducer: [com.wallapop/com.rewallapop.ui.wall.WallActivity$_24802#0] disconnect: not connected (req=1)
+
+07-08 00:25:47.397  4948 12966 V WindowManager: Relayout Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}: viewVisibility=8 req=1080x2220
+
+07-08 00:25:47.407 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:47.412 12945 12986 E RequestManager_FLP: [FusedLocationApi] Location remove 7059b38 from com.wallapop
+
+07-08 00:25:47.421 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:47.428 24802 25227 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:47.431 24802 25209 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+07-08 00:25:47.432  4948 15039 V WindowManager: Relayout Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity}: viewVisibility=8 req=1080x2220
+
+07-08 00:25:47.439  4948 15039 E WindowManager: win=Window{b7b7bc1 u0 com.wallapop/com.rewallapop.ui.wall.WallActivity} destroySurfaces: appStopped=true win.mWindowRemovalAllowed=false win.mRemoveOnExit=false win.mViewVisibility=8 caller=com.android.server.wm.AppWindowToken.destroySurfaces:1234 com.android.server.wm.AppWindowToken.destroySurfaces:1215 com.android.server.wm.AppWindowToken.notifyAppStopped:1270 com.android.server.wm.ActivityRecord.activityStoppedLocked:2653 com.android.server.wm.ActivityTaskManagerService.activityStopped:2483 android.app.IActivityTaskManager$Stub.onTransact:2224 android.os.Binder.execTransactInternal:1056
+
+07-08 00:25:47.439  4948 15039 I WindowManager: Destroying surface Surface(name=com.wallapop/com.rewallapop.ui.wall.WallActivity$_24802)/@0x8ddd4e called by com.android.server.wm.WindowStateAnimator.destroySurface:1790 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:720 com.android.server.wm.WindowState.destroySurfaceUnchecked:3540 com.android.server.wm.WindowState.destroySurface:3514 com.android.server.wm.AppWindowToken.destroySurfaces:1234 com.android.server.wm.AppWindowToken.destroySurfaces:1215 com.android.server.wm.AppWindowToken.notifyAppStopped:1270 com.android.server.wm.ActivityRecord.activityStoppedLocked:2653
+
+07-08 00:25:47.439  4382  5775 I Layer   : id=1386 removeFromCurrentState com.wallapop/com.rewallapop.ui.wall.WallActivity$_24802#0 (57)
+
+07-08 00:25:47.444  4382  5775 I SurfaceFlinger: id=1386 Removed com.wallapop/com.rewallapop.ui.wall.WallActivity$_24802#0 (57)
+
+07-08 00:25:47.460  4382  4382 I Layer   : id=1386[1] Destroyed com.wallapop/com.rewallapop.ui.wall.WallActivity$_24802#0
+
+07-08 00:25:47.477  4948  5100 D WindowManager: w is invisible : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:47.477  4948  5100 D WindowManager: w is invisible : b7b7bc1 com.wallapop/com.rewallapop.ui.wall.WallActivity
+
+07-08 00:25:47.477  4948  5100 D WindowManager: w is invisible : 3d7febc com.wallapop/com.wallapop.activities.PreferencesActivity
+
+07-08 00:25:47.477  4948  5100 D WindowManager: windowMattersToAccessibility, check : 3d7febc com.wallapop/com.wallapop.activities.PreferencesActivity
+
+07-08 00:25:47.814 24802 24887 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:47.814 24802 24887 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+
+07-08 00:25:47.818 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:47.966 24802 25395 W com.wallapop: Accessing hidden method Lcom/android/org/conscrypt/ConscryptFileDescriptorSocket;->setUseSessionTickets(Z)V (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:47.966 24802 25395 W com.wallapop: Accessing hidden method Lcom/android/org/conscrypt/ConscryptFileDescriptorSocket;->setHostname(Ljava/lang/String;)V (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:47.966 24802 25395 W com.wallapop: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->setAlpnProtocols([B)V (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:48.069 24802 25395 W com.wallapop: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->getAlpnSelectedProtocol()[B (greylist,core-platform-api, reflection, allowed)
+
+07-08 00:25:48.167 24802 24905 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+
+07-08 00:25:49.524 24802 25352 W com.wallapop: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+
+
