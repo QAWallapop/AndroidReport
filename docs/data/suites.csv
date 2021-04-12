@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 13 01:05:55 CEST 2021","Tue Apr 13 01:06:14 CEST 2021","19047","","com.wallapop.functionality.payments.payment.test.OfferExploratoryTest","","com.wallapop.functionality.payments.payment.test.OfferExploratoryTest","Payments_01_SendOffer_WithAnyPaymentData_IsMoneyInWalletUpdated","[C101550] Payments: Send offers paying with different values",""

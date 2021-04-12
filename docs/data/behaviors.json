@@ -1,0 +1,30 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Exploratory",
+    "children" : [ {
+      "name" : "Payments",
+      "children" : [ {
+        "name" : "My wallet",
+        "children" : [ {
+          "name" : "[C101550] Payments: Send offers paying with different values",
+          "uid" : "dfc9fdf0b390886",
+          "parentUid" : "36eac195a3a5ee060f28053e44992403",
+          "status" : "passed",
+          "time" : {
+            "start" : 1618268755065,
+            "stop" : 1618268774112,
+            "duration" : 19047
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "36eac195a3a5ee060f28053e44992403"
+      } ],
+      "uid" : "e07be5a72b2de71a5eb7862055ac8115"
+    } ],
+    "uid" : "1b6c9c0121ecd365f097c4cb8857a615"
+  } ]
+}

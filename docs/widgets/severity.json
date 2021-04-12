@@ -1,0 +1,11 @@
+[ {
+  "uid" : "dfc9fdf0b390886",
+  "name" : "[C101550] Payments: Send offers paying with different values",
+  "time" : {
+    "start" : 1618268755065,
+    "stop" : 1618268774112,
+    "duration" : 19047
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "values" : [ "Version:1.121.0-d2104071425, Location granted:yes" ],
+  "name" : "Wallapop_App"
+}, {
+  "values" : [ "Screen size:720x1480px DPI:280, RAM:3GB, Processors:4 cores (1.3GHz)" ],
+  "name" : "Device_System"
+}, {
+  "values" : [ "Locale set:es-ES, Network type:wifi, Location providers:gps,network" ],
+  "name" : "Device_Settings"
+}, {
+  "values" : [ "samsung SM-J610FN, SO:10 API:29, UDID:49ab907c" ],
+  "name" : "Device_Model"
+} ]

@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.wallapop.functionality.payments.payment.test.OfferExploratoryTest",
+    "children" : [ {
+      "name" : "[C101550] Payments: Send offers paying with different values",
+      "uid" : "dfc9fdf0b390886",
+      "parentUid" : "297bee3b22010bf1dfc6f73f96f52428",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618268755065,
+        "stop" : 1618268774112,
+        "duration" : 19047
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "297bee3b22010bf1dfc6f73f96f52428"
+  } ]
+}

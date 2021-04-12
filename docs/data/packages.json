@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.wallapop.functionality.payments.payment.test.OfferExploratoryTest",
+    "children" : [ {
+      "name" : "Payments_01_SendOffer_WithAnyPaymentData_IsMoneyInWalletUpdated",
+      "uid" : "dfc9fdf0b390886",
+      "parentUid" : "ca56165d71d6c5a001413451e2410989",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618268755065,
+        "stop" : 1618268774112,
+        "duration" : 19047
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.wallapop.functionality.payments.payment.test.OfferExploratoryTest"
+  } ]
+}

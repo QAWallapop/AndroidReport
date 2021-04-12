@@ -1,0 +1,94 @@
+{
+  "uid" : "dfc9fdf0b390886",
+  "name" : "[C101550] Payments: Send offers paying with different values",
+  "fullName" : "com.wallapop.functionality.payments.payment.test.OfferExploratoryTest.Payments_01_SendOffer_WithAnyPaymentData_IsMoneyInWalletUpdated",
+  "historyId" : "5bab5b10973c1e7471a1ab9f6f73a613",
+  "time" : {
+    "start" : 1618268755065,
+    "stop" : 1618268774112,
+    "duration" : 19047
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8869e56e7595988c",
+      "name" : "Logcat",
+      "source" : "8869e56e7595988c.log",
+      "type" : "text/plain",
+      "size" : 792380
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Payments"
+  }, {
+    "name" : "story",
+    "value" : "My wallet"
+  }, {
+    "name" : "epic",
+    "value" : "Exploratory"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3BJSC0U"
+  }, {
+    "name" : "thread",
+    "value" : "14312@DESKTOP-3BJSC0U.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.functionality.payments.payment.test.OfferExploratoryTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.functionality.payments.payment.test.OfferExploratoryTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "Payments_01_SendOffer_WithAnyPaymentData_IsMoneyInWalletUpdated"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.functionality.payments.payment.test.OfferExploratoryTest"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "TestRail",
+    "url" : "https://wallapop.testrail.io/index.php?/cases/view/101550",
+    "type" : "custom"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Tests passed",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "dfc9fdf0b390886.json",
+  "parameterValues" : [ ]
+}
